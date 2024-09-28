@@ -1,0 +1,31 @@
+Sure, here are the tables extracted from the text in CSV format:
+
+### Sample Preparation
+
+```csv
+"Sample Components","Preparation Method"
+"Coconut Oil, Gum, Glycerin","Homogeneous mixing, 10-minute stirring"
+"Jojoba Oil","Direct integration"
+"Almond Oil, Vitamin E","Solvent extraction, centrifugation"
+"Almond Oil, Gum, Vitamin E","Blended at medium speed"
+"Jojoba Oil, Glycerin","Mixed through gentle agitation"
+"Jojoba Oil, Cetyl Alcohol, Glycerin","High-speed shake"
+"Coconut Oil, Beeswax, Vitamin E","Heat-induced blending"
+"Coconut Oil, Cetyl Alcohol","Cold emulsification"
+```
+
+### Collected Data
+
+```csv
+"Instrument","Sample Components","Measurement","Units"
+"Gas Chromatograph GC-2010","Coconut Oil, Gum, Glycerin","550","ppm"
+"Gas Chromatograph GC-2010","Jojoba Oil, Vitamin E","350","ppm"
+"Centrifuge X100","Jojoba Oil","12000","RPM"
+"Centrifuge X100","Almond Oil, Cetyl Alcohol","11000","RPM"
+"UV-Vis Spectrophotometer UV-2600","Almond Oil, Vitamin E","2.5","Abs"
+"Spectrometer Alpha-300","Almond Oil, Gum, Vitamin E","750","nm"
+"Microplate Reader MRX","Jojoba Oil, Glycerin","1.2","OD"
+"pH Meter PH-700","Jojoba Oil, Cetyl Alcohol, Glycerin","6.8","pH"
+"Viscometer VS-300","Coconut Oil, Beeswax, Vitamin E","4716.74","cP"
+"Viscometer VS-300","Coconut Oil, Cetyl Alcohol","5175.72","cP"
+```

@@ -1,0 +1,11 @@
+Here is the extracted table in CSV format:
+
+```csv
+Instrument,Settings,Test Sample
+Four Ball FB-1000,Load: N/A,A, G
+Centrifuge X100,Speed: 12500 RPM,B
+pH Meter PH-700,Range: 0-14,C
+Ion Chromatograph IC-2100,"Detection Limit: 0.01 mM",D
+Microplate Reader MRX,Wavelength: 450 nm,E
+UV-Vis Spectrophotometer UV-2600,Range: 200-800 nm,F
+```

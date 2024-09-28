@@ -1,0 +1,20 @@
+Table 1: Mixture Properties Analyzed via Equipment
+
+```plaintext
+Equipment,Sample,Key Component,Measurement,Unit
+Ion Chromatograph,Jojoba Oil, Beeswax, Glycerin,Beeswax,65.32,mM
+Four Ball,Jojoba Oil, Cetyl Alcohol, Vitamin E,Cetyl Alcohol,0.548,mm
+PCR Machine,Almond Oil, Cetyl Alcohol,N/A,28,Ct
+XRD,Almond Oil,N/A,120,C
+Rheometer,Coconut Oil, Cetyl Alcohol, Vitamin E,Vitamin E,850.5,Pa-s
+Spectrometer,Jojoba Oil, Beeswax, Glycerin,Glycerin,320,nm
+```
+
+Table 2: Viscosity Measurements
+
+```plaintext
+Sample Composition,Equipment,Viscosity (cP)
+Coconut Oil,Viscometer VS-300,5052.79
+Coconut Oil, Beeswax,Viscometer VS-300,5024.69
+Almond Oil, Beeswax, Glycerin,Viscometer VS-300,7219.48
+```

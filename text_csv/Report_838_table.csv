@@ -1,0 +1,15 @@
+```csv
+Instrument,Sample Components,Measurement,Unit
+Ion Chromatograph,Jojoba Oil, Gum, Vitamin E,45.6,mM
+Ion Chromatograph,Jojoba Oil,10.5,mM
+Mass Spectrometer,Jojoba Oil, Cetyl Alcohol, Vitamin E,1200,m/z
+Mass Spectrometer,Coconut Oil, Gum, Vitamin E,1500,m/z
+Microplate Reader,Almond Oil, Glycerin,3.2,OD
+Microplate Reader,Almond Oil, Gum, Glycerin,2.7,OD
+pH Meter,Almond Oil, Cetyl Alcohol, Vitamin E,7.8,pH
+pH Meter,Jojoba Oil, Beeswax, Glycerin,6.1,pH
+Centrifuge,Coconut Oil, Gum, Glycerin,8500,RPM
+Centrifuge,Jojoba Oil, Beeswax, Vitamin E,12000,RPM
+Viscometer,Jojoba Oil, Beeswax, Vitamin E,3093.03,cP
+Viscometer,Almond Oil,7610.18,cP
+```

@@ -1,0 +1,27 @@
+Sure, here are the tables extracted from the text in CSV format:
+
+1. **Experimental Procedures and Observations**
+
+```csv
+Instrument,Sample Composition/Study,Observation/Recorded,Remarks/Interpretation
+pH Meter PH-700,Almond Oil & Cetyl Alcohol,Observed pH Level: 7.2,"The pH level remained neutral, suggesting relative stability under basic conditions."
+FTIR Spectrometer FTIR-8400,Jojoba Oil & Gum,Prominent Peak: 1500 1/cm,"The presence of a significant peak at 1500 1/cm may indicate interactions between carbonyl groups usually found in lipid esters."
+Titrator T-905,Jojoba Oil & Beeswax,Concentration Recorded: 0.002 M,"The low molarity signifies limited reactive species within the mixture."
+Gas Chromatograph GC-2010,Coconut Oil & Gum,Component of Interest: Glycerin, 320 ppm,"The trace amount of Glycerin suggests modest hydrophilic interactions."
+HPLC System HPLC-9000,Coconut Oil & Beeswax,Detected Concentration: 550 mg/L,"Gel-like consistency in the sample could be attributed to higher concentrations of substantial components."
+Centrifuge X100,Almond Oil & Cetyl Alcohol,Speed: 12000 RPM,"The separation efficiency at high centrifugal forces separates phases distinctively."
+Rheometer R-4500,Jojoba Oil & Gum,Viscosity Result: 450 Pa-s,"Viscosity indicates strong intermolecular bonds characteristic of semi-solid states."
+Conductivity Meter CM-215,Coconut Oil & Gum,Conductivity Level: 1800 µS/cm,"Elevated conductivity demonstrates the ionic nature of dissolved materials."
+Viscometer VS-300,Coconut Oil, Beeswax, & Vitamin E,"First Trial: 4677.69 cP; Second Trial: 4843.98 cP","Minor variation in trials reflects consistency in viscosity within measurement tolerances."
+```
+
+2. **Table of Irrelevant Data**
+
+```csv
+Random Data ID,Parameter,Irrelevant Detail
+X445,Null,Undefined Value
+12YY,Alpha,Random Text
+0078,Zero,Placeholder
+```
+
+Let me know if you need further assistance!

@@ -1,0 +1,79 @@
+Certainly! Here are the tables extracted from the text in CSV format:
+
+**Table 1: pH Measurements**
+
+```csv
+Ingredients,pH Value
+"Jojoba Oil, Beeswax, Glycerin",7.2
+"Jojoba Oil, Beeswax, Vitamin E",6.8
+"Almond Oil, Beeswax, Vitamin E",7.0
+"Jojoba Oil, Gum",6.9
+"Coconut Oil, Gum, Vitamin E",7.1
+"Jojoba Oil, Gum, Vitamin E",7.3
+"Almond Oil, Gum",6.7
+```
+
+**Table 2: Centrifuge RPMs**
+
+```csv
+Ingredients,RPM Value
+"Jojoba Oil, Beeswax, Glycerin",12000
+"Jojoba Oil, Beeswax, Vitamin E",11500
+"Almond Oil, Beeswax, Vitamin E",12500
+"Jojoba Oil, Gum",13000
+"Coconut Oil, Gum, Vitamin E",13500
+"Jojoba Oil, Gum, Vitamin E",14000
+"Almond Oil, Gum",14500
+```
+
+**Table 3: Ion Concentrations**
+
+```csv
+Ingredients,Ion Concentration (mM)
+"Jojoba Oil, Beeswax, Glycerin",0.95
+"Jojoba Oil, Beeswax, Vitamin E",1.05
+"Almond Oil, Beeswax, Vitamin E",1.10
+"Jojoba Oil, Gum",0.85
+"Coconut Oil, Gum, Vitamin E",1.15
+"Jojoba Oil, Gum, Vitamin E",1.20
+"Almond Oil, Gum",0.90
+```
+
+**Table 4: Crystallinity (C)**
+
+```csv
+Ingredients,Crystallinity (C)
+"Jojoba Oil, Beeswax, Glycerin",120
+"Jojoba Oil, Beeswax, Vitamin E",110
+"Almond Oil, Beeswax, Vitamin E",115
+"Jojoba Oil, Gum",105
+"Coconut Oil, Gum, Vitamin E",125
+"Jojoba Oil, Gum, Vitamin E",130
+"Almond Oil, Gum",135
+```
+
+**Table 5: Spectral Peaks (nm)**
+
+```csv
+Ingredients,Peak (nm)
+"Jojoba Oil, Beeswax, Glycerin",550
+"Jojoba Oil, Beeswax, Vitamin E",560
+"Almond Oil, Beeswax, Vitamin E",570
+"Jojoba Oil, Gum",540
+"Coconut Oil, Gum, Vitamin E",530
+"Jojoba Oil, Gum, Vitamin E",590
+"Almond Oil, Gum",600
+```
+
+**Table 6: Thermal Stability (C)**
+
+```csv
+Ingredients,Thermal Stability (C)
+"Jojoba Oil, Beeswax, Glycerin",60
+"Jojoba Oil, Beeswax, Vitamin E",65
+"Almond Oil, Beeswax, Vitamin E",70
+"Jojoba Oil, Gum",75
+"Coconut Oil, Gum, Vitamin E",80
+"Jojoba Oil, Gum, Vitamin E",85
+"Almond Oil, Gum",90
+```

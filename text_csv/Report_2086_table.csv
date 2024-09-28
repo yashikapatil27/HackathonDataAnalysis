@@ -1,0 +1,27 @@
+Sure! Here are the tables extracted from the text in CSV format:
+
+### Table 1: Sample Composition and Measurement Techniques
+
+```plaintext
+Sample ID,Mixture Components,Measurement Type,Value,Unit,Instrument
+S1,"Almond Oil, Beeswax, Glycerin",FTIR,350,1/cm,FTIR-8400
+S2,"Jojoba Oil, Gum, Vitamin E",HPLC,52.5,mg/L,HPLC-9000
+S3,"Jojoba Oil, Beeswax, Glycerin",X-Ray,75,C,XRD-6000
+S4,"Coconut Oil, Beeswax",Liquid Chromatography,130,ug/mL,LC-400
+S5,"Jojoba Oil, Glycerin",Microplate Reader,1.8,OD,MRX
+S6,"Coconut Oil, Gum, Vitamin E",NMR,15,ppm,NMR-500
+S7,"Almond Oil, Cetyl Alcohol, Vitamin E",Four Ball,0.750,mm,FB-1000
+S8,"Almond Oil, Glycerin",Viscometer,7545.18,cP,VS-300
+S9,"Coconut Oil, Beeswax",Viscometer,4865.19,cP,VS-300
+S10,"Jojoba Oil, Cetyl Alcohol",Viscometer,3016.69,cP,VS-300
+```
+
+### Table 2: Randomly Scattered Data and Observations
+
+```plaintext
+Observation Notes,Irrelevant Details
+Higher baseline noise observed,Room temperature: variable, approx. 23°C
+Some samples exhibited high OD,Lab technician names: [Redacted]
+Unexpected lipid oxidation products,Equipment calibration: semi-annual
+Sample evaporation noted in open trays,Lunch breaks: 12:00 - 12:30 PM
+```

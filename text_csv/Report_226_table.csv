@@ -1,0 +1,51 @@
+Here are the tables extracted from the text in CSV format:
+
+### Table 1: Gas Chromatograph Analysis
+```
+Sample,Compound Identified,Concentration (ppm),Other Notes
+"Jojoba Oil, Gum, Glycerin",Gum,535,ND
+```
+
+### Table 2: X-Ray Diffraction
+```
+Sample,Temperature (°C),Other
+Jojoba Oil,150,Crystalline structure
+```
+
+### Table 3: Mass Spectrometry
+```
+Sample,Compound Identified,m/z,Additional Info
+"Jojoba Oil, Gum, Vitamin E",Vitamin E,890,Molecular richness
+```
+
+### Table 4: Conductivity Measurements
+```
+Sample,Conductivity (uS/cm),Miscellaneous
+"Jojoba Oil, Cetyl Alcohol, Glycerin",1750,High ionic content
+```
+
+### Table 5: NMR Spectroscopy
+```
+Sample,Compound Identified,ppm,Comments
+"Coconut Oil, Gum, Glycerin",Glycerin,15,Structural details clear
+```
+
+### Table 6: Rheological Properties
+```
+Sample,Viscosity (Pa-s),Remarkable Observations
+"Almond Oil, Gum, Glycerin",650,"Consistent with thickening agents"
+```
+
+### Table 7: FTIR Spectroscopy
+```
+Sample,Wavenumber (1/cm),Observation
+"Jojoba Oil, Gum, Glycerin",1500,"Characteristic vibration modes detected"
+```
+
+### Table 8: Viscosity Measurement
+```
+Sample,Viscosity (cP),Annotation
+"Coconut Oil, Cetyl Alcohol",5000.98,Free-flowing
+"Almond Oil, Beeswax",7023.0,Highly viscous
+"Jojoba Oil, Cetyl Alcohol, Glycerin",2717.49,Moderate viscosity
+```

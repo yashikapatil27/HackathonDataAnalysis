@@ -1,0 +1,28 @@
+Here are the tables extracted from the text in CSV format:
+
+**Table 1: Measurements and Observations**
+
+```plaintext
+Testing Method,Sample Combination,Result,Unit
+Four Ball Tester,Jojoba Oil, Cetyl Alcohol,0.550,mm
+Microplate Reader,Coconut Oil, Gum,2.3,OD
+Spectrometer,Coconut Oil, Beeswax,450,nm
+Liquid Chromatograph,Almond Oil, Beeswax, Vitamin E,320,µg/mL
+Gas Chromatograph,Jojoba Oil, Beeswax, Glycerin,50.5,ppm
+X-Ray Diffractometer,Coconut Oil, Glycerin,75,°C
+Ion Chromatograph,Jojoba Oil, Beeswax, Vitamin E,5,mM
+Centrifuge,Jojoba Oil, Vitamin E,12000,RPM
+Titrator,Coconut Oil,0.006,M
+Conductivity Meter,Coconut Oil, Cetyl Alcohol, Vitamin E,1500,µS/cm
+Viscometer,Jojoba Oil, Beeswax, Vitamin E,2890.02,cP
+Viscometer (Duplicate),Jojoba Oil, Cetyl Alcohol,2779.72,cP
+```
+
+**Table 2: Non-Critical Supplementary Notes**
+
+```plaintext
+Incident,Description
+Anomaly Log 1,Lights flickered during microplate reading due to power surge. Data unaffected.
+Anomaly Log 2,Operator error recorded during titration; unrelated to results.
+Miscellaneous Note,Duplicate entry employed for independent verification of viscosity measures.
+```

@@ -1,0 +1,71 @@
+Here are the extracted tables in CSV format:
+
+1. Liquid Chromatography Analysis
+
+```
+Sample ID,Instrument,Measurement (ug/mL)
+144,LC-400,275.32
+```
+
+2. Conductivity Testing
+
+```
+Sample ID,Instrument,Measurement (uS/cm)
+144,CM-215,1350
+```
+
+3. Mechanical Testing - Four Ball Wear
+
+```
+Sample ID,Instrument,Measurement (mm)
+144,FB-1000,0.560
+```
+
+4. pH Testing
+
+```
+Sample ID,Instrument,Measurement (pH)
+144,PH-700,7.35
+```
+
+5. Thermal Analysis
+
+```
+Sample ID,Instrument,Measurement (°C)
+144,TC-5000,37
+```
+
+6. Optical Density Measurement
+
+```
+Sample ID,Instrument,Measurement (OD)
+144,MRX,2.1
+```
+
+7. Solubility Testing
+
+```
+Sample ID,Instrument,Measurement (M)
+144,T-905,0.345
+```
+
+8. X-Ray Diffraction
+
+```
+Sample ID,Instrument,Measurement (°C)
+144,XRD-6000,120
+```
+
+9. UV-Visible Spectroscopy
+
+```
+Sample ID,Instrument,Measurement (Abs)
+144,UV-2600,1.8
+```
+
+10. Viscosity Testing
+
+```
+Sample ID,Instrument,Measurement (cP)
+144,VS-300,1987.78
+```

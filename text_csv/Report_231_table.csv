@@ -1,0 +1,13 @@
+Here is the extracted table in CSV format:
+
+```csv
+Sample Mixture,Instrument Used,Measurement
+Jojoba Oil, Gum, Glycerin,Centrifuge X100,12000 RPM
+Jojoba Oil,FTIR Spectrometer FTIR-8400,500 1/cm
+Coconut Oil, Cetyl Alcohol,XRD X-Ray Diffractometer XRD-6000,150 °C
+Coconut Oil, Gum, Glycerin,Conductivity Meter CM-215,1000 μS/cm
+Almond Oil, Cetyl Alcohol,PCR Machine PCR-96,25 Ct
+Jojoba Oil, Glycerin,Liquid Chromatograph LC-400,250 μg/mL
+Almond Oil, Beeswax, Glycerin,NMR Spectrometer NMR-500,15 ppm
+Jojoba Oil, Gum, Vitamin E,HPLC System HPLC-9000,200 mg/L
+```

@@ -1,0 +1,28 @@
+### Table 1: Physical Properties and Observations
+```plaintext
+Experiment ID,Instrument,Ingredients,Extra Detail,Measurement,Units
+Report_1002,Four Ball FB-1000,Coconut Oil, Almond Oil, Beeswax,Viscosity test,0.800,mm
+Report_1002,Thermocycler TC-5000,Coconut Oil, Cetyl Alcohol, Glycerin,-,60,°C
+```
+
+### Table 2: Chemical Measurements
+```plaintext
+Experiment ID,Instrument,Ingredients,Extra Detail,Measurement,Units
+Report_1002,Gas Chromatograph GC-2010,Almond Oil, Beeswax, Glycerin,Peak analysis,150.0,ppm
+Report_1002,X-Ray Diffractometer XRD-6000,Jojoba Oil, Cetyl Alcohol,Thermal testing,120,°C
+```
+
+### Table 3: Spectroscopic Data
+```plaintext
+Experiment ID,Instrument,Ingredients,Extra Detail,Measurement,Units
+Report_1002,Spectrometer Alpha-300,Almond Oil, Beeswax, Vitamin E,Spectral band,980,nm
+Report_1002,FTIR Spectrometer FTIR-8400,Jojoba Oil, Gum, Vitamin E,Infrared peaks,2900,1/cm
+```
+
+### Table 4: Viscosity Measurements
+```plaintext
+Experiment ID,Instrument,Ingredients,Extra Detail,Measurement,Units
+Report_1002,Viscometer VS-300,Jojoba Oil, Gum, Glycerin,Viscosity,1748.66,cP
+Report_1002,Viscometer VS-300,Almond Oil, Beeswax, Vitamin E,-,7085.94,cP
+Report_1002,Viscometer VS-300,Almond Oil, Gum, Glycerin,-,7483.88,cP
+```

@@ -1,0 +1,21 @@
+**Table 1: Rheological and Molecular Analysis**  
+```plaintext
+Instrument,Sample Mixture,Measurement Type,Value,Unit
+Rheometer R-4500,Jojoba Oil, Gum, Glycerin,Viscosity,785,Pa-s
+Mass Spectrometer MS-20,Almond Oil, Gum, Vitamin E,Molecular Ion (m/z),589,m/z
+```
+
+**Table 2: Chromatographic and Spectral Characteristics**  
+```plaintext
+Instrument,Sample Mixture,Measurement Type,Value,Unit
+Gas Chromatograph GC-2010,Jojoba Oil, Gum, Vitamin E,Concentration,450,ppm
+Spectrometer Alpha-300,Jojoba Oil, Cetyl Alcohol,Wavelength,300,nm
+```
+
+**Table 3: Viscosity and PCR Cycle Threshold**  
+```plaintext
+Instrument,Sample Mixture,Measurement Type,Value,Unit
+PCR Machine PCR-96,Jojoba Oil, Beeswax, Glycerin,Cycle Threshold (Ct),22,Ct
+Viscometer VS-300,Almond Oil, Cetyl Alcohol, Vitamin E,Viscosity,7105.32,cP
+Viscometer VS-300,Almond Oil, Beeswax, Glycerin,Viscosity,7185.05,cP
+```

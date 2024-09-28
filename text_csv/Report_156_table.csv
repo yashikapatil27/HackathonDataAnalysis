@@ -1,0 +1,25 @@
+```csv
+Sample_ID,Instrument,Ingredients,Observation,Measurement,Unit
+Report_156_A,NMR Spectrometer NMR-500,Jojoba Oil, Glycerin,Good clarity observed,12.5,ppm
+Report_156_B,X-Ray Diffractometer XRD-6000,Jojoba Oil, Gum,Weak peak detected,78,°C
+```
+
+```csv
+Sample_ID,Instrument,Ingredients,Observation,Measurement,Unit
+Report_156_C,Centrifuge X100,Coconut Oil, Gum,Sticky,12,000,RPM
+Report_156_D,PCR Machine PCR-96,Coconut Oil, Beeswax,Complex,34,Cycles
+Report_156_E,Rheometer R-4500,Coconut Oil, Cetyl Alcohol,Viscous,150,Pa-s
+```
+
+```csv
+Sample_ID,Instrument,Ingredients,Observation,Measurement,Unit
+Report_156_F,Liquid Chromatograph LC-400,Almond Oil, Vitamin E,Clear separation noted,50.5,μg/mL
+Report_156_G,Mass Spectrometer MS-20,Coconut Oil, Gum,Fragmentation pattern observed,1,250,m/z
+Report_156_H,Thermocycler TC-5000,Jojoba Oil, Glycerin,Enhanced thermal properties,65,°C
+```
+
+```csv
+Sample_ID,Instrument,Ingredients,Irrelevant Information,Measurement,Unit
+Report_156_I,Viscometer VS-300,Almond Oil, Cetyl Alcohol,Consistent flow,7,420.41,cP
+Report_156_J,Viscometer VS-300,Coconut Oil, Beeswax, Vitamin E,Variable tackiness,4,753.98,cP
+```

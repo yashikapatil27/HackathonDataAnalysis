@@ -1,0 +1,15 @@
+```csv
+Mixture Components,Instrument,Measurement,Units,Random Remark
+"Coconut Oil, Beeswax, Vit E",Mass Spectrometer MS-20,1290,m/z,"Nearby construction was noisy."
+"Almond Oil, Gum, Glycerin",Rheometer R-4500,420,Pa-s,"Coffee stain on spectrometer."
+"Jojoba Oil, Beeswax, Vit E",Viscometer VS-300,2467.99,cP,"The lab was unusually warm today."
+"Coconut Oil, Vitamin E",FTIR Spectrometer FTIR-8400,1500,1/cm,
+```
+
+```csv
+Mixture Components,Measurement Type,Value,Units,Notes
+"Jojoba Oil, Beeswax, Vit E",Rheological Viscosity,530,Pa-s,
+"Almond Oil, Beeswax",Titration Acidity,0.08,M,
+"Coconut Oil",FTIR Spectroscopy,4922.06,cP,"Duplicate entry??"
+"Almond Oil, Beeswax, Vit E",Ion Chromatography,65,mM,"Marker ink can't be wiped."
+```

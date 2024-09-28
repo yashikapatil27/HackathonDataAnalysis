@@ -1,0 +1,68 @@
+Certainly! Below are the extracted tables from the text in CSV format:
+
+**UV-Vis Spectrophotometry**
+```csv
+Instrument,Sample,Primary Measure
+UV-2600,"Almond Oil, Beeswax, Vitamin E",Absorbance: 1.2
+```
+
+**X-Ray Diffraction Analysis**
+```csv
+Instrument,Sample,Measurement
+XRD-6000,Almond Oil,"Diffraction angle: 45 °C"
+```
+
+**Centrifugation Profiling**
+```csv
+Device,Sample,Speed
+Centrifuge X100,"Coconut Oil, Beeswax",5000 RPM
+```
+
+**Spectral Analysis**
+```csv
+Spectrometer,Sample,Critical Wavelength
+Alpha-300,"Jojoba Oil, Beeswax, Vitamin E",465 nm
+```
+
+**Chromatographic Examination**
+```csv
+Gas Chromatograph,Sample,Concentration
+GC-2010,"Almond Oil, Beeswax, Glycerin",15 ppm
+```
+
+**Thermocycling Profiling**
+```csv
+Thermocycler,Sample,Denaturation Temperature
+TC-5000,Jojoba Oil,72 °C
+```
+
+**PCR Analysis**
+```csv
+Machine,Sample,Cycle Threshold (Ct)
+PCR-96,"Jojoba Oil, Gum, Vitamin E",28
+```
+
+**pH Measurement**
+```csv
+Device,Sample,pH Level
+PH-700,"Almond Oil, Cetyl Alcohol, Vitamin E",6
+```
+
+**NMR Spectroscopy**
+```csv
+Instrument,Sample,Chemical Shift
+NMR-500,"Jojoba Oil, Cetyl Alcohol, Vitamin E",7.2 ppm
+```
+
+**Liquid Chromatography**
+```csv
+Device,Sample,Concentration
+LC-400,"Almond Oil, Beeswax, Vitamin E",55 μg/mL
+```
+
+**Viscosity Measurements**
+```csv
+Viscometer,Sample,Viscosity
+VS-300,"Jojoba Oil, Beeswax, Vitamin E",3152.03 cP
+VS-300,"Almond Oil, Cetyl Alcohol",7368.25 cP
+```

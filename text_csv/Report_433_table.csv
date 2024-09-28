@@ -1,0 +1,48 @@
+Sure, here are the tables in CSV format:
+
+### Table 1: Chemical Quantification Using HPLC
+```csv
+Sample,Concentration (mg/L)
+Jojoba Oil,96.4
+Jojoba Oil, Beeswax,580.3
+```
+
+### Table 2: Molecular Analysis Using NMR
+```csv
+Sample,Measurement (ppm)
+Jojoba Oil, Beeswax,17.8
+Jojoba Oil, Cetyl Alcohol,19.6
+```
+
+### Table 3: Temperature and Physical Tests
+```csv
+Sample,Temp (°C),RPM
+Jojoba Oil,78,12000
+Jojoba Oil, Beeswax,-,14500
+Jojoba Oil, Beeswax, Vitamin E,45,-
+```
+
+### Table 4: Miscellaneous Concentrations and Properties
+```csv
+Sample,Concentration,Unit
+Jojoba Oil, Beeswax,0.55,mM
+Coconut Oil, Gum,0.75,mM
+Jojoba Oil, Gum, Vitamin E,240.5,µg/mL
+Coconut Oil, Gum, Glycerin,320.1,µg/mL
+Coconut Oil, Gum,5252.56,cP
+Coconut Oil, Gum, Vitamin E,5152.78,cP
+```
+
+### Table 5: pH Levels
+```csv
+Sample,pH
+Jojoba Oil, Gum,5.6
+Jojoba Oil, Beeswax, Vitamin E,4.4
+```
+
+### Table 6: Gas Chromatography Results
+```csv
+Sample,Measurement (ppm)
+Jojoba Oil,750.5
+Jojoba Oil, Cetyl Alcohol,882.3
+```
