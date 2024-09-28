@@ -1,0 +1,146 @@
+# Lab Report: Analysis of Cosmetic Mixtures 
+
+
+
+## Introduction
+
+
+
+The purpose of this lab report is to document the results of various analytical tests conducted on different cosmetic mixtures. The testing was conducted using multiple instruments, each tailored to evaluate specific properties of these mixtures. Through UV-Vis spectrophotometry, FTIR spectroscopy, rheometry, and more, we have assessed the compositional and physical properties of each mixture to provide detailed insights. Note that extraneous data is included to ensure comprehensive documentation.
+
+
+
+## Experimental Methodology
+
+
+
+### 1. UV-Vis Spectrophotometry
+
+
+
+UV-Vis Spectrophotometry is employed to measure the absorbance of light by the samples. It is critical in determining the concentration of active components in each mixture.
+
+
+
+### 2. Fourier-transform Infrared (FTIR) Spectroscopy
+
+
+
+FTIR Spectroscopy identifies functional groups within mixtures through characteristic peaks measured in 1/cm. This method provides molecular identification that is crucial for understanding the structural composition.
+
+
+
+### 3. Rheometry
+
+
+
+Rheometric analysis helps in understanding the flow characteristics of the mixtures, giving insight into their viscosity and elasticity. 
+
+
+
+### 4. Conductivity Measurement
+
+
+
+Conductivity measurements are used to assess the ionic content of oil-based mixtures, indicating potential efficacy in skincare applications.
+
+
+
+### 5. Viscometry
+
+
+
+Viscometry measures the internal friction and flow characteristics of lipids in the mixtures, necessary for texture assessment in cosmetic products.
+
+
+
+---
+
+
+
+## Results
+
+
+
+Below is an amalgamation of the observed data from the experiments conducted:
+
+
+
+| Instrument                       | Primary Compounds               | Secondaries      | Additional Components | Measurement | Unit      |
+
+|----------------------------------|---------------------------------|------------------|-----------------------|-------------|-----------|
+
+| UV-Vis Spectrophotometer UV-2600 | Jojoba Oil, Beeswax             | Glycerin         |                       | 1.75        | Abs       |
+
+| Spectrometer Alpha-300           | Almond Oil, Cetyl Alcohol       | Vitamin E        |                       | 650         | nm        |
+
+| Rheometer R-4500                 | Coconut Oil, Gum                | Glycerin         |                       | 250         | Pa-s      |
+
+| FTIR Spectrometer FTIR-8400      | Almond Oil, Beeswax             | Glycerin         |                       | 3450        | 1/cm      |
+
+| UV-Vis Spectrophotometer UV-2600 | Almond Oil, Cetyl Alcohol       | Glycerin         |                       | 2.85        | Abs       |
+
+| Conductivity Meter CM-215        | Coconut Oil, Vitamin E          |                  |                       | 800         | uS/cm     |
+
+| Spectrometer Alpha-300           | Almond Oil, Gum                 |                  |                       | 950         | nm        |
+
+| FTIR Spectrometer FTIR-8400      | Almond Oil, Beeswax             |                  |                       | 2500        | 1/cm      |
+
+| Viscometer VS-300                | Almond Oil, Gum                 |                  |                       | 7611.69     | cP        |
+
+| Viscometer VS-300                | Jojoba Oil, Beeswax             | Glycerin         |                       | 2739.01     | cP        |
+
+
+
+### Observations
+
+
+
+#### **Sample 1: Jojoba Oil, Beeswax, Glycerin**
+
+- **UV Absorbance:** Recorded at 1.75 Abs which suggests moderate light absorption typically associated with phenolic compounds in Jojoba oil.
+
+- **Viscosity (cP):** 2739.01 indicating a relatively thick consistency appropriate for creams and ointments.
+
+
+
+#### **Sample 2: Almond Oil, Cetyl Alcohol, Vitamin E**
+
+- **Spectrometric Analysis:** Peak observed at 650 nm, suggesting potential interference from Vitamin E in the emulsification process.
+
+- **FTIR Peak:** Detected at 3450 1/cm, indicative of hydroxyl groups from glycerin and solitary alcohol groups.
+
+
+
+#### **Sample 3: Coconut Oil, Gum, Glycerin**
+
+- **Rheometer Reading:** 250 Pa-s, which suggests a stable emulsification optimal for gels and emulsions.
+
+- **Conductivity:** Recorded a value of 800 uS/cm, signifying a decent level of ionic concentration beneficial in emollient properties.
+
+
+
+### Complexities and Anomalies:
+
+
+
+Randomly encountered non-relevant data points include spectral peaks at thresholds unrelated to the mixtures tested, and inclusion of non-existent minor impurities that were flagged by outdated instrumentation.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The detailed analysis across various spectrometric and measurement platforms has provided valuable insights into the properties of different cosmetic mixtures. Each instrument successfully highlighted unique characteristics, indicating the suitability of these mixtures for specific cosmetic applications such as moisturizers, serums, and ointments. The presence of discrepancies in obsolete logging equipment demanded careful manual cross-referencing to ensure data integrity.
+
+
+
+**Note**: Extraneous information is embedded throughout this report, ensuring complexity in data extraction, reflecting an integrated analytical approach comprehensively beyond mere automated gathering processes.
+
+
+Tables:

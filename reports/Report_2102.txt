@@ -1,0 +1,178 @@
+# Lab Report: Analysis of Various Oil Mixtures
+
+
+
+**Report ID**: 2102
+
+
+
+---
+
+
+
+### Introduction
+
+
+
+This report presents the analysis of different oil mixtures using advanced laboratory equipment. The objective was to evaluate properties such as viscosity, acidity, saturation, and other characteristics through various techniques. The presence of compounds and impurities in these mixtures was assessed using chromatographic, spectroscopic, and titrimetric methods, among others. The tested mixtures included combinations of oils and additives such as Beeswax, Gum, and Vitamin E.
+
+
+
+---
+
+
+
+### Materials and Methods
+
+
+
+In this study, we employed a range of analytical devices to test different oil mixtures. These included:
+
+
+
+- **Gas Chromatograph (GC-2010)**
+
+- **pH Meter (PH-700)**
+
+- **Centrifuge (X100)**
+
+- **Four Ball Tester (FB-1000)**
+
+- **Mass Spectrometer (MS-20)**
+
+- **Titrator (T-905)**
+
+- **Conductivity Meter (CM-215)**
+
+- **FTIR Spectrometer (FTIR-8400)**
+
+- **Viscometer (VS-300)**
+
+
+
+The mixtures and methods used are detailed in the following section.
+
+
+
+---
+
+
+
+### Observations and Measurements
+
+
+
+#### Table 1: Chemical Analysis and Physical Properties
+
+
+
+| Equipment                 | Test Sample                        | Component       | Measurement  | Unit   |
+
+|---------------------------|------------------------------------|-----------------|--------------|--------|
+
+| Gas Chromatograph GC-2010 | Coconut Oil, Gum                   | -               | 150          | ppm    |
+
+| pH Meter PH-700           | Jojoba Oil, Beeswax                | -               | 5.6          | pH     |
+
+| Centrifuge X100           | Jojoba Oil, Gum                    | -               | 5000         | RPM    |
+
+| Four Ball FB-1000         | Almond Oil, Beeswax, Glycerin      | -               | 0.450        | mm     |
+
+| Mass Spectrometer MS-20   | Jojoba Oil, Glycerin               | -               | 850          | m/z    |
+
+| Titrator T-905            | Almond Oil                         | -               | 0.005        | M      |
+
+| Conductivity Meter CM-215 | Coconut Oil, Gum                   | -               | 1000         | uS/cm  |
+
+| FTIR Spectrometer FTIR-8400| Jojoba Oil, Beeswax               | -               | 1500         | 1/cm   |
+
+
+
+Irrelevant notes: The weather outside was sunny. The pH probe needed recalibration on Tuesday.
+
+
+
+#### Table 2: Viscosity Analysis
+
+
+
+| Equipment      | Mixture                                    | Viscosity (cP)  |
+
+|----------------|--------------------------------------------|-----------------|
+
+| Viscometer VS-300 | Almond Oil, Gum, Vitamin E        | 7758.0          |
+
+| Viscometer VS-300 | Almond Oil, Gum                     | 7821.42         |
+
+| Viscometer VS-300 | Almond Oil, Cetyl Alcohol           | 7162.76         |
+
+
+
+Irrelevant text: The shelf in Lab 3 is broken. The coffee machine was fixed yesterday.
+
+
+
+---
+
+
+
+### Results and Discussion
+
+
+
+The analysis revealed the varying chemical and physical properties of the mixtures:
+
+
+
+1. **Gas Chromatograph and Conductivity Analysis**: The test of Coconut Oil with Gum indicated impurities measured at 150 ppm and a conductivity of 1000 uS/cm. These findings suggest significant ionic presence, likely due to the gum content.
+
+
+
+2. **pH Measurement**: The combination of Jojoba Oil and Beeswax registered a pH of 5.6, consistent with slightly acidic mixtures, which is important for applications involving skin contact.
+
+
+
+3. **Centrifuge Efficiency**: The Jojoba Oil-Gum mixture achieved separation at 5000 RPM. This speed was optimal for isolating constituents without thermal degradation.
+
+
+
+4. **FTIR Spectroscopy**: The test returned a peak at 1500 1/cm, indicative of possible functional groups in the Jojoba Oil-Beeswax mixture.
+
+
+
+5. **Viscosity Insights**: Notably, the presence of Cetyl Alcohol in Almond Oil reduced viscosity to 7162.76 cP compared to mixtures with Gum and Vitamin E. This suggests enhanced fluidity due to surfactant properties of cetyl alcohol.
+
+
+
+6. **Mass Spectrometry**: The Jojoba Oil and Glycerin mixture showed a dominant ion peak at 850 m/z. This mass-to-charge ratio helps identify structural key elements within the mixture.
+
+
+
+7. **Four Ball Wear Test**: The Almond Oil sample containing Beeswax and Glycerin showed a wear scar diameter of 0.450 mm, indicating moderate lubricity.
+
+
+
+8. **Titration Data**: The Almond Oil demonstrated low acidity with a measurement of 0.005 M, confirming its suitability for culinary applications.
+
+
+
+Irrelevant comment: The lab assistant prefers tea over coffee.
+
+
+
+---
+
+
+
+### Conclusion
+
+
+
+Through comprehensive analysis, critical properties of various oil mixtures were elucidated. Each mixture displayed unique characteristics suitable for different industrial applications. Future research could explore the long-term stability and performance of these mixtures in relevant scenarios.
+
+
+
+Random note: Laboratory supply delivery scheduled for next Thursday.
+
+
+Tables:

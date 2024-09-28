@@ -1,0 +1,114 @@
+# Lab Report: Study of Various Compositions and Testing Equipment
+
+
+
+### Report ID: Report_687
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+This study explores the physical properties and stability of multiple cosmetic-grade mixtures through various testing methodologies. Each test sample was composed of different oils, waxes, and emulsifiers combined with a specific set of ingredients such as Jojoba Oil, Coconut Oil, and Almond Oil. The samples were analyzed utilizing a range of advanced instruments including a Thermocycler, UV-Vis Spectrophotometer, Centrifuge, Gas Chromatograph, NMR Spectrometer, Four Ball Tester, and Viscometer. The objective was to determine the effective performance and potential applications of these mixtures.
+
+
+
+## Observations and Measurements
+
+
+
+### Table 1: Thermocycler Analysis
+
+| Instrument              | Sample Composition            | Additives          | Measurement   | Unit |
+
+|-------------------------|-------------------------------|--------------------|---------------|------|
+
+| Thermocycler TC-5000    | Jojoba Oil, Gum, Vitamin E    | None               | 76            | °C   |
+
+
+
+*Observation:* The thermocycler maintained the temperature stability during the testing of Jojoba Oil and Gum. The inclusion of Vitamin E did not alter the temperature threshold significantly, suggesting thermal compatibility.
+
+
+
+### Table 2: UV-Vis Spectrophotometer Analysis
+
+| Instrument                  | Sample Composition            | Additives          | Measurement   | Unit |
+
+|-----------------------------|-------------------------------|--------------------|---------------|------|
+
+| UV-Vis Spectrophotometer UV-2600 | Coconut Oil, Cetyl Alcohol  | Vitamin E          | 2.4           | Abs  |
+
+
+
+*Observation:* The absorbance measurement indicates a moderate level of light penetration through the Coconut Oil and Cetyl Alcohol mixture, potentially highlighting the presence of Vitamin E absorption peaks.
+
+
+
+### Table 3: Centrifuge and Gas Chromatograph Analysis
+
+
+
+| Instrument                     | Sample Composition              | Additives          | Measurement                 | Unit |
+
+|--------------------------------|---------------------------------|--------------------|-----------------------------|------|
+
+| Centrifuge X100                | Almond Oil, Cetyl Alcohol       | Glycerin           | 12000                       | RPM  |
+
+| Gas Chromatograph GC-2010      | Almond Oil, Beeswax             | Glycerin           | 350                         | ppm  |
+
+
+
+*Observation:* The centrifuge efficiently separated components of the Almond Oil and Cetyl Alcohol mixture. The gas chromatographic analysis of Almond Oil and Beeswax provided insights into the presence of glycerin at a relatively low concentration.
+
+
+
+### Table 4: NMR and Four Ball Test Analysis
+
+
+
+| Instrument              | Sample Composition            | Additives          | Measurement   | Unit |
+
+|-------------------------|-------------------------------|--------------------|---------------|------|
+
+| NMR Spectrometer NMR-500| Almond Oil, Gum               | Glycerin           | 15            | ppm  |
+
+| Four Ball FB-1000       | Coconut Oil, Cetyl Alcohol    | Glycerin           | 0.750         | mm   |
+
+
+
+*Observation:* The NMR results indicated the presence of glycerin-related chemical shifts. In the four-ball wear test, the mixture of Coconut Oil and Cetyl Alcohol demonstrated minimal wear, indicating good lubrication properties.
+
+
+
+### Table 5: Viscosity Measurements
+
+| Instrument              | Sample Composition              | Additives         | Measurement   | Unit |
+
+|-------------------------|----------------------------------|-------------------|---------------|------|
+
+| Viscometer VS-300       | Coconut Oil                       | None              | 5068.51       | cP   |
+
+| Viscometer VS-300       | Coconut Oil, Cetyl Alcohol       | None              | 5074.38       | cP   |
+
+| Viscometer VS-300       | Almond Oil, Vitamin E            | None              | 7600.37       | cP   |
+
+
+
+*Observation:* The viscosity of the compositions differed significantly, with the Almond Oil and Vitamin E mixture exhibiting a notably higher viscosity level compared to those containing only Coconut Oil.
+
+
+
+## Conclusion and Results
+
+
+
+The range of mechanical and analytical tests conducted in this study affirms the potential applications of these customized oil mixtures in cosmetic formulations. Notably, the thermocycler and viscometer provided valuable data on temperature stability and flow characteristics, respectively. The impact of additives such as Vitamin E was evident in altering the physical and chemical interactions within mixtures. Moreover, the use of NMR and Gas Chromatography offered precise insights into molecular stability and composition concentration, key for formulating products with desired attributes. Overall, the corroborative data from differing analytical instruments underscores the utility of these compositions in industrial applications.
+
+
+Tables:

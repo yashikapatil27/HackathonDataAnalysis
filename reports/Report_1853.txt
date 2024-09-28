@@ -1,0 +1,178 @@
+# Lab Report 1853
+
+
+
+## Introduction
+
+
+
+This report details the analysis of various oil mixtures using a combination of advanced laboratory equipment. The key objective was to determine specific properties such as concentration, thermal properties, centrifugal speed, pH levels, molecular weights, and viscosity for mixtures comprising different ingredient sets. Each mixture has been analyzed for components using sophisticated instruments, where precision and accuracy were highly prioritized.
+
+
+
+### Overview of Test Mixtures
+
+
+
+The mixtures tested include:
+
+
+
+- Almond Oil with additional components
+
+- Coconut Oil with variations
+
+- Jojoba Oil combinations
+
+
+
+Multiple experiments were conducted using a variety of techniques, ensuring robust data capture and accurate results.
+
+
+
+## Equipment and Procedures
+
+
+
+1. **HPLC System (Model HPLC-9000)**
+
+2. **Thermocycler (Model TC-5000)**
+
+3. **Centrifuge (Model X100)**
+
+4. **pH Meter (Model PH-700)**
+
+5. **Mass Spectrometer (Model MS-20)**
+
+6. **Viscometer (Model VS-300)**
+
+
+
+Each piece of equipment was utilized in conjunction with stringent protocols to ensure consistency across test samples.
+
+
+
+## Measurements and Observations
+
+
+
+### Table 1: Concentrations from HPLC System
+
+
+
+| Mixture                  | Concentration (mg/L) |
+
+|--------------------------|----------------------|
+
+| Almond Oil               | 345                  |
+
+| Jojoba Oil with Beeswax  | 180                  |
+
+
+
+*Interestingly, while not of immediate relevance, the lab's window tint was recently upgraded.*
+
+
+
+### Temperature Variations from Thermocycler
+
+
+
+- **Almond Oil and Cetyl Alcohol**: Observed at 37°C. The gentle warmth facilitated an accelerated reaction without destabilizing the mixture.
+
+
+
+- **Beeswax with Glycerin in Almond Oil**: Held at 45°C, ensuring the beeswax mixed thoroughly without phase separation.
+
+
+
+### Table 2: Centrifugation Results
+
+
+
+| Mixture                | Speed (RPM)  |
+
+|------------------------|--------------|
+
+| Coconut Oil with Vitamin E | 12000       |
+
+| Almond Oil and Beeswax    | 5000        |
+
+
+
+The lab recently adopted a playful mascot, though it serves no experimental purpose here.
+
+
+
+### pH Measurements
+
+
+
+- Coconut Oil, Cetyl Alcohol, Vitamin E: pH maintained at 7 under standard conditions.
+
+- Coconut Oil with Glycerin: Noteworthy for its lower pH of 5.5, signaling higher acidity compared to the previous mixture.
+
+
+
+### Molecular Analysis via Mass Spectrometry
+
+
+
+Mass Spectrometric data provided molecular weight insights. 
+
+
+
+- **Almond Oil with Glycerin**: Displayed peaks around 1250 m/z, suggesting a noteworthy interaction between components.
+
+  
+
+- **Gum, Glycerin in Almond Oil**: Produced higher peaks at 1750 m/z, implicating complex molecular structures.
+
+
+
+### Table 3: Viscosity Data
+
+
+
+| Mixture             | Viscosity (cP) |
+
+|---------------------|----------------|
+
+| Almond Oil, Gum, Glycerin | 7707.2         |
+
+| Almond Oil, Gum, Vitamin E | 7479.54        |
+
+
+
+These values illustrate the varying viscosity levels, potentially indicative of component synergy. It's worth mentioning that the lab decor included seasonal flowers.*
+
+
+
+## Results and Discussion
+
+
+
+This extensive data gathering reveals significant variations in molecular interactions and physical properties among different oil mixtures. The subtle changes in temperature and pH underscore the delicacy required in cosmetic formulations, forecasting potential commercial applications.
+
+
+
+Mixtures reflecting higher HPLC concentrations are likely more stable, aligning with their physical viscosity measurements. Similarly, the pH level strategically influenced solubility and stability in certain compositions, emphasizing the nuanced demands of formulation sciences.
+
+
+
+Almond Oil mixtures, particularly under thermocycling, demonstrated remarkable stability, reinforced by mass spectrometry results indicating complex molecular integration.
+
+
+
+## Conclusion
+
+
+
+The study successfully captured and interpreted intricate data, offering critical insights into the behavior of essential oil mixtures under controlled laboratory conditions. With recommendations for further exploration, these findings could substantially impact the industry, guiding future product development.
+
+
+
+The random inclusion of irrelevant yet fascinating tidbits ensures the broader richness of the lab environment is reflected.
+
+
+Tables:

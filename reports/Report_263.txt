@@ -1,0 +1,130 @@
+# Lab Report: Analysis of Various Oil-Based Mixtures
+
+
+
+## Report ID: 263
+
+
+
+### Introduction
+
+
+
+This report provides a comprehensive analysis of various oil-based mixtures using different spectrometric and viscometric techniques. The objective was to understand the interaction of different components such as oils, waxes, and additives in these mixtures. Each experimental setup involved specific combinations of ingredients subjected to various analytical instruments to determine their physical and chemical properties.
+
+
+
+### Materials & Methods
+
+
+
+#### Experimental Setup
+
+
+
+1. **Four Ball FB-1000**: Utilized to assess the wear protection capability of oil mixtures.
+
+2. **FTIR Spectrometer FTIR-8400**: Employed for analyzing the molecular composition.
+
+3. **UV-Vis Spectrophotometer UV-2600**: Used to examine the optical properties.
+
+4. **Mass Spectrometer MS-20**: Used for determining molecular weights.
+
+5. **Conductivity Meter CM-215**: To measure the conductivity of the mixtures.
+
+6. **Spectrometer Alpha-300**: For measuring absorbance at specific wavelengths.
+
+7. **Viscometer VS-300**: To evaluate the viscosity of the oil mixtures.
+
+
+
+### Results
+
+
+
+#### Table 1: Mechanical and Spectroscopic Measurements
+
+
+
+| Instrument                  | Mixture Composition       | Measurement Value | Unit   |
+
+|-----------------------------|---------------------------|-------------------|--------|
+
+| Four Ball FB-1000           | Coconut Oil, Beeswax, Vitamin E | 0.680             | mm     |
+
+| Four Ball FB-1000           | Almond Oil, Beeswax, Vitamin E | 0.450             | mm     |
+
+| FTIR Spectrometer FTIR-8400 | Almond Oil, Beeswax, Glycerin  | 1234              | 1/cm   |
+
+| FTIR Spectrometer FTIR-8400 | Almond Oil, Vitamin E         | 1987              | 1/cm   |
+
+| UV-Vis Spectrophotometer UV-2600 | Almond Oil, Beeswax, Vitamin E | 1.8               | Abs    |
+
+
+
+#### Table 2: Additional Spectroscopic Observations
+
+
+
+| Instrument                  | Mixture Composition       | Peak Measurement | Unit  |
+
+|-----------------------------|---------------------------|------------------|-------|
+
+| UV-Vis Spectrophotometer UV-2600 | Coconut Oil, Vitamin E   | 2.1              | Abs   |
+
+| Spectrometer Alpha-300      | Almond Oil, Beeswax        | 650              | nm    |
+
+| Mass Spectrometer MS-20     | Jojoba Oil                 | 500              | m/z   |
+
+
+
+#### Table 3: Conductivity and Viscosity Data
+
+
+
+| Instrument             | Mixture Composition       | Measurement Value | Unit   |
+
+|------------------------|---------------------------|-------------------|--------|
+
+| Conductivity Meter CM-215 | Coconut Oil, Gum, Vitamin E | 350               | uS/cm |
+
+| Viscometer VS-300      | Almond Oil, Vitamin E     | 7303.92           | cP    |
+
+| Viscometer VS-300      | Almond Oil, Cetyl Alcohol, Vitamin E | 7266.2            | cP    |
+
+| Viscometer VS-300      | Almond Oil                 | 7693.62            | cP    |
+
+
+
+### Discussion
+
+
+
+The oil-based mixtures tested exhibited varying properties based on their composition. For instance, the measurement using the Four Ball Tester showed that the Coconut Oil mixture provided better wear resistance (0.680 mm) compared to its Almond Oil counterpart (0.450 mm). 
+
+
+
+Meanwhile, FTIR analysis suggested significant molecular differences between almond oil-based mixtures, indicated by absorption peaks at 1234 1/cm and 1987 1/cm. The presence of Beeswax appears to influence the spectral characteristics substantially. The UV-Vis analysis reinforced these findings with notable absorbance peaks when different combinations were exposed to ultraviolet-visible light.
+
+
+
+Conductivity measurements, particularly in the presence of additives such as Gum and Vitamin E with Coconut Oil, reached up to 350 uS/cm, indicating a reasonably conductive mixture. Notably, viscosity measurements varied across almond oil mixtures, highlighting the significant impact of additional components like Cetyl Alcohol and Vitamin E on fluid resistance—ranging from 7266.2 cP to 7693.62 cP.
+
+
+
+### Conclusions
+
+
+
+This intricate analysis reveals the importance of component interactions within oil-based mixtures and their resultant properties. The data garnered from different analytical instruments provide a multi-faceted view of how oils and additives behave under mechanical, spectral, and fluid dynamic conditions. Further research should focus on exploring additional combinations and environments to better understand these interactions.
+
+
+
+### References
+
+
+
+- Data has been collated from measurements taken with the following instruments: Four Ball FB-1000, FTIR-8400, UV-2600, MS-20, CM-215, Alpha-300, and VS-300 as per document #Report_263.
+
+
+Tables:

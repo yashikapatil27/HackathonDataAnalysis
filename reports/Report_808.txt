@@ -1,0 +1,198 @@
+# Laboratory Report: Analysis of Various Oil-Based Mixtures
+
+
+
+## Introduction
+
+
+
+This laboratory study involved analyzing various oil-based mixtures using different instrumentation techniques. The objective was to characterize each sample based on its chemical composition and physical properties. For this analysis, mixtures containing ingredients such as jojoba oil, coconut oil, almond oil, and others were evaluated. Analytical techniques applied included ion chromatography (IC), high-performance liquid chromatography (HPLC), Fourier-transform infrared spectroscopy (FTIR), and other relevant methods.
+
+
+
+### Equipment and Methods
+
+
+
+* **Ion Chromatography (IC):** Utilized IC-2100 for ionic analysis.
+
+* **High-Performance Liquid Chromatography (HPLC):** Employed HPLC-9000 for detecting analytes in complex mixtures.
+
+* **Fourier-Transform Infrared Spectroscopy (FTIR):** Analyzed samples with FTIR-8400.
+
+* **pH Meter:** PH-700 meter provided pH levels.
+
+* **Four Ball Wear Tester:** Measurement of wear scar diameter using FB-1000.
+
+* **Viscometer:** Assessment of mixture viscosity with VS-300.
+
+
+
+### Materials
+
+
+
+1. **Sample A:** Jojoba Oil, Gum, Glycerin
+
+2. **Sample B:** Jojoba Oil, Beeswax
+
+3. **Sample C:** Almond Oil, Cetyl Alcohol, Glycerin
+
+4. **Sample D:** Coconut Oil
+
+5. **Sample E:** Jojoba Oil, Gum, Vitamin E
+
+6. **Sample F:** Coconut Oil, Beeswax, Glycerin
+
+7. **Sample G:** Almond Oil, Glycerin
+
+8. **Sample H:** Jojoba Oil, Glycerin
+
+9. **Sample I:** Almond Oil, Cetyl Alcohol
+
+10. **Sample J:** Coconut Oil, Beeswax
+
+11. **Sample K:** Coconut Oil, Gum
+
+12. **Sample L:** Almond Oil, Beeswax, Glycerin
+
+
+
+---
+
+
+
+### Observations and Results
+
+
+
+Detailed observations were recorded during the analysis. In particular, the following results were obtained.
+
+
+
+#### Ion Chromatography
+
+
+
+| Sample ID | Main Ingredient  | Minor Components | Concentration (mM) | Observation Code |   
+
+|-----------|------------------|------------------|---------------------|-----------------|
+
+| A         | Jojoba Oil       | Gum, Glycerin    | 72.5                | IC1             |
+
+| F         | Coconut Oil      | Beeswax, Glycerin| 85.1                | IC2             |
+
+
+
+> Note: The observed ionic concentration varied significantly between samples A and F, potentially indicating differences in ionic interaction and solubilization ability within complex matrices.
+
+
+
+#### High-Performance Liquid Chromatography
+
+
+
+| Sample ID | Main Ingredient  | Concentration (mg/L) | HPLC Observation Notes |
+
+|-----------|------------------|----------------------|------------------------|
+
+| B         | Jojoba Oil       | 245.3                | HPLC1: Unexpected peak at 140 nm indicates potential impurity. |
+
+| G         | Almond Oil       | 732.4                | HPLC2: Consistent peak pattern; matches standard entirely.      |
+
+
+
+#### Fourier-Transform Infrared Spectroscopy
+
+
+
+| Sample ID | Main Ingredient  | Wavenumber (1/cm) | Spectral Characteristics |
+
+|-----------|------------------|------------------|---------------------------|
+
+| C         | Almond Oil       | 1450             | FTIR1: Sharp peak confirming specific aliphatic stretch. |
+
+| H         | Jojoba Oil       | 2500             | FTIR2: Broad absorption band, indicating more diverse functional groups.|
+
+
+
+#### pH Measurements
+
+
+
+| Sample ID | Main Ingredient | pH  | pH Meter Observation |
+
+|-----------|-----------------|-----|----------------------|
+
+| D         | Coconut Oil     | 7   | pH_1: Neutral, consistent with expected value. |
+
+| I         | Almond Oil      | 6.5 | pH_2: Slightly acidic; possible influence of cetyl alcohol.|
+
+
+
+#### Four Ball Wear Test
+
+
+
+| Sample ID | Main Ingredient  | Wear Scar Diameter (mm) | Observation |
+
+|-----------|------------------|-------------------------|-------------|
+
+| E         | Jojoba Oil       | 0.650                   | FB1: Minimal wear, high lubrication efficiency noted. |
+
+| J         | Coconut Oil      | 0.800                   | FB2: Slightly increased wear; further evaluation recommended.|
+
+
+
+#### Viscosity Analysis
+
+
+
+| Sample ID | Main Ingredient   | Viscosity (cP) | Observations |
+
+|-----------|-------------------|----------------|--------------|
+
+| K         | Coconut Oil       | 5355.75        | VS1: Moderate viscosity; consistent flow profile observed. |
+
+| L         | Almond Oil        | 7404.17        | VS2: Elevated viscosity reading; potential sample prep issues.|
+
+
+
+---
+
+
+
+### Discussion
+
+
+
+The complex interplay of the ingredients used in each test sample led to a variety of results across analytical techniques. For instance, HPLC analysis suggested possible contamination in some samples, an anomaly also noticed via specific IC tests. Further testing would be required for locating specific impurities. FTIR spectrometry successfully identified characteristic functional groups, supporting initial hypotheses regarding mixture composition.
+
+
+
+pH and mechanical wear tests exemplified how physical properties varied with chemical makeup, which was seen in the performance evaluation differences between samples E and J. The viscosity measurements confirmed anticipated trends but also showcased unexpected anomalies that merit further process optimization discussions.
+
+
+
+### Conclusion
+
+
+
+This comprehensive report amalgamates detailed analytical processes and the direct implications of ingredient mixtures. Future studies might choose to delve deeper into synergistic effects between oil bases and minor components, particularly those seen in wear and viscosity, to refine product optimization processes.
+
+
+
+**Notes:**
+
+Irrelevant information detached for clarity within the experimental context has been omitted to focus solely on pertinent data reflection. Such information included unrelated sample findings and historical elemental readings not crucial to this analysis.
+
+
+
+---
+
+
+
+This report ensures a multi-dimensional approach in depicting results while maintaining a robust, albeit challenging, data presentation method. Automated extraction processes may find difficulty due to the intricate layout and structured but spread data format utilized herein.
+
+
+Tables:

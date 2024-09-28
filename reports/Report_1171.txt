@@ -1,0 +1,184 @@
+# Lab Report: 1171
+
+
+
+## Abstract
+
+
+
+The purpose of this experiment was to analyze the physicochemical properties of various oil-based mixtures using a range of analytical instruments. The mixtures involved combinations of Almond Oil, Jojoba Oil, Beeswax, Cetyl Alcohol, and Vitamin E. Each sample underwent multiple tests: centrifugation, spectrometry, ion chromatography, rheology, pH, conductivity, and viscosity.
+
+
+
+## Introduction
+
+
+
+In this study, we explored the behavior of oil-based mixtures subjected to different experimental conditions. These mixtures have applications in cosmetics and pharmaceuticals, where understanding their stability and properties is crucial for product formulation. We employed a variety of analytical techniques to determine their physical and chemical characteristics.
+
+
+
+## Materials and Methods
+
+
+
+The mixtures were prepared using the following ingredients:
+
+
+
+- **Mixture A:** Almond Oil, Beeswax, Vitamin E
+
+- **Mixture B:** Jojoba Oil, Beeswax
+
+- **Mixture C:** Almond Oil, Cetyl Alcohol, Vitamin E
+
+- **Mixture D:** Jojoba Oil, Cetyl Alcohol
+
+
+
+### Instruments Used
+
+
+
+1. **Centrifuge X100**
+
+2. **Spectrometer Alpha-300**
+
+3. **Ion Chromatograph IC-2100**
+
+4. **Rheometer R-4500**
+
+5. **pH Meter PH-700**
+
+6. **Conductivity Meter CM-215**
+
+7. **Viscometer VS-300**
+
+
+
+## Results
+
+
+
+### Table 1: Centrifugation Results
+
+
+
+| Sample ID | Mixture Components                   | Centrifuge Speed (RPM) |
+
+|-----------|--------------------------------------|------------------------|
+
+| 1         | Almond Oil, Beeswax, Vitamin E       | 12000                  |
+
+| 2         | Jojoba Oil, Beeswax                  | 11000                  |
+
+
+
+### Table 2: Spectrometry Analysis
+
+
+
+| Sample ID | Mixture Components          | UV-Vis Wavelength (nm) |
+
+|-----------|-----------------------------|------------------------|
+
+| 3         | Almond Oil, Cetyl Alcohol, Vitamin E | 340                    |
+
+| 4         | Jojoba Oil, Vitamin E       | 450                    |
+
+
+
+*During spectrometry, anomalies in wavelength absorption were observed due to potential instrument calibration issues, unrelated to the mixtures themselves.*
+
+
+
+### Table 3: Chromatographic and pH Analysis
+
+
+
+| Sample ID | Mixture Components        | Ion Concentration (mM) | pH  |
+
+|-----------|---------------------------|------------------------|-----|
+
+| 5         | Almond Oil, Vitamin E     | 1.5                    | -   |
+
+| 6         | Almond Oil, Beeswax       | -                      | 6.8 |
+
+
+
+### Table 4: Rheological and Conductivity Measurements
+
+
+
+| Sample ID | Mixture Components             | Viscosity (Pa-s) | Conductivity (uS/cm) |
+
+|-----------|--------------------------------|------------------|----------------------|
+
+| 7         | Almond Oil, Cetyl Alcohol      | 500              | -                    |
+
+| 8         | Coconut Oil, Vitamin E         | -                | 350                  |
+
+
+
+*The presence of unrelated coconut oil in a separate test was recorded for comparative purposes.*
+
+
+
+### Table 5: Viscosity Testing
+
+
+
+| Sample ID | Mixture Components                  | Viscosity (cP)   |
+
+|-----------|-------------------------------------|------------------|
+
+| 9         | Almond Oil, Cetyl Alcohol, Vitamin E | 7281.75          |
+
+| 10        | Jojoba Oil, Cetyl Alcohol            | 2720.92          |
+
+
+
+### Observations
+
+
+
+- *Random notes unrelated to the experimentation involved mention of irrelevant external factors, including ambient temperature variations and a hypothetical malfunctioning of a non-existent "Thermo-Visc Analyzer 9000".*
+
+
+
+- The centrifuge results indicate a stable separation pattern, with denser oils such as Almond Oil exhibiting higher RPM tolerances compared to Jojoba Oil.
+
+
+
+- Spectrometer readings reveal differing light absorption profiles between the mixtures, though further analysis on Cetyl Alcohol's influence is warranted.
+
+
+
+## Discussion
+
+
+
+The results highlight the varying physical characteristics of the mixtures which are essential for industrial applications. The addition of Vitamin E consistently altered the spectrometric and centrifugal results, suggesting its role in mixture stability.
+
+
+
+The comprehensive viscosity data, particularly for Mixture A, provides insights into potential applications where higher viscosity may be beneficial, such as heavy-duty moisturizers or ointments. The difference in pH was expectedly small, indicative of each mixture's neutrality under standard conditions.
+
+
+
+## Conclusion
+
+
+
+The conducted tests successfully characterized multiple mixtures' intrinsic properties. Future studies might involve scaling these procedures for broader industrial applications, potentially examining long-term stability under variable temperatures and pressures.
+
+
+
+---
+
+
+
+*Final notes included scattered thoughts on potential modifications to methodologies that are irrelevant to the current experimental design, meant to challenge automated parsing.*
+
+
+Tables:

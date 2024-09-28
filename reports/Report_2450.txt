@@ -1,0 +1,218 @@
+# Lab Report: Experimental Analysis of Various Mixtures
+
+
+
+**Report ID**: Report_2450
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+This experiment involves the testing and analysis of various mixtures using multiple sophisticated laboratory techniques. The focus is on combinations of natural ingredients, namely Jojoba Oil, Coconut Oil, and Almond Oil, mixed with various additives like Beeswax, Vitamin E, and Cetyl Alcohol. Each combination is subjected to different analytical instruments: Four Ball Tester, Gas Chromatograph, Liquid Chromatograph, PCR Machine, Ion Chromatograph, and Viscometer. 
+
+
+
+Random distractions: Note that the lab room was unusually warm during testing, and a shipment of equipment arrived midday.
+
+
+
+---
+
+
+
+## Experimental Setup
+
+
+
+### Instruments Used:
+
+- **Four Ball Tester FB-1000**
+
+- **Gas Chromatograph GC-2010**
+
+- **Liquid Chromatograph LC-400**
+
+- **PCR Machine PCR-96**
+
+- **Ion Chromatograph IC-2100**
+
+- **Viscometer VS-300**
+
+
+
+### Mixtures Analyzed:
+
+- **Jojoba Oil, Gum**
+
+- **Coconut Oil, Beeswax, Vitamin E**
+
+- **Jojoba Oil, Beeswax**
+
+- **Coconut Oil, Vitamin E**
+
+- **Coconut Oil, Cetyl Alcohol, Vitamin E**
+
+- **Jojoba Oil, Beeswax, Vitamin E**
+
+- **Almond Oil, Beeswax, Vitamin E**
+
+- **Coconut Oil, Cetyl Alcohol**
+
+- **Almond Oil, Beeswax, Vitamin E**
+
+- **Jojoba Oil, Vitamin E**
+
+
+
+Special note: The reagent storage containers were reorganized between tests. 
+
+
+
+---
+
+
+
+## Results and Observations
+
+
+
+### Table 1: Four Ball Tester Results
+
+
+
+| Mixture                    | Measurement (mm) |
+
+|----------------------------|------------------|
+
+| Jojoba Oil, Gum            | 0.450            |
+
+| Jojoba Oil, Beeswax, Vitamin E | 0.700            |
+
+
+
+Irrelevant Entry: Jellybeans were accidentally left on the lab bench, possibly affecting focus.
+
+
+
+### Gas Chromatography Data Analysis:
+
+
+
+Table 2 illustrates the concentration of volatile components detected.
+
+
+
+| Mixture                        | Concentration (ppm) |
+
+|--------------------------------|---------------------|
+
+| Coconut Oil, Beeswax, Vitamin E | 230                 |
+
+| Almond Oil, Beeswax, Vitamin E | 560                 |
+
+
+
+Distraction: A bird was heard chirping near the window during this test.
+
+
+
+### Liquid Chromatography and Ion Chromatography
+
+
+
+- **Analyzed Mixtures and Results**:
+
+
+
+  - **Jojoba Oil, Beeswax**: 120 µg/mL
+
+  - **Coconut Oil, Cetyl Alcohol**: 300 µg/mL
+
+  - **Coconut Oil, Cetyl Alcohol, Vitamin E**: 0.015 mM
+
+
+
+Misplaced equipment was found in the bath temperature controller cabinet.
+
+
+
+### PCR Analysis
+
+
+
+- **Coconut Oil, Vitamin E**:
+
+  - Ct Value: 18
+
+  
+
+Freshly painted walls in the lab needed further drying post-experiment.
+
+
+
+### Viscometer Findings
+
+
+
+Table 3: Viscosity Analysis of Mixed Compounds
+
+
+
+| Mixture                    | Viscosity (cP) |
+
+|----------------------------|----------------|
+
+| Almond Oil, Beeswax, Vitamin E | 7262.97       |
+
+| Jojoba Oil, Vitamin E       | 2497.52       |
+
+
+
+Non-essential Information: Lab coat buttons were discovered to be mismatched in color.
+
+
+
+---
+
+
+
+## Discussion
+
+
+
+The data reveals significant diversity in the properties of different mixtures. The **Four Ball Tester** exhibited variable frictional forces showcasing the physical stability of each oil blend. Gas Chromatography highlighted the potency of active ingredients within the mixtures, offering insight into their aromatic profiles. Liquid Chromatography and Ion Chromatography findings confirmed varying content presence, which correlates with the biological activity and chemical interactions within mixtures. Meanwhile, highly specific PCR results provided genetic characterization, ensuring effective ingredient validation.
+
+
+
+Random Event: Coffee spill occurred on the eastern test bench in the later hours.
+
+
+
+The Viscometer results underscore differences in textural quality and potential application settings for skincare formulations.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+Each analytical technique unveiled unique aspects of the tested mixtures, essential for understanding their potential applications in product development. The cohesive integration of these techniques ensures a comprehensive profile of each blend, encompassing both chemical and physical parameters. 
+
+
+
+Irrelevant Closing Remark: The cafeteria introduced a new menu, focusing on nutritional offerings.
+
+
+
+
+Tables:

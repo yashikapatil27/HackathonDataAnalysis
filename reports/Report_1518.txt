@@ -1,0 +1,160 @@
+# Lab Report: Analysis of Oil Mixtures
+
+
+
+## Introduction
+
+
+
+The purpose of this study was to analyze various oil mixtures using different instruments to determine their properties. The test samples consisted of oil blends with specific additives. This report summarizes the methods, results, and observations from the experiments conducted on the specified oil mixtures.
+
+
+
+### Instruments Utilized
+
+
+
+1. **Spectrometer Alpha-300**
+
+2. **Titrator T-905**
+
+3. **Ion Chromatograph IC-2100**
+
+4. **FTIR Spectrometer FTIR-8400**
+
+5. **Thermocycler TC-5000**
+
+6. **Centrifuge X100**
+
+7. **PCR Machine PCR-96**
+
+8. **Viscometer VS-300**
+
+
+
+## Methodology and Observations
+
+
+
+### Measurement of Wavelengths and Titrations
+
+
+
+- **Coconut Oil Analysis**:
+
+  - Coconut oil showed prominent peaks at **480 nm** using the Spectrometer Alpha-300. No additives were included in this observation.
+
+  - Using the FTIR Spectrometer FTIR-8400, a characteristic absorbance was noticed at **1500 1/cm**.
+
+  - The presence of Glycerin increased the wavelength to **540 nm** in a separate analysis.
+
+
+
+- **Almond Oil Insights**:
+
+  - Detected at **670 nm** with the Spectrometer Alpha-300 when mixed with Gum and Vitamin E.
+
+  - FTIR analysis found a peak at **3200 1/cm** for the same mixture.
+
+  - In titration, Almond Oil with Gum exhibited a molarity of **0.75 M**.
+
+
+
+### Complex Compounds and Their Evaluations
+
+
+
+- **Jojoba Oil Blend Examination**:
+
+  - Jojoba Oil mixed with Beeswax and Vitamin E showed an ion concentration of **55.6 mM**.
+
+  - The PCR Machine provided a Ct value of **28**, indicating specific DNA amplification.
+
+  - The titrator measured a molarity of **1.35 M** for Jojoba Oil without additives.
+
+
+
+#### Temperature, Speed, and Viscosity Effects
+
+
+
+- **Coconut Oil Mixture Results**:
+
+  - The Thermocycler TC-5000 maintained Coconut Oil with Glycerin at **37°C**, although this temperature was not particularly significant.
+
+  - Its viscosity, when combined with Vitamin E and analyzed using the Viscometer, was **5027.81 cP**.
+
+
+
+- **Almond Oil Dynamics**:
+
+  - Was centrifuged at **12000 RPM**, an observation which might have produced some unexpected acellular changes.
+
+
+
+- **Jojoba Oil Viscosity**:
+
+  - Demonstrated a viscosity measurement of **2653.23 cP** in a mixture with Cetyl Alcohol and Glycerin.
+
+
+
+## Discussion and Interpretation
+
+
+
+The observed wavelength patterns and titration results indicate distinct molecular interactions in each oil blend. The FTIR analysis provided insight into the functional groups present, resonating with known industry standards.
+
+
+
+### Data Representation
+
+
+
+#### Table 1: Wavelength and Absorbance
+
+
+
+| Instrument                  | Sample Details           | Wavelength (nm) | Absorbance (1/cm) |
+
+|-----------------------------|--------------------------|-----------------|-------------------|
+
+| Spectrometer Alpha-300      | Coconut Oil              | 480             | -                 |
+
+| Spectrometer Alpha-300      | Almond Oil, Gum, Vit E   | 670             | -                 |
+
+| FTIR Spectrometer FTIR-8400 | Coconut Oil              | -               | 1500              |
+
+| FTIR Spectrometer FTIR-8400 | Almond Oil, Gum, Vit E   | -               | 3200              |
+
+
+
+#### Table 2: Concentration and Viscosity
+
+
+
+| Instrument                  | Sample Details                     | Molarity (M) | Viscosity (cP) |
+
+|-----------------------------|------------------------------------|--------------|----------------|
+
+| Titrator T-905              | Jojoba Oil                         | 1.35         | -              |
+
+| Titrator T-905              | Almond Oil, Gum                    | 0.75         | -              |
+
+| Viscometer VS-300           | Jojoba Oil, Cetyl Alcohol, Glycerin| -            | 2653.23        |
+
+| Viscometer VS-300           | Coconut Oil, Vitamin E             | -            | 5027.81        |
+
+
+
+## Conclusion
+
+
+
+This report highlights the intricate results obtained from multiple analytical techniques. The combination of spectrometric data with chromatographic and titration insights offers a comprehensive understanding of the chemical properties of the tested oil mixtures.
+
+
+
+Despite some unexpected occurrences in centrifugation and temperature control experiments, the study proficiently characterizes the oil blends. Future studies could build upon these findings to explore more complex formulations and their physicochemical behavior.
+
+
+Tables:

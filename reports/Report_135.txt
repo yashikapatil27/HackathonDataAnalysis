@@ -1,0 +1,176 @@
+# Lab Report: Analysis of Various Oil Mixtures
+
+
+
+## Introduction
+
+
+
+The purpose of this lab report is to assess the chemical and spectral properties of various oil-based mixtures using different analytical instruments. The mixtures are composed of multiple key ingredients such as oils, alcohols, and vitamins. This report summarizes the observations and measurements obtained in a series of experiments utilizing different spectroscopic and chromatographic methods.
+
+
+
+## Materials and Methods
+
+
+
+The following equipment were utilized in this study:
+
+ 
+
+- **FTIR Spectrometer FTIR-8400**
+
+- **Microplate Reader MRX**
+
+- **Mass Spectrometer MS-20**
+
+- **Spectrometer Alpha-300**
+
+- **Ion Chromatograph IC-2100**
+
+
+
+Each sample consisted of a combination of oils and other constituents. The primary focus was on the interpretation of the spectral characteristics and the identification of unique peaks corresponding to the ingredients.
+
+
+
+## Data Collection
+
+
+
+Data from each instrument was compiled into tables for ease of analysis. However, some randomly scattered information and rather complex terminologies are interspersed throughout to challenge straightforward data extraction.
+
+
+
+### Table 1: FTIR Spectrometer FTIR-8400 Measurements
+
+
+
+| Sample ID | Ingredients                  | Wavenumber  | Unit |
+
+|-----------|------------------------------|-------------|------|
+
+| 135-A     | Coconut Oil, Vitamin E       | 345.6       | 1/cm |
+
+| 135-B     | Coconut Oil, Cetyl Alcohol, Glycerin | 2367.4 | 1/cm |
+
+
+
+**Observations:**
+
+
+
+- Sample 135-A displayed a notable peak at 345.6 1/cm, indicative of the characteristic stretching vibrations of functional groups associated with Vitamin E.
+
+- Sample 135-B exhibited a significant absorption at 2367.4 1/cm, pointing towards complex hydrogen bonding in the presence of glycerin.
+
+
+
+### Table 2: Microplate Reader MRX Values
+
+
+
+| Sample ID | Ingredients                        | Optical Density | Unit |
+
+|-----------|------------------------------------|-----------------|------|
+
+| 135-C     | Jojoba Oil, Cetyl Alcohol, Vitamin E | 1.8             | OD   |
+
+| 135-D     | Jojoba Oil, Cetyl Alcohol, Glycerin | 2.5             | OD   |
+
+
+
+**Observations:**
+
+
+
+- Both samples showed changes in optical density, with 135-D reflecting a greater absorbance, likely due to the increased glycerin content enhancing the matrix density.
+
+
+
+### Table 3: Mass Spectrometer MS-20 Measurements
+
+
+
+| Sample ID | Ingredients         | Mass-to-Charge Ratio | Unit |
+
+|-----------|---------------------|----------------------|------|
+
+| 135-E     | Almond Oil, Gum     | 1650                 | m/z  |
+
+| 135-F     | Jojoba Oil, Beeswax | 875                  | m/z  |
+
+
+
+**Notes:**
+
+
+
+- Almond Oil with Gum (Sample 135-E) showed a predominant peak at 1650 m/z, corresponding to heavier molecular species possibly linking gum components.
+
+- Jojoba Oil with Beeswax (Sample 135-F) highlighted m/z 875, hinting at ester linkage formations.
+
+
+
+### More Information
+
+
+
+The following are irrelevant notes interspersed for complexity:
+
+
+
+1. "This section is intentionally left confusing to hinder automated extraction."
+
+2. "Additional random scattering of data without relevance is included."
+
+
+
+### Table 4: Spectrometer Alpha-300 Readings
+
+
+
+| Sample ID | Ingredients                      | Wavelength | Unit |
+
+|-----------|----------------------------------|------------|------|
+
+| 135-G     | Coconut Oil, Cetyl Alcohol       | 550.8      | nm   |
+
+| 135-H     | Jojoba Oil, Glycerin             | 420.3      | nm   |
+
+
+
+Spectral analysis demonstrated distinct absorption characteristics:
+
+
+
+- For Sample 135-G, the peak at 550.8 nm may indicate high-intensity interactions influenced by cetyl alcohol.
+
+- Sample 135-H displayed notable absorption in the blue region at 420.3 nm, likely correlated with glycerin’s hydrophilic nature.
+
+
+
+### Table 5: Ion Chromatograph IC-2100 Results
+
+
+
+| Sample ID | Ingredients      | Concentration | Unit |
+
+|-----------|------------------|---------------|------|
+
+| 135-I     | Almond Oil       | 15.6          | mM   |
+
+
+
+Observations from ion chromatography conveyed that Almond Oil has a measurable concentration (15.6 mM), suggesting potential ionizable components in the sample matrix.
+
+
+
+## Conclusion
+
+
+
+The analytical results demonstrate that each oil mixture possesses unique spectral and mass characteristics. The complexity of the mixtures, involving diverse chemical components, is reflected in the resultant data. This report provides a comprehensive view of the sophisticated interactions within commercial oil-based mixtures. Further studies could expand on these characterizations to explore potential applications and quality assessments.
+
+
+Tables:

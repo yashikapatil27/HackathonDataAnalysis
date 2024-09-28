@@ -1,0 +1,152 @@
+# Laboratory Report: Sample Analysis Using Various Spectroscopic Techniques
+
+
+
+## Introduction
+
+
+
+The purpose of this investigation was to explore and quantify the compositions of various oil-based mixtures using advanced chromatographic and spectroscopic methods. We analyzed several samples consisting of ingredients like Almond Oil, Jojoba Oil, and Coconut Oil combined with different components such as Beeswax, Gum, and Vitamin E. Each unique mixture was characterized through various instruments including spectrometers, chromatographs, and viscometers.
+
+
+
+---
+
+
+
+### Experimental Methods and Observations
+
+
+
+The samples were subjected to different analytical instruments to obtain a detailed profile of their compositions. Each technique was selected based on the ability to provide specific insights into the component interactions within the mixtures.
+
+
+
+1. **Spectroscopic Analysis**
+
+   - **Spectrometer Alpha-300:** Employed for the analysis of transparent characteristics. For Almond Oil mixed with Gum and Vitamin E, a prominent absorption was observed at 650 nm, whereas with Beeswax, it was notable at 700 nm.
+
+   - *Miscellaneous observation: a minor fluctuation was seen at 655 nm, though not substantial for interpretation.*
+
+
+
+2. **Chromatographic Examination**
+
+   - **Ion Chromatograph IC-2100** was utilized for aqueous phase separation based on ionic charges. Jojoba Oil mixed with Gum and Vitamin E revealed peak absorption at 25 mM, while Almond Oil combined with Vitamin E showed a significant retention time at 50 mM.
+
+   - *Irrelevant note: Atypical sample dilution caused minor deviations, not impacting final results.*
+
+
+
+3. **Mass Spectrometry Insights**
+
+   - **Mass Spectrometer MS-20** provided molecular weight data for compounds in Coconut Oil with Vitamin E, capturing a distinct ion fragmentation at 1050 m/z. 
+
+   - *Erroneous calibration instance at 1100 m/z due to instrument drift on dated calibration data.*
+
+
+
+4. **Further Analytical Data**
+
+   - **Liquid Chromatograph LC-400** highlighted concentrations of compounds in Coconut Oil, with measurements indicating a level of 200 µg/mL.
+
+   - **FTIR Spectrometer FTIR-8400** offered functional group characterization, identifying strong peaks near 3000 cm⁻¹ in Jojoba Oil and Glycerin mixtures.
+
+   - *Anomalous spike at 2800 cm⁻¹ was disregarded due to spectral overlap.*
+
+
+
+5. **Rheological Analysis**
+
+   - **Viscometer VS-300** depicted viscosity variations, noting 4589.57 cP for the Coconut Oil, Beeswax, Vitamin E combination, and 7220.52 cP for Almond Oil, Beeswax, and Glycerin.
+
+   - *Unusual spike in viscosity linked to potential instrument residue doesn’t affect main interpretation.*
+
+
+
+---
+
+
+
+### Results and Discussion
+
+
+
+To synthesize the vast array of data, detailed tables are provided for ease of reading, despite containing some extraneous entries, to encapsulate the experimental summary.
+
+
+
+#### Table 1: Spectrometer Readings
+
+
+
+| Sample Combination          | Instrument              | Key Measurement | Unit  |
+
+|-----------------------------|-------------------------|-----------------|-------|
+
+| Almond Oil, Gum, Vitamin E  | Spectrometer Alpha-300  | 650             | nm    |
+
+| Almond Oil, Beeswax         | Spectrometer Alpha-300  | 700             | nm    |
+
+
+
+#### Table 2: Chromatograph Measurements
+
+
+
+| Sample Combination        | Instrument             | Key Measurement | Unit  |
+
+|---------------------------|------------------------|-----------------|-------|
+
+| Jojoba Oil, Gum, Vitamin E| Ion Chromatograph IC-2100 | 25            | mM    |
+
+| Almond Oil, Vitamin E     | Ion Chromatograph IC-2100 | 50            | mM    |
+
+
+
+#### Table 3: Mass Spectrometric and Liquid Chromatographic Analysis
+
+
+
+| Sample Combination       | Instrument              | Key Measurement | Unit   |
+
+|--------------------------|-------------------------|-----------------|--------|
+
+| Coconut Oil, Vitamin E   | Mass Spectrometer MS-20 | 1050            | m/z    |
+
+| Coconut Oil              | Liquid Chromatograph LC-400 | 200         | µg/mL  |
+
+
+
+*Note: A table entry for a non-existent component at 2100 µg/mL was encountered and omitted.*
+
+
+
+#### Table 4: FTIR and Viscosity Results
+
+
+
+| Sample Combination     | Instrument               | Key Measurement | Unit    |
+
+|------------------------|--------------------------|-----------------|---------|
+
+| Jojoba Oil, Glycerin   | FTIR Spectrometer FTIR-8400 | 3000          | 1/cm    |
+
+| Coconut Oil, Beeswax, Vitamin E | Viscometer VS-300 | 4589.57       | cP      |
+
+| Almond Oil, Beeswax, Glycerin | Viscometer VS-300  | 7220.52       | cP      |
+
+
+
+---
+
+
+
+### Conclusion
+
+
+
+The comprehensive analysis of oil-based mixtures through multiple methodologies confirms varied interactions and composition variations. The resultant data provides a robust framework to understand the underlying chemical and physical properties of these mixtures, assisting in the development of formulation strategies relevant across industries such as cosmetics and pharmaceuticals. While the addition of complex matrices and irrelevant data entries was noted throughout, it does not impede the scientific interpretation presented herein.
+
+
+Tables:

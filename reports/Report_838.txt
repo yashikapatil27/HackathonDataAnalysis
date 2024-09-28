@@ -1,0 +1,188 @@
+# Lab Report 838
+
+
+
+## Introduction
+
+
+
+This lab report summarizes the comprehensive analysis of various oil blends using different analytical instruments. We focused on understanding the properties and interactions of different components in these oil mixtures to characterize their behavior under different conditions.
+
+
+
+### Objectives
+
+
+
+The objective of this report is to evaluate the physical and chemical properties of blends containing Jojoba Oil, Coconut Oil, and Almond Oil combined with additives like Beeswax, Gum, Cetyl Alcohol, Glycerin, and Vitamin E. Various instruments were employed to carry out analyses including ion chromatography, mass spectrometry, spectrophotometry, and more.
+
+
+
+## Methods and Materials
+
+
+
+### Sample Preparation
+
+
+
+Each oil was combined with different additives to form distinct mixtures. These mixtures were then subjected to various analytical techniques to assess different properties.
+
+
+
+### Equipment Used
+
+
+
+1. **Ion Chromatograph IC-2100**
+
+2. **Mass Spectrometer MS-20**
+
+3. **Microplate Reader MRX**
+
+4. **pH Meter PH-700**
+
+5. **Centrifuge X100**
+
+6. **Viscometer VS-300**
+
+
+
+## Observations and Analysis
+
+
+
+### Chromatographic Analysis
+
+
+
+**Sample: Jojoba Oil, Gum, Vitamin E**
+
+
+
+Using the Ion Chromatograph IC-2100, the concentration was measured at 45.6 mM. This indicates a notable interaction between the gum and the oil matrix, enhancing the ion retention capacity.
+
+
+
+### Mass Spectrometric Evaluation
+
+
+
+**Sample: Jojoba Oil, Cetyl Alcohol, Vitamin E**
+
+
+
+The Mass Spectrometer MS-20 revealed a molecular ion peak at 1200 m/z. This peak corresponds to the combined mass of the constituents, suggesting successful integration of the components in the mixture.
+
+
+
+### Optical Density Measurements
+
+
+
+**Sample: Almond Oil, Glycerin**
+
+
+
+The Microplate Reader MRX recorded an optical density of 3.2 OD. The absence of added pigments indicates potential light absorbance by the oil-glycerin matrix itself.
+
+
+
+### pH Analysis
+
+
+
+**Sample: Almond Oil, Cetyl Alcohol, Vitamin E**
+
+
+
+The pH Meter PH-700 measured a pH of 7.8, indicating a neutral to slightly alkaline nature. This is crucial for stability in cosmetic and topical applications.
+
+
+
+### Centrifugal Force Assessments
+
+
+
+**Sample: Coconut Oil, Gum, Glycerin**
+
+
+
+The Centrifuge X100 operated at 8500 RPM, which effectively separated phases to a defining clarity level. This is vital for understanding the emulsion stability.
+
+
+
+### Viscosity Measurements
+
+
+
+**Sample: Jojoba Oil, Beeswax, Vitamin E**
+
+
+
+The Viscometer VS-300 showed a viscosity of 3093.03 cP. The addition of beeswax profoundly influenced the viscosity, suggesting enhanced thickening properties.
+
+
+
+---
+
+
+
+### Data Summary
+
+
+
+| Instrument          | Sample Components                       | Measurement | Unit |
+
+|---------------------|-----------------------------------------|-------------|------|
+
+| Ion Chromatograph   | Jojoba Oil, Gum, Vitamin E              | 45.6        | mM   |
+
+| Ion Chromatograph   | Jojoba Oil                              | 10.5        | mM   |
+
+| Mass Spectrometer   | Jojoba Oil, Cetyl Alcohol, Vitamin E    | 1200        | m/z  |
+
+| Mass Spectrometer   | Coconut Oil, Gum, Vitamin E             | 1500        | m/z  |
+
+| Microplate Reader   | Almond Oil, Glycerin                    | 3.2         | OD   |
+
+| Microplate Reader   | Almond Oil, Gum, Glycerin               | 2.7         | OD   |
+
+| pH Meter            | Almond Oil, Cetyl Alcohol, Vitamin E    | 7.8         | pH   |
+
+| pH Meter            | Jojoba Oil, Beeswax, Glycerin           | 6.1         | pH   |
+
+| Centrifuge          | Coconut Oil, Gum, Glycerin              | 8500        | RPM  |
+
+| Centrifuge          | Jojoba Oil, Beeswax, Vitamin E          | 12000       | RPM  |
+
+| Viscometer          | Jojoba Oil, Beeswax, Vitamin E          | 3093.03     | cP   |
+
+| Viscometer          | Almond Oil                              | 7610.18     | cP   |
+
+
+
+---
+
+
+
+## Discussion
+
+
+
+In conclusion, the diverse range of analyses performed on these mixtures provides profound insights into their chemical and physical characteristics. Notably, the viscosity significantly thrived with the amalgamation of Jojoba Oil with Beeswax and Vitamin E. Additionally, the pH levels are conducive for applications requiring neutral conditions. These findings bridge our understanding of how different components integrate at a molecular level influencing the final attributes of the mixtures.
+
+
+
+*Note: Unexpected observations such as irrelevant peaks and measurements were noted, requiring further investigation to comprehend their implications fully.*
+
+
+
+## Conclusion
+
+
+
+This comprehensive study underscores the unique properties of various oil mixtures, aiding in the development of targeted applications. Future work will focus on optimizing formulations based on these findings to tailor specific end-use properties.
+
+
+Tables:

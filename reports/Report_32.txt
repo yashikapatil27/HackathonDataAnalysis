@@ -1,0 +1,112 @@
+# Lab Report: Complex Analysis on Essential Oil Mixtures
+
+
+
+## Introduction
+
+
+
+The objective of this lab session was to analyze different essential oil mixtures using a variety of sophisticated instruments. Each mixture was subjected to a series of tests to determine its different physical, chemical, and structural properties. The analyses focus on the interaction of components in two primary oils: almond oil and jojoba oil, alongside additional mixtures with coconut oil. The findings provide insights into the characteristics of each test sample, their interactions, and overall performance under specified conditions.
+
+
+
+## Methodology
+
+
+
+Various analytical techniques were employed, each imparting critical understanding of the mixtures' properties. The Gas Chromatograph (GC), Mass Spectrometer (MS), pH Meter, X-Ray Diffractometer (XRD), Conductivity Meter (CM), Four Ball Test, Ion Chromatograph (IC), Centrifuge, Nuclear Magnetic Resonance (NMR), and Viscometer (VS) were used. Each method offers unique insights into different aspects of the test samples.
+
+
+
+## Results and Observations
+
+
+
+### Table 1: Elemental and Chemical Analysis
+
+
+
+| Instrument                      | Sample               | Compound Detected  | Value  | Unit  |
+
+|---------------------------------|----------------------|--------------------|--------|-------|
+
+| **Gas Chromatograph GC-2010**   | Almond Oil           | Glycerin           | 234    | ppm   |
+
+| **Mass Spectrometer MS-20**     | Jojoba Oil           | Cetyl Alcohol      | 1250   | m/z   |
+
+| **Ion Chromatograph IC-2100**   | Coconut Oil          | Cetyl Alcohol      | 0.050  | mM    |
+
+
+
+It's noteworthy that the elemental analysis reveals distinct presence and concentration levels of the compounds tested. For instance, Glycerin in Almond Oil presents at a ppm concentration, relating directly to its potential utility in moisturizing applications.
+
+
+
+### Table 2: Physical and Rheological Properties
+
+
+
+| Instrument                      | Sample               | Additional Components | Value    | Unit  |
+
+|---------------------------------|----------------------|-----------------------|----------|-------|
+
+| **Conductivity Meter CM-215**   | Jojoba Oil           | Cetyl Alcohol & Glycerin | 1500   | uS/cm |
+
+| **Viscometer VS-300**           | Coconut Oil          | Gum                   | 5201.09 | cP    |
+
+| **Viscometer VS-300**           | Almond Oil           | Beeswax & Vitamin E   | 7284.77 | cP    |
+
+
+
+The conductivity of Jojoba Oil with Cetyl Alcohol reveals substantial ionic mobility, indicating possible electrolyte formation, enhancing mixture reactivity potential.
+
+
+
+### Interwoven Text
+
+
+
+While analyzing these mixtures, a variety of complex interactions were observed, particularly when combining organic wax components with oils which significantly influenced viscosity measurements. An unrelated note, during the Centrifuge X100 revolution, there was an unexpected RPM measurement reaching 12000, yet careful data scrutiny revealed its irrelevance.
+
+
+
+### Table 3: Structural and Stability Insights
+
+
+
+| Instrument                      | Sample               | Component(s)          | Condition | Measurement  |
+
+|---------------------------------|----------------------|-----------------------|-----------|--------------|
+
+| **X-Ray Diffractometer XRD-6000** | Jojoba Oil           | Vitamin E             | -         | 120°C        |
+
+| **pH Meter PH-700**             | Jojoba Oil           | Gum & Vitamin E       | -         | 7 pH         |
+
+| **Four Ball FB-1000**           | Almond Oil           | Beeswax               | -         | 0.750 mm     |
+
+
+
+Using an XRD for Vitamin E structural analysis at elevated temperatures provided invaluable data regarding thermal stability, vital for potential food supplement applications.
+
+
+
+## Discussion
+
+
+
+Upon evaluation, the almond and jojoba oil mixtures displayed varied chemical profiles which inform their respective applications in cosmetic and pharmacological industries. Notably, the almond oil mixture's elevated viscosity might suggest improved textural properties for emollient applications.
+
+
+
+It was difficult to ascertain direct correlations between compound structures and their viscosity contribution due to several uncontrolled variables. However, the data suggests that the presence of Vitamin E could significantly alter physical properties, warranting further exploration.
+
+
+
+## Conclusion
+
+
+
+By employing comprehensive analytical methodologies, our understanding of essential oil mixtures has broadened significantly. These insights pave the way for targeted applications in areas ranging from skincare to nutritional supplements, depending on the intrinsic attributes highlighted through analytical challenges presented in this study.
+
+
+Tables:

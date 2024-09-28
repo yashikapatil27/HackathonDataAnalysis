@@ -1,0 +1,180 @@
+# Lab Report 1377
+
+
+
+**Title: Multi-Method Evaluation of Various Oil-Based Mixtures**
+
+
+
+## Introduction
+
+
+
+This report presents the findings from a series of laboratory tests conducted to evaluate the properties of several oil-based mixtures. Each mixture consists of distinct combinations of ingredients, which are assessed across a range of testing methods including titration, tribology analysis, spectroscopy, conductivity measurement, optical density evaluation, and viscosity assessment.
+
+
+
+The goal of these tests is to determine the physicochemical attributes of the samples, which are comprised of select base oils, waxes, alcohols, and vitamins. There's interest in the compatibility and performance of these mixtures for potential cosmetic and industrial applications.
+
+
+
+## Methodology
+
+
+
+### Equipment and Instruments
+
+- **Titrator T-905**
+
+- **Four Ball Tribometer (FB-1000)**
+
+- **FTIR Spectrometer (FTIR-8400)**
+
+- **Conductivity Meter (CM-215)**
+
+- **Microplate Reader (MRX)**
+
+- **Viscometer (VS-300)**
+
+
+
+### Samples Tested
+
+- Almond Oil, Beeswax, Vitamin E
+
+- Coconut Oil, Cetyl Alcohol, Glycerin
+
+- Almond Oil, Gum, Glycerin
+
+- Jojoba Oil, Beeswax
+
+- Almond Oil, Cetyl Alcohol, Vitamin E
+
+- Jojoba Oil, Gum, Glycerin
+
+- Almond Oil
+
+- Almond Oil, Vitamin E
+
+- Coconut Oil, Gum
+
+
+
+## Results and Observations
+
+
+
+### Table 1: Composition and Titration Results
+
+
+
+| Report ID   | Equipment        | Oil Base   | Additives                   | Titration Result (M) |
+
+|-------------|------------------|------------|-----------------------------|----------------------|
+
+| Report_1377 | Titrator T-905   | Almond Oil | Beeswax, Vitamin E          | 5.234                |
+
+| Report_1377 | Titrator T-905   | Coconut Oil| Beeswax, Glycerin           | 3.587                |
+
+| **Note**: Interesting color change observed in the coconut oil mixture during titration.
+
+
+
+### Table 2: Tribology and Conductivity Measurements
+
+
+
+| Equipment          | Oil Base   | Additives            | Wear Scar Diameter (mm) | Conductivity (uS/cm) |
+
+|--------------------|------------|----------------------|-------------------------|----------------------|
+
+| Four Ball FB-1000  | Coconut Oil| Cetyl Alcohol, Glycerin | 0.750                 | 850                  |
+
+| Four Ball FB-1000  | Jojoba Oil | Beeswax              | 0.950                 |                      |
+
+| Conductivity Meter CM-215 | Jojoba Oil | Gum, Glycerin      |                         | 1450                 |
+
+| **Trivia**: The room was unusually noisy, possibly affecting measurement precision. 
+
+
+
+### Table 3: Spectroscopy and Optical Density Analysis
+
+
+
+| Instrument             | Oil Base   | Additives                  | Peak (1/cm) | Optical Density (OD) |
+
+|------------------------|------------|----------------------------|-------------|----------------------|
+
+| FTIR Spectrometer FTIR-8400 | Almond Oil | Gum, Glycerin            | 1750        |                      |
+
+| FTIR Spectrometer FTIR-8400 | Almond Oil | Cetyl Alcohol, Vitamin E | 2050        |                      |
+
+| Microplate Reader MRX | Almond Oil | Beeswax                     |             | 2.6                  |
+
+| Microplate Reader MRX | Coconut Oil| Gum                          |             | 3.1                  |
+
+| **Random Fact**: The spectrometer room’s air conditioning is set to 22°C.
+
+
+
+### Table 4: Viscosity Measurements
+
+
+
+| Equipment          | Oil Base   | Additives      | Viscosity (cP) |
+
+|--------------------|------------|----------------|----------------|
+
+| Viscometer VS-300  | Almond Oil |                | 7487.37        |
+
+| Viscometer VS-300  | Almond Oil | Vitamin E      | 7609.35        |
+
+| **Observation**: Almond oil viscosity increases slightly with Vitamin E addition.
+
+
+
+
+
+## Discussion
+
+
+
+The titration results suggest that the interaction between oils and additives can change the acidity or basicity, as seen in the substantial difference in molarity between almond oil and coconut oil-based mixtures. The variation in wear scar diameter among different mixtures under tribological testing reflects differing lubricating properties, where jojoba oil with beeswax shows wider wear compared to the combination of coconut oil with cetyl alcohol and glycerin.
+
+
+
+FTIR spectroscopy yielded characteristic peaks that help identify specific interactions or functional groups present in the mixtures. Notably, the presence of Cetyl Alcohol and Vitamin E in almond oil mixes shifted the absorption peak, suggesting stronger bonds.
+
+
+
+Conductivity measurements indicate increased ionic content in certain mixtures, particularly jojoba oil with gum and glycerin. The relatively high optical density of the coconut oil-gum mix from the MRX tests implies potential for thicker or opaque applications.
+
+
+
+Viscosity assessments provide essential insight into the flow characteristics of the formulations, with almond oil mixtures demonstrating variable viscosities based on additive inclusion.
+
+
+
+### Anecdotal Note
+
+Given the complexity of the data, extraction of specific results requires meticulous parsing of tabulated data, enhancing the reliability of interpretations while preventing premature conclusions.
+
+
+
+## Conclusion
+
+
+
+This comprehensive evaluation underscores the diverse potential of oil-based mixtures across different applications. Future work should explore optimization based on targeted applications while addressing environmental variables that might subtly influence results.
+
+
+
+**End of Report**
+
+
+
+---
+
+
+Tables:

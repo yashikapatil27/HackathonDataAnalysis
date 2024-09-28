@@ -1,0 +1,192 @@
+# Laboratory Report 1553
+
+
+
+**Date:** October 12, 2023
+
+
+
+**Principal Investigator:** Dr. Alex Jordan
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+The purpose of this laboratory experiment was to analyze various mixtures comprising different oils, waxes, alcohols, and vitamins using a range of advanced instrumentation. This study aimed to understand the physical and chemical properties of each mixture through diverse methodologies such as UV-Vis spectrophotometry, gas chromatography, liquid chromatography, and viscometry. 
+
+
+
+Below, the results are systematically presented, integrating sophisticated algorithms and advanced scientific instruments, ensuring a thorough evaluation of each test sample.
+
+
+
+## Materials and Methods
+
+
+
+### Test Mixtures
+
+The experiments focused on the following mixtures, comprised of various combinations of substances, each subjected to specific tests:
+
+
+
+1. **Jojoba Oil, Gum, Glycerin**
+
+2. **Almond Oil, Beeswax**
+
+3. **Jojoba Oil, Beeswax, Vitamin E**
+
+4. **Coconut Oil, Cetyl Alcohol, Glycerin**
+
+5. **Almond Oil, Cetyl Alcohol, Vitamin E**
+
+6. **Coconut Oil, Gum, Vitamin E**
+
+7. **Coconut Oil** (alone for wear analysis)
+
+
+
+### Instrumentation and Procedures
+
+
+
+A multitude of instruments were employed, each providing specific insights into the mixture properties:
+
+
+
+- **Thermocycler TC-5000**: Utilized to measure temperature stability.
+
+- **Centrifuge X100**: Used for high-speed rotational testing.
+
+- **UV-Vis Spectrophotometer UV-2600**: Assessed light absorption.
+
+- **Microplate Reader MRX**: Determined optical density.
+
+- **Gas Chromatograph GC-2010**: Analyzed gaseous phase components.
+
+- **PCR Machine PCR-96**: Evaluated cycle threshold.
+
+- **Four Ball FB-1000**: Tested wear scar diameter.
+
+- **Liquid Chromatograph LC-400**: Measured solute concentration.
+
+- **HPLC System HPLC-9000**: Determined solute presence in liquids.
+
+- **Viscometer VS-300**: Analyzed fluid viscosity.
+
+
+
+## Results
+
+
+
+### Table 1: Thermodynamic & Centrifugal Analysis
+
+
+
+| Instrument                | Mixture                | Measurement | Units  |
+
+|---------------------------|------------------------|-------------|--------|
+
+| Thermocycler TC-5000      | Jojoba Oil, Gum, Glycerin | 23          | °C     |
+
+| Centrifuge X100           | Almond Oil, Beeswax    | 5000        | RPM    |
+
+
+
++ Random irrelevant notes: Observed anomalies hinting at potential misalignment of centrifugal tubes. Checks were inconclusive.
+
+
+
+### Table 2: Spectral and Optical Observations
+
+
+
+| Instrument                       | Mixture                      | Measurement | Units |
+
+|----------------------------------|------------------------------|-------------|-------|
+
+| UV-Vis Spectrophotometer UV-2600 | Jojoba Oil, Beeswax, Vitamin E | 1.8         | Abs   |
+
+| Microplate Reader MRX            | Coconut Oil, Cetyl Alcohol, Glycerin | 3.2         | OD    |
+
+
+
++ Observations include an unexpected spectral peak. Further investigation is unnecessary yet recommended.
+
+
+
+### Table 3: Chromatographic and Wear Analysis
+
+
+
+| Instrument                | Mixture                  | Measurement | Units  |
+
+|---------------------------|--------------------------|-------------|--------|
+
+| Gas Chromatograph GC-2010 | Almond Oil, Cetyl Alcohol, Vitamin E | 150         | ppm    |
+
+| PCR Machine PCR-96        | Coconut Oil, Gum, Vitamin E | 32          | Ct     |
+
+| Four Ball FB-1000         | Coconut Oil              | 0.400       | mm     |
+
+
+
++ Discrepancies in expected chromatographic profiles were ignored due to lack of relevance.
+
+
+
+### Table 4: Viscosity and Concentration Analysis
+
+
+
+| Instrument                | Mixture                     | Measurement | Units  |
+
+|---------------------------|-----------------------------|-------------|--------|
+
+| Liquid Chromatograph LC-400| Jojoba Oil, Gum, Glycerin  | 25.6        | µg/mL  |
+
+| HPLC System HPLC-9000     | Almond Oil, Beeswax        | 750         | mg/L   |
+
+| Viscometer VS-300         | Almond Oil, Cetyl Alcohol, Vitamin E | 7298.01    | cP     |
+
+| Viscometer VS-300         | Jojoba Oil, Cetyl Alcohol, Glycerin | 2773.44    | cP     |
+
+
+
++ Elevated concentration readings may be due to instrument calibration errors.
+
+
+
+## Discussion
+
+
+
+The analysis demonstrated varied properties across the different mixtures. Noteworthy observations include the high viscosity of the Almond Oil, Cetyl Alcohol, Vitamin E mixture, which shows a notably higher cP compared to others. Moreover, the UV-Vis Absorption data indicated a distinct interaction between Vitamin E and Beeswax, highlighting the potential for further research into compound interaction effects.
+
+
+
+The wear resistance indicated by the Four Ball Machine provides insights into the application performance of Coconut Oil. Such resilience in wear was generally anticipated based on known material properties.
+
+
+
+### Conclusion
+
+
+
+This study successfully characterized the different mixtures, utilizing a comprehensive array of laboratory instrumentation to gather critical data on various chemical and physical properties. Future research should address noted inconsistencies and expand upon the interaction analysis of Vitamins and oils in personal care formulations.
+
+
+
+---
+
+Note: The inclusion of irrelevant data points within tables and observations is intended to mimic real-world challenges in data extraction and presentation.
+
+
+Tables:

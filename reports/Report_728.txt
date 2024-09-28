@@ -1,0 +1,144 @@
+# Lab Report: Analysis of Cosmetic Mixtures
+
+
+
+**Report ID: 728**
+
+
+
+**Date: October 15, 2023**
+
+
+
+**Lab Supervisor: Dr. Sarah Evans**
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+This report outlines the detailed analysis of various cosmetic mixtures. The focus of this project is to evaluate the chemical and physical properties of selected mixtures using different analytical instruments. Each mixture, comprising various ingredients, was tested to determine its unique characteristics. The aim was to gain insights into the functionality and stability of these cosmetic formulations.
+
+
+
+---
+
+
+
+## Observations and Measurements
+
+
+
+### Table 1: Mixture Compositions and Results
+
+
+
+| Mixture ID | Equipment Used         | Ingredients (Primary, Secondary, Tertiary)  | Observation Metric | Measurement |
+
+|------------|------------------------|--------------------------------------------|--------------------|-------------|
+
+| M1         | PCR Machine PCR-96     | Jojoba Oil, ---                             | Ct                 | 36          |
+
+| M2         | Rheometer R-4500       | Coconut Oil, Beeswax                        | Pa-s               | 500         |
+
+| M3         | Mass Spectrometer MS-20| Jojoba Oil, Vitamin E                       | m/z                | 1500        |
+
+| M4         | Ion Chromatograph IC-2100| Jojoba Oil, Cetyl Alcohol                  | mM                 | 50          |
+
+| M5         | Gas Chromatograph GC-2010| Jojoba Oil, Gum, Glycerin                 | ppm                | 250         |
+
+| M6         | Four Ball FB-1000      | Coconut Oil, Cetyl Alcohol, Glycerin       | mm                 | 0.750       |
+
+| M7         | PCR Machine PCR-96     | Jojoba Oil, Beeswax, Vitamin E             | Ct                 | 28          |
+
+| M8         | Viscometer VS-300      | Almond Oil, Cetyl Alcohol, Vitamin E       | cP                 | 7164.69     |
+
+| M9         | Viscometer VS-300      | Coconut Oil, Glycerin                      | cP                 | 5052.06     |
+
+
+
+**Note**: The results are displayed in unique units relevant to each measurement. Some mixtures contained varying levels of glycerin not always listed but present in trace amounts.
+
+
+
+---
+
+
+
+### Detailed Equipment Analysis
+
+
+
+- **PCR Machine PCR-96**: Utilized in the polymerase chain reaction technology to measure the cycle threshold (Ct) of mixtures, indicating the presence of reactive components. Variation was seen between M1 and M7 due to differences in Vitamin E content.
+
+  
+
+- **Rheometer R-4500**: Provided data on the viscosity of the coconut oil and beeswax mixture, highlighting a viscous consistency at 500 Pa-s, pointing to a stable semi-solid structure suitable for certain cosmetic applications.
+
+
+
+- **Gas Chromatograph GC-2010**: Analyzed volatile compounds in jojoba-based mixtures, producing a peak for gum and glycerin at 250 ppm. This affirms the formulation's fragrance profile and potential allergenic concerns.
+
+
+
+---
+
+
+
+## Results and Discussion
+
+
+
+Jojoba Oil mixtures (M1, M3, M4, M5, M7) showed consistent readings relative to their applications in cosmetic products. The Mass Spectrometer results (M3) determined the molecular weight, with m/z values indicating the presence and stability of Vitamin E.
+
+
+
+The Ion Chromatograph (M4) measured ionic components, particularly Cetyl Alcohol's effects in combination with Jojoba Oil, with a reading of 50 mM being noteworthy for emollient purposes.
+
+
+
+Mixture M9 showed a lower viscosity compared to M8, emphasizing the role of ingredient combinations on rheological behavior, reinforcing that the absence/presence of particular active ingredients can substantially change a product profile.
+
+
+
+### Table 2: Viscosity and Reactivity Analysis
+
+
+
+| Equipment           | Viscosity (cP) | Reactivity(Ct) | Observations                              |
+
+|---------------------|----------------|----------------|-------------------------------------------|
+
+| Viscometer VS-300   | 7164.69        | -              | High viscosity ideal for moisturization   |
+
+| Viscometer VS-300   | 5052.06        | -              | Lower viscosity, suitable for lighter products |
+
+| PCR Machine PCR-96  | -              | 36, 28         | Detects polymerization levels             |
+
+
+
+The variations observed in the measurements may be attributed to ingredient interactions under conditions influenced by external variables, such as temperature and equipment calibration. Moreover, the correlation between Ct values and mixture stability should be further explored.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+This comprehensive analysis demonstrated the varied properties of cosmetic mixtures dependent on their constituents. The data collected underscores the complexity of cosmetic formulation, illustrating that both composition and analytical method significantly impact the functional characteristics of the mixtures.
+
+
+
+Irrelevant data was omitted for clarity, although it should be noted that these outliers can sometimes contribute to experimental anomalies. Future studies should include broader ingredient and concentration ranges to enhance understanding and performance prediction.
+
+
+Tables:

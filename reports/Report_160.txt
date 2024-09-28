@@ -1,0 +1,198 @@
+# Lab Report 160: Comprehensive Analysis of Oil-Based Mixtures
+
+
+
+## Abstract
+
+
+
+This report presents an analytical study of various oil-based mixtures using sophisticated instrumentation. The primary objective was to assess the characteristics and concentrations of specific components within each sample. The analyses conducted included pH measurement, spectroscopic assessment, chromatographic separation, and more, offering a broad spectrum of data.
+
+
+
+## Introduction
+
+
+
+The exploration of oil-based mixtures requires precision and the convergence of multiple analytical techniques. The substances involved, such as Coconut Oil, Jojoba Oil, Almond Oil, and their respective additives like Beeswax and Vitamin E, necessitate diverse methodologies to unravel their composition and qualities.
+
+
+
+## Observations and Methodology
+
+
+
+### Instrumentation Utilized
+
+
+
+1. **HPLC System (HPLC-9000)**
+
+   - *Sample*: Coconut Oil, Cetyl Alcohol, Glycerin
+
+   - **Observation**: The chromatograph displayed a prominent peak indicating a concentration of 500 mg/L for Glycerin.
+
+  
+
+2. **pH Meter (PH-700)**
+
+   - *Sample*: Jojoba Oil, Beeswax
+
+   - **Results & Discussion**: A pH of 7 was recorded, suggesting the mixture is neutral.
+
+
+
+3. **UV-Vis Spectrophotometer (UV-2600)**
+
+   - *Sample*: Coconut Oil, Cetyl Alcohol, Vitamin E
+
+   - **Measurement**: 1.2 Abs was the resultant absorbance value, indicative of the concentration.
+
+  
+
+4. **NMR Spectrometer (NMR-500)**
+
+   - *Sample*: Almond Oil, Gum, Glycerin
+
+   - **Observation**: A strong signal at 10 ppm confirmed the presence of Glycerin.
+
+
+
+5. **Gas Chromatograph (GC-2010)**
+
+   - *Sample*: Almond Oil, Cetyl Alcohol
+
+   - **Measurement**: A peak at 250 ppm was detected for Cetyl Alcohol.
+
+  
+
+6. **Centrifuge (X100)**
+
+   - *Sample*: Coconut Oil, Cetyl Alcohol, Glycerin
+
+   - **Observation**: The mixture separated efficiently at 12000 RPM.
+
+  
+
+7. **PCR Machine (PCR-96)**
+
+   - *Sample*: Jojoba Oil, Beeswax
+
+   - **Cycle Threshold (Ct)**: The designated cycle threshold was 25 Ct.
+
+  
+
+8. **FTIR Spectrometer (FTIR-8400)**
+
+   - *Sample*: Coconut Oil, Vitamin E
+
+   - **Observation**: A peak at 3500 1/cm suggested a significant functional group.
+
+  
+
+9. **Mass Spectrometer (MS-20)**
+
+   - *Sample*: Almond Oil, Cetyl Alcohol
+
+   - **Results**: The mass-to-charge ratio of 1800 m/z was identified.
+
+  
+
+10. **Ion Chromatograph (IC-2100)**
+
+    - *Sample*: Jojoba Oil, Beeswax
+
+    - **Measurement**: A concentration of 50 mM was observed.
+
+  
+
+11. **Viscometer (VS-300)**
+
+    - **Sample 1**: Jojoba Oil, Gum
+
+      - **Viscosity**: 2125.09 cP
+
+    - **Sample 2**: Jojoba Oil, Vitamin E
+
+      - **Viscosity**: 2629.77 cP
+
+
+
+## Results and Discussion
+
+
+
+The diversity of the instrumentation allowed for comprehensive profiling of each sample. Various techniques offered insights into physical, chemical, and molecular characteristics, explaining the nature and behavior of components within these mixtures.
+
+
+
+### Tables of Results
+
+
+
+#### Table 1: Summary of Measurements
+
+
+
+| Instrumentation                | Sample Combination                       | Measurement             | Unit    |
+
+|--------------------------------|------------------------------------------|-------------------------|---------|
+
+| HPLC System (HPLC-9000)        | Coconut Oil, Cetyl Alcohol, Glycerin     | 500                     | mg/L    |
+
+| pH Meter (PH-700)              | Jojoba Oil, Beeswax                      | 7                       | pH      |
+
+| UV-Vis Spectrophotometer       | Coconut Oil, Cetyl Alcohol, Vitamin E    | 1.2                     | Abs     |
+
+| NMR Spectrometer (NMR-500)     | Almond Oil, Gum, Glycerin                | 10                      | ppm     |
+
+| Gas Chromatograph (GC-2010)    | Almond Oil, Cetyl Alcohol                | 250                     | ppm     |
+
+| Centrifuge (X100)              | Coconut Oil, Cetyl Alcohol, Glycerin     | 12000                   | RPM     |
+
+
+
+#### Table 2: Additional Measurements
+
+
+
+| Instrumentation           | Sample Combination      | Measurement | Unit   |
+
+|---------------------------|-------------------------|-------------|--------|
+
+| PCR Machine (PCR-96)      | Jojoba Oil, Beeswax     | 25          | Ct     |
+
+| FTIR Spectrometer         | Coconut Oil, Vitamin E  | 3500        | 1/cm   |
+
+| Mass Spectrometer (MS-20) | Almond Oil, Cetyl Alcohol | 1800       | m/z    |
+
+| Ion Chromatograph (IC-2100)| Jojoba Oil, Beeswax    | 50          | mM     |
+
+| Viscometer (VS-300)       | Jojoba Oil, Gum         | 2125.09     | cP     |
+
+| Viscometer (VS-300)       | Jojoba Oil, Vitamin E   | 2629.77     | cP     |
+
+
+
+## Conclusion
+
+
+
+This detailed report presents intricate data from a variety of analytical techniques applied to oil-based samples. Each method's insights contribute to a holistic understanding of the mixtures' properties. Future research may expand on these findings with enhanced analytical methods.
+
+
+
+**Note:** Ensure proper application of experimental protocols for consistent results in repeated trials across laboratories. 
+
+
+
+#### References
+
+
+
+- Oil Composition Analysis Techniques, Vol. 3
+
+- Comprehensive Spectroscopy for Organic Compounds
+
+
+Tables:

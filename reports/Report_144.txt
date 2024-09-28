@@ -1,0 +1,312 @@
+# Lab Report: Report_144
+
+
+
+## Introduction
+
+
+
+The purpose of this lab report is to analyze and evaluate various mixtures of ingredients commonly used in cosmetic and personal care formulations. We conducted a series of tests using multiple sophisticated instruments. The samples were composed of specific combinations of oils, waxes, gums, and alcohols, among other constituents. The tests were designed to measure chemical properties across different parameters such as conductivity, pH levels, viscosity, and x-ray diffraction patterns.
+
+
+
+### Sample Composition Overview
+
+
+
+For ease of reference, each group of ingredients is treated as a single test sample. The samples were randomly tested using different instruments to provide comprehensive analytical data.
+
+
+
+---
+
+
+
+## Experimental Procedures and Observations
+
+
+
+### Liquid Chromatography Analysis (LC-400)
+
+
+
+#### Sample: Coconut Oil, Beeswax, Glycerin
+
+
+
+- **Observation:** The mixture displayed a clear separation of phases upon analysis. The chromatogram peaks suggested a strong interaction between the components, especially under high-pressure conditions.
+
+
+
+- **Measurement Results:**
+
+
+
+| Sample ID | Instrument          | Measurement (ug/mL) |
+
+|-----------|---------------------|---------------------|
+
+| 144       | LC-400              | 275.32              |
+
+
+
+#### Observation Details: 
+
+
+
+The coconut oil blend produced distinct, sharp peaks indicative of effective separation of the glycerin component.
+
+
+
+---
+
+
+
+### Conductivity Testing (CM-215)
+
+
+
+#### Sample: Almond Oil, Glycerin
+
+
+
+- **Irrelevant Detail:** The almond trees were in bloom at the test location, creating a serene environment conducive to testing.
+
+  
+
+- **Measurement Results:**
+
+
+
+| Sample ID | Instrument | Measurement (uS/cm) |
+
+|-----------|------------|---------------------|
+
+| 144       | CM-215     | 1350                |
+
+
+
+---
+
+
+
+### Mechanical Testing - Four Ball Wear (FB-1000)
+
+
+
+#### Sample: Jojoba Oil, Gum
+
+
+
+- **Observation:** The oil consistently lubricated the wear scar, resulting in minimal wear.
+
+
+
+- **Measurement Results:**
+
+
+
+| Sample ID | Instrument | Measurement (mm) |
+
+|-----------|------------|-------------------|
+
+| 144       | FB-1000    | 0.560             |
+
+
+
+---
+
+
+
+## Miscellaneous Findings
+
+
+
+### pH Testing (PH-700)
+
+
+
+#### Sample: Almond Oil, Gum, Vitamin E
+
+
+
+- **Measurement Result:**
+
+  
+
+| Sample ID | Instrument | Measurement (pH) |
+
+|-----------|------------|-------------------|
+
+| 144       | PH-700     | 7.35              |
+
+
+
+#### Description:
+
+
+
+The pH was neutral. The presence of Vitamin E, an established antioxidant, stabilizes the pH, supporting its use in skin-care applications.
+
+
+
+---
+
+
+
+### Thermal Analysis (Thermocycler TC-5000)
+
+
+
+#### Sample: Coconut Oil, Glycerin
+
+
+
+- **Measurement Result:**
+
+  
+
+| Sample ID | Instrument | Measurement (°C) |
+
+|-----------|------------|------------------|
+
+| 144       | TC-5000    | 37               |
+
+
+
+---
+
+
+
+### Optical Density Measurement (Microplate Reader MRX)
+
+
+
+#### Sample: Jojoba Oil, Beeswax, Vitamin E
+
+
+
+- **During the test,** the light incident angle slightly altered due to a brief disturbance.
+
+
+
+- **Measurement Result:**
+
+  
+
+| Sample ID | Instrument | Measurement (OD) |
+
+|-----------|------------|------------------|
+
+| 144       | MRX        | 2.1              |
+
+
+
+---
+
+
+
+### Solubility Testing (Titrator T-905)
+
+
+
+#### Sample: Almond Oil, Cetyl Alcohol, Glycerin
+
+
+
+- **Measurement Result:**
+
+  
+
+| Sample ID | Instrument | Measurement (M) |
+
+|-----------|------------|-----------------|
+
+| 144       | T-905      | 0.345           |
+
+
+
+---
+
+
+
+### X-Ray Diffraction (XRD-6000)
+
+
+
+#### Sample: Jojoba Oil, Gum, Vitamin E
+
+
+
+- **Measurement Result:**
+
+  
+
+| Sample ID | Instrument | Measurement (°C) |
+
+|-----------|------------|------------------|
+
+| 144       | XRD-6000   | 120              |
+
+
+
+---
+
+
+
+### UV-Visible Spectroscopy (UV-2600)
+
+
+
+#### Sample: Almond Oil, Gum
+
+
+
+- **Measurement Result:**
+
+  
+
+| Sample ID | Instrument | Measurement (Abs) |
+
+|-----------|------------|------------------|
+
+| 144       | UV-2600    | 1.8              |
+
+
+
+---
+
+
+
+### Viscosity Testing (Viscometer VS-300)
+
+
+
+#### Sample: Jojoba Oil, Gum
+
+
+
+- **Measurement Result:**
+
+  
+
+| Sample ID | Instrument | Measurement (cP) |
+
+|-----------|------------|------------------|
+
+| 144       | VS-300     | 1987.78          |
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The comprehensive testing of various samples revealed insightful data to fine-tune formulations for potential product development. Each method provided different aspects of physical and chemical properties critical for formulation stability and efficacy. Despite a few external disturbances, the results showed consistency and reliability, suggesting feasibility in commercial applications. Further assessments and scale-up experiments are recommended for conclusive validation.
+
+
+Tables:

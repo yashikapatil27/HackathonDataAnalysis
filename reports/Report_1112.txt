@@ -1,0 +1,168 @@
+# Laboratory Report: Report_1112
+
+
+
+## Introduction
+
+
+
+The purpose of this study is to analyze various mixtures containing components such as oils, waxes, gums, and vitamin E using different analytical techniques. The mixtures were tested for properties like pH, wear resistance, viscosity, conductivity, and component concentration. Each mixture is considered a test sample and has been analyzed using specific instruments.
+
+
+
+## Methods and Materials
+
+
+
+### Instruments Used
+
+- **pH Meter PH-700**
+
+- **Four Ball Wear Tester FB-1000**
+
+- **Centrifuge X100**
+
+- **UV-Vis Spectrophotometer UV-2600**
+
+- **Conductivity Meter CM-215**
+
+- **HPLC System HPLC-9000**
+
+- **Gas Chromatograph GC-2010**
+
+- **Viscometer VS-300**
+
+
+
+### Samples
+
+- **Sample A:** Almond Oil, Gum, Glycerin
+
+- **Sample B:** Almond Oil, Beeswax, Vitamin E
+
+- **Sample C:** Coconut Oil, Beeswax
+
+- **Sample D:** Coconut Oil, Beeswax, Vitamin E
+
+- **Sample E:** Almond Oil, Vitamin E
+
+- **Sample F:** Coconut Oil, Gum
+
+- **Sample G:** Jojoba Oil, Vitamin E
+
+- **Sample H:** Jojoba Oil, Gum, Vitamin E
+
+- **Sample I:** Almond Oil, Gum
+
+
+
+## Results
+
+
+
+### Table 1: pH Measurement
+
+| Sample | Ingredients                  | Instrument        | Measurement Value |
+
+|--------|------------------------------|-------------------|-------------------|
+
+| A      | Almond Oil, Gum, Glycerin    | pH Meter PH-700   | 6.8 (pH)          |
+
+
+
+### Table 2: Wear Resistance
+
+| Sample | Ingredients                 | Instrument       | Measurement Value  |
+
+|--------|-----------------------------|------------------|--------------------|
+
+| B      | Almond Oil, Beeswax, Vitamin E | Four Ball FB-1000 | 0.500 mm           |
+
+
+
+### Table 3: Centrifugation
+
+| Sample | Ingredients          | Instrument      | Speed  |
+
+|--------|----------------------|-----------------|--------|
+
+| C      | Coconut Oil, Beeswax | Centrifuge X100 | 12000 RPM |
+
+
+
+### Table 4: UV-Visible Spectroscopy
+
+| Sample | Ingredients                   | Instrument              | Measurement Value  |
+
+|--------|-------------------------------|-------------------------|--------------------|
+
+| D      | Coconut Oil, Beeswax, Vitamin E | UV-Vis Spectrophotometer UV-2600 | 1.2 Abs |
+
+
+
+### Table 5: Conductivity
+
+| Sample | Ingredients          | Instrument        | Measurement Value |
+
+|--------|----------------------|-------------------|-------------------|
+
+| E      | Almond Oil, Vitamin E | Conductivity Meter CM-215 | 1500 uS/cm       |
+
+
+
+### Table 6: High-Performance Liquid Chromatography
+
+| Sample | Ingredients     | Instrument   | Measurement Value |
+
+|--------|-----------------|--------------|-------------------|
+
+| F      | Coconut Oil, Gum | HPLC System HPLC-9000 | 50.0 mg/L          |
+
+
+
+### Table 7: Gas Chromatography
+
+| Sample | Ingredients           | Instrument         | Measurement Value |
+
+|--------|-----------------------|--------------------|-------------------|
+
+| G      | Jojoba Oil, Vitamin E | Gas Chromatograph GC-2010 | 0.5 ppm           |
+
+
+
+### Table 8: Viscosity
+
+| Sample | Ingredients                    | Instrument    | Measurement Value |
+
+|--------|--------------------------------|---------------|-------------------|
+
+| H      | Jojoba Oil, Gum, Vitamin E     | Viscometer VS-300 | 1989.41 cP        |
+
+| I      | Almond Oil, Gum                | Viscometer VS-300 | 7588.14 cP        |
+
+
+
+## Observations
+
+
+
+The data gathered indicated that each combination of components exhibited unique physical and chemical properties. Samples containing gummy substances, such as Sample A, exhibited relatively neutral pH, while wear-resistant qualities were more pronounced in samples with added vitamin E (e.g., Sample B). High viscosity was noted in Sample I, suggesting a potential interaction between almond oil and gum that affects flow properties.
+
+
+
+## Conclusion
+
+
+
+This experimental analysis concludes that the different mixtures display a wide array of properties depending on their composition. Instruments such as the pH Meter PH-700, Four Ball Wear Tester FB-1000, and others played critical roles in characterizing these properties. However, discrepancies in certain sample behaviors should be further investigated for more comprehensive understanding.
+
+
+
+---
+
+
+
+*Note: Due to the complexity of the test mixtures and varying analysis conditions, further studies are recommended to better understand the interplay of these components in practical applications.*
+
+
+Tables:

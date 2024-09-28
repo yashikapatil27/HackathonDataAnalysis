@@ -1,0 +1,246 @@
+# Lab Report - Study of Various Oil-Based Mixtures
+
+
+
+### Report Reference: 530
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+This report documents the analytical methods and results from testing various oil-based mixtures. Using sophisticated equipment, such as Liquid Chromatograph, Thermocycler, PCR Machine, and others, we meticulously documented observations and extracted data to assess different properties like concentration, temperature stability, and viscosity.
+
+
+
+---
+
+
+
+## Materials and Equipment
+
+
+
+- **Liquid Chromatograph LC-400**
+
+- **Thermocycler TC-5000**
+
+- **PCR Machine PCR-96**
+
+- **FTIR Spectrometer FTIR-8400**
+
+- **Conductivity Meter CM-215**
+
+- **Microplate Reader MRX**
+
+- **X-Ray Diffractometer XRD-6000**
+
+- **Viscometer VS-300**
+
+
+
+### Test Samples
+
+
+
+1. **Jojoba Oil, Gum, Vitamin E**
+
+2. **Almond Oil, Cetyl Alcohol, Glycerin**
+
+3. **Jojoba Oil, Vitamin E**
+
+4. **Almond Oil, Beeswax**
+
+5. **Almond Oil, Vitamin E**
+
+6. **Jojoba Oil, Cetyl Alcohol**
+
+7. **Coconut Oil, Glycerin**
+
+8. **Almond Oil, Gum**
+
+9. **Almond Oil, Gum, Vitamin E**
+
+10. **Coconut Oil**
+
+
+
+---
+
+
+
+## Experimental Procedures and Observations
+
+
+
+---
+
+
+
+### Liquid Chromatography
+
+
+
+The chromatograph was employed to determine the concentration of specific organic constituents in the mixture samples of both jojoba oil and almond oil. An anomaly was noted where a banana peel was found obstructing the chromatographic column, yet the results remained uncompromised.
+
+
+
+| Equipment | Mixture | Concentration (ug/mL)     |
+
+| --------- | ------- | --------------------------|
+
+| LC-400    | Jojoba Oil, Gum, Vitamin E  | 135.7     |
+
+| LC-400    | Almond Oil, Gum             | 240.3     |
+
+
+
+### Thermal Stability
+
+
+
+The Thermocycler TC-5000 was used to measure temperature resilience. Oddly, an unexpected power surge affected the consistency of the heat distribution.
+
+
+
+| Equipment | Mixture                           | Temperature (°C) |
+
+| --------- | --------------------------------- | ---------------- |
+
+| TC-5000   | Almond Oil, Cetyl Alcohol, Glycerin | 65               |
+
+| XRD-6000  | Coconut Oil, Glycerin             | 90               |
+
+
+
+### PCR Analysis
+
+
+
+PCR techniques detected amplification cycles. A stray dog was seen in the lab during this experiment which led to a brief delay.
+
+
+
+| Equipment | Mixture            | Ct Value |
+
+| --------- | ------------------ | -------- |
+
+| PCR-96    | Jojoba Oil, Vitamin E | 25       |
+
+
+
+### FTIR Spectroscopy
+
+
+
+FTIR-8400 enabled us to determine the functional groups interacting within the samples. There was a notable 'chirping' sound thought to be a malfunction, later identified as a bird in the ventilation.
+
+
+
+| Equipment | Mixture              | Wavenumber (1/cm) |
+
+| --------- | -------------------- | ----------------- |
+
+| FTIR-8400 | Almond Oil, Beeswax  | 1500              |
+
+
+
+### Conductivity Measurements
+
+
+
+Through Conductivity Meter CM-215, conductivity levels were assessed, showboating occasionally interrupted by spontaneous dance breaks.
+
+
+
+| Equipment | Mixture              | Conductivity (uS/cm) |
+
+| --------- | -------------------- | -------------------- |
+
+| CM-215    | Almond Oil, Vitamin E | 950                 |
+
+
+
+### Microplate Readings
+
+
+
+Optical Density was measured using Microplate Reader MRX, accurately reflecting the transmittance through the solution despite inconsistent lighting.
+
+
+
+| Equipment | Mixture            | Optical Density (OD) |
+
+| --------- | ------------------ | ---------------------|
+
+| MRX       | Jojoba Oil, Cetyl Alcohol | 0.8            |
+
+
+
+### Viscosity Assessment
+
+
+
+Viscometer provided intricate viscosity details, captured suspiciously amidst the ticking of an unknown watch.
+
+
+
+| Equipment  | Mixture               | Viscosity (cP) |
+
+| ---------- | --------------------- | ---------------|
+
+| VS-300     | Almond Oil, Gum, Vitamin E | 7688.21       |
+
+| VS-300     | Coconut Oil          | 4881.06       |
+
+
+
+---
+
+
+
+## Results and Discussion
+
+
+
+In-depth analysis of each test revealed a spectrum of interactions. The chromatographic results revealed high concentration levels, indicating robust synergy in mixtures containing gums and oils. Thermal stability tests portrayed significant resilience above typical ambient temperatures, pivotal for storage and application.
+
+
+
+FTIR findings corroborated the presence of ester groups, fundamental to the stability and function of these mixtures. Conductivity measurements suggest that the mixtures are within permissible electrical properties for their intended applications. Viscosity readings demonstrate wide applicability, lending support to their potential use in personal care or industrial products.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+Despite peripheral disruptions from environmental and unplanned creature interferences, the study provided meaningful insights into the complex dynamics of oil-based mixtures.
+
+
+
+### Acknowledgments
+
+
+
+Special thanks to the janitorial staff, who played an unexpected and delightful role in our lab environment ambiance.
+
+
+
+---
+
+
+
+Please review the appendix for tangential musings on the practical implications of unexpected laboratory companions.
+
+
+Tables:

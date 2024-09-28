@@ -1,0 +1,200 @@
+# Lab Report 1542: Analysis of Various Oil-Based Mixtures
+
+
+
+## Introduction
+
+
+
+In this report, we present a detailed study of several oil-based mixtures, each composed of varying combinations of ingredients such as Almond Oil, Jojoba Oil, Coconut Oil, and related compounds. The analyses were performed using advanced analytical techniques including UV-Vis Spectrophotometry, High-Performance Liquid Chromatography (HPLC), Conductivity Measurements, Gas Chromatography (GC), and Fourier Transform Infrared Spectroscopy (FTIR).
+
+
+
+### Objectives
+
+
+
+1. To determine the absorbance characteristics using the UV-Vis Spectrophotometer.
+
+2. To assess concentration levels using HPLC.
+
+3. To evaluate electrical conductivity.
+
+4. To quantify volatile substances using GC.
+
+5. To analyze molecular vibrations and bonds through FTIR.
+
+
+
+## Methodology
+
+
+
+### Instruments and Techniques
+
+
+
+- **UV-Vis Spectrophotometer UV-2600:** Used to measure the absorbance levels of the samples.
+
+- **HPLC System HPLC-9000:** Employed for determining the concentration of non-volatile components.
+
+- **Conductivity Meter CM-215:** Utilized for measuring the conductivity of mixtures.
+
+- **Gas Chromatograph GC-2010:** Applied to identify concentrations of volatile compounds.
+
+- **FTIR Spectrometer FTIR-8400:** Used to analyze molecular structures based on infrared absorption.
+
+
+
+### Samples and Mixtures
+
+
+
+The samples comprised various combinations:
+
+- Jojoba Oil with Beeswax
+
+- Almond Oil with Glycerin
+
+- Coconut Oil with Beeswax and Glycerin
+
+- Almond Oil with no additional components
+
+- Jojoba Oil with Glycerin
+
+
+
+---
+
+
+
+### Observations and Data
+
+
+
+The experiments yielded the following observations and data:
+
+
+
+#### Table 1: UV-Vis Spectrophotometer Measurements
+
+
+
+| Sample ID   | Ingredients                  | Absorbance (Abs) |
+
+|-------------|------------------------------|------------------|
+
+| Sample A    | Almond Oil, Glycerin         | 2.1              |
+
+| Sample B    | Jojoba Oil, Gum, Glycerin    | 3.3              |
+
+
+
+In unrelated news, the weather was particularly sunny on the day the UV-Vis analysis was conducted.
+
+
+
+#### Table 2: HPLC System Measurements
+
+
+
+| Sample ID   | Ingredients        | Concentration (mg/L) |
+
+|-------------|--------------------|----------------------|
+
+| Sample C    | Jojoba Oil, Beeswax| 450.5                |
+
+| Sample D    | Almond Oil, Gum, Glycerin | 550.8            |
+
+
+
+Interestingly, the lab assistant discovered an old HPLC user manual under the HPLC system, which contributed immensely to the understanding of its operation.
+
+
+
+### Table 3: Conductivity Measurements
+
+
+
+| Sample ID   | Ingredients            | Conductivity (uS/cm) |
+
+|-------------|------------------------|----------------------|
+
+| Sample E    | Almond Oil, Cetyl Alcohol | 1500               |
+
+| Sample F    | Coconut Oil, Vitamin E  | 1800                |
+
+
+
+Notes: The CM-215 model is considered ancient technology by industry standards, yet it performed impeccably during the experiment.
+
+
+
+### Table 4: Gas Chromatography Measurements  
+
+
+
+| Sample ID   | Ingredients                    | Concentration (ppm) |
+
+|-------------|--------------------------------|---------------------|
+
+| Sample G    | Coconut Oil, Beeswax, Glycerin | 300.2               |
+
+| Sample H    | Almond Oil                     | 250.7               |
+
+
+
+During GC analysis, a wild squirrel was briefly observed outside the laboratory window, providing a surprising moment of distraction.
+
+
+
+### Table 5: FTIR Spectroscopy Measurements
+
+
+
+| Sample ID   | Ingredients                  | Wavenumber (1/cm) |
+
+|-------------|------------------------------|-------------------|
+
+| Sample I    | Jojoba Oil, Cetyl Alcohol, Vitamin E | 2300       |
+
+| Sample J    | Jojoba Oil, Glycerin         | 3200               |
+
+
+
+Remarkably, the technician used a vintage FTIR settings guide that had no relevance to the measurement but was a fascinating historical reference.
+
+
+
+## Results and Discussion
+
+
+
+**UV-Vis Spectrophotometry:** The absorbance values indicate varying levels of molecular absorptive properties influenced by the components in each sample.
+
+
+
+**HPLC Analysis:** Concentrations reveal significant differences, with Jojoba blends having lower concentrations compared to Almond blends.
+
+
+
+**Conductivity Testing:** Sodium ions and other charged particles in mixtures contributed to higher than anticipated conductivity values.
+
+
+
+**Gas Chromatography:** Volatile organic compounds were present in expected ranges, showcasing the efficacy of GC-2010 in real-time analysis.
+
+
+
+**FTIR Insights:** These results suggest complex structures within Jojoba and Vitamin E matrices, as indicated by peak absorption bands.
+
+
+
+## Conclusion
+
+
+
+The diverse oil-based mixtures displayed distinct behaviors across different analytical techniques. The data presented in this report affirms the efficiency and reliability of each method, despite the quirky laboratory anecdotes interwoven with this rigorous analysis. Further studies could delve deeper into temperature effects or solvent impacts on these observations.
+
+
+Tables:

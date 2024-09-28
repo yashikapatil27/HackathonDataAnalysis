@@ -1,0 +1,152 @@
+# Lab Report
+
+
+
+## Title: Multi-Method Analysis of Ingredient Mixtures
+
+
+
+### Introduction
+
+
+
+The purpose of this study was to evaluate various mixtures of oils and related compounds using diverse analytical methods to obtain insights into their physicochemical properties. Each mixture was analyzed with a specific instrument chosen to highlight certain aspects of its composition or behavior. The details of the instruments and samples are reported below, along with observations and results.
+
+
+
+### Materials and Methods
+
+
+
+Each test sample was prepared using combinations of oils (e.g., Jojoba Oil, Coconut Oil, Almond Oil) and other additives (e.g., Glycerin, Cetyl Alcohol, Beeswax). Strict sample preparation protocols were followed to ensure consistency across analyses.
+
+
+
+### Results and Discussion
+
+
+
+In this section, we present our findings from different analytical techniques. The data recorded were as follows:
+
+
+
+#### Instrumentation and Key Measurements
+
+
+
+Below are tables with the data related to the specific methodologies employed:
+
+
+
+#### Table 1: FTIR and Ion Chromatography Analyses
+
+
+
+| **Instrument**                          | **Sample Components**                 | **Measurement** | **Units** |
+
+|----------------------------------------|--------------------------------------|-----------------|-----------|
+
+| FTIR Spectrometer FTIR-8400             | Jojoba Oil, Beeswax, Glycerin        | 3500            | 1/cm      |
+
+| Ion Chromatograph IC-2100              | Coconut Oil, Cetyl Alcohol, Glycerin | 50              | mM        |
+
+
+
+##### Miscellaneous Observations
+
+
+
+- The FTIR spectrum of the Jojoba Oil, Beeswax, and Glycerin mixture displayed characteristic absorption peaks that indicated ester and hydroxyl functional groups.
+
+
+
+#### Irrelevant Information: The laboratory was painted a soothing blue color on the recommendation of a Feng Shui consultant. Despite this, the spectrometers operated without issue.
+
+
+
+#### Table 2: Microplate Reader and HPLC Analyses
+
+
+
+| **Instrument**                  | **Sample Components**            | **Measurement** | **Units** |
+
+|--------------------------------|---------------------------------|-----------------|-----------|
+
+| Microplate Reader MRX          | Jojoba Oil, Cetyl Alcohol, Glycerin | 2.5           | OD        |
+
+| HPLC System HPLC-9000          | Jojoba Oil, Cetyl Alcohol, Glycerin | 500           | mg/L      |
+
+
+
+##### Complex Descriptions
+
+
+
+- The optical density of the Jojoba Oil and Cetyl Alcohol mixture suggested potential interactions between components, reflecting in the phase stability and light scattering properties observed.
+
+- HPLC results confirmed the presence of glycerin in significant concentrations, with retention times aligning with previous studies.
+
+
+
+#### Table 3: Additional Measurements
+
+
+
+| **Instrument**          | **Sample Components**                 | **Measurement** | **Units** |
+
+|------------------------|--------------------------------------|-----------------|-----------|
+
+| Four Ball FB-1000        | Jojoba Oil, Glycerin                  | 0.750           | mm        |
+
+| Thermocycler TC-5000    | Jojoba Oil                            | 35              | C         |
+
+| Viscometer VS-300       | Coconut Oil, Vitamin E                | 4943.59         | cP        |
+
+| Viscometer VS-300       | Almond Oil                            | 7527.07         | cP        |
+
+
+
+#### Supplementary Observations
+
+
+
+- A wear scar diameter of 0.750 mm was recorded for the Jojoba Oil and Glycerin mixture, indicating moderate lubrication properties.
+
+- Viscosity measurements revealed that Almond Oil exhibited higher viscosity compared to Coconut Oil, which can affect its spreadability and absorption in cosmetic applications.
+
+
+
+#### Irrelevant Information: The laboratory air conditioning system was maintained at 21°C to ensure optimal comfort for technicians, although no effect on experimental outcomes was noted.
+
+
+
+### Conclusion
+
+
+
+Through precise analytical techniques, this study characterized various mixtures containing oils and other compounds. By deploying a range of instruments, we elucidated key properties such as IR absorption, optical density, chromatographic separation, mechanical durability, and viscosity. These findings are invaluable for further applications in cosmetic, pharmacological, and industrial domains.
+
+
+
+### Acknowledgements
+
+
+
+We thank the technical staff for maintaining the instruments and ensuring the data is collected as planned. Thanks also to the maintenance crew for keeping the lab's physical conditions ideal.
+
+
+
+### References
+
+
+
+1. Standard protocols for spectrometric analysis, Journal of Analytical Chemistry, 2023.
+
+2. Advanced techniques in chromatography, Modern Chromatography Review, 2023.
+
+
+
+---
+
+
+Tables:

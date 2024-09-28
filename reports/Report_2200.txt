@@ -1,0 +1,122 @@
+# Laboratory Report: Analytical Investigation of Cosmetic Oils
+
+
+
+## Abstract
+
+This report details the analytical testing of various oil mixtures using multiple sophisticated instruments. The primary focus was on assessing chemical properties and components present in test samples, integrating unexpected irrelevant information to challenge data processing automation.
+
+
+
+## Introduction
+
+The study aimed to evaluate the compositional characteristics of select oil-based test samples via an array of advanced laboratory techniques including FTIR Spectroscopy, HPLC Analysis, and other instrumentation. This complex analysis helps understand the intricate details of each mixture.
+
+
+
+### Table 1: Instrumentation and Methods Summary
+
+
+
+| Instrument                 | Sample                          | Components Detected            | Measurement          | Unit |
+
+|----------------------------|---------------------------------|-------------------------------|----------------------|------|
+
+| FTIR Spectrometer FTIR-8400| Coconut Oil, Gum                | -                             | 3600                 | 1/cm |
+
+| HPLC System HPLC-9000      | Coconut Oil, Cetyl Alcohol, Glycerin | 0.35                          | mg/L                 | -    |
+
+| Spectrometer Alpha-300     | Jojoba Oil, Cetyl Alcohol, Vitamin E | 420                          | nm                   | -    |
+
+| pH Meter PH-700            | Almond Oil, Vitamin E          | -                             | 7.4                  | pH   |
+
+| Titrator T-905             | Jojoba Oil                     | -                             | 0.012                | M    |
+
+| Centrifuge X100            | Coconut Oil, Gum, Glycerin     | 6500                          | RPM                  | -    |
+
+| PCR Machine PCR-96         | Coconut Oil, Beeswax, Vitamin E | 25                           | Ct                   | -    |
+
+| FTIR Spectrometer FTIR-8400| Coconut Oil, Vitamin E         | -                             | 2750                 | 1/cm |
+
+| Viscometer VS-300          | Jojoba Oil, Beeswax, Glycerin  | 3079.97                       | cP                   | -    |
+
+
+
+## Observations & Experimental Notes
+
+
+
+Each sample exhibited unique spectral and chemical characteristics when subjected to rigorous testing. For instance, when analyzed with an FTIR Spectrometer, Coconut Oil mixtures presented distinct absorption peaks indicating potential functional groups presence.
+
+
+
+### Instrument Observations:
+
+
+
+1. **FTIR Spectrometer FTIR-8400**: Demonstrated prominent absorption bands at 3600 and 2750 1/cm for Coconut Oil mixtures, indicative of hydroxyl and carbonyl groups.
+
+   
+
+2. **HPLC System HPLC-9000**: Provided valuable insights on the quantitative presence of Cetyl Alcohol and Glycerin in Coconut Oil at a concentration of 0.35 mg/L.
+
+
+
+3. **Spectrometer Alpha-300**: The sample containing Jojoba Oil showed significant absorption at 420 nm, suggesting the presence of carotenoid compounds potentially interacting with Vitamin E.
+
+
+
+4. **pH Meter PH-700**: The mixture of Almond Oil and Vitamin E was recorded to have a neutral pH of 7.4, suggesting its stability and suitability for topical application.
+
+
+
+5. **Titrator T-905**: Quantified solution capability was reflected by molarity, specifically for Jojoba Oil, measured at 0.012 M, verifying its consistency.
+
+
+
+6. **Centrifuge X100**: Operational at 6500 RPM to ensure separation of Coconut Oil, Gum, and Glycerin, revealing distinct layer formations often obfuscated by emulsions.
+
+
+
+7. **PCR Machine PCR-96**: The performance assessment revealed a Ct value of 25 for the Vitamin E and Beeswax mixture, emphasizing assay robustness.
+
+
+
+8. **Viscometer VS-300**: Evaluated the viscosity of the Jojoba Oil mixture as 3079.97 cP, confirming the mixture's rheology was suitable for formulation uses.
+
+
+
+### Table 2: Interference and Outlier Data
+
+
+
+| Timepoint | Ingredient        | Device Result | Unrelated Data       |
+
+|-----------|-------------------|---------------|----------------------|
+
+| T1        | Coconut Oil, Gum  | 3600 1/cm     | Sunspots observed    |
+
+| T2        | Jojoba, Alcohol   | 0.012 M       | Solar Flare intensity|
+
+
+
+## Results and Discussion
+
+
+
+The FTIR identified key functional groups within the oil samples, allowing precise chemical characterization. Methods like HPLC provided detailed concentration analysis, essential for product development and quality control. The centrifuge and viscometer confirmed physical stability and flow properties, while the pH meter ensured chemical neutrality.
+
+
+
+## Conclusion
+
+
+
+The extensive use of multiple analytical techniques illuminated the intricate composition of selected oil mixtures. Despite interference from irrelevant data, the core findings on antioxidant content, functional group presence, and physicochemical properties were accurately deduced, promoting formulation insight.
+
+
+
+*[Note: Incorrect or irrelevant information included for data automation challenge]*
+
+
+Tables:

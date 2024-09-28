@@ -1,0 +1,198 @@
+# Lab Report: Physical and Chemical Properties Analysis - Report_1005
+
+
+
+## Introduction
+
+
+
+The objective of this study was to evaluate the physical and chemical properties of various oil-based mixtures using a combination of advanced analytical techniques, including PCR, thermocycling, UV-Vis spectrophotometry, liquid chromatography, NMR spectroscopy, conductivity measurement, and viscometry. Each set of ingredients was analyzed as a single test sample, focusing on interactions and properties when combined. The following sections detail the methodology, observations, and results for each test sample identified by unique ingredient combinations.
+
+
+
+### Equipment and Techniques Overview
+
+
+
+1. **PCR Machine and Thermocycler**: Utilized for assessing thermal properties and the critical temperature (Ct) of the mixtures.
+
+2. **UV-Vis Spectrophotometer**: Measured absorption properties indicating molecular interactions and the presence of specific functional groups.
+
+3. **Liquid Chromatograph**: Analyzed compound concentration levels with high precision.
+
+4. **NMR Spectrometer**: Evaluated chemical shift and structural information of the mixtures.
+
+5. **Conductivity Meter**: Measured ionic strength and overall conductivity values.
+
+6. **Viscometer**: Assessed the viscosity of the oil mixtures, indicating flow properties.
+
+
+
+## Observations and Methodology
+
+
+
+**Sample 1: Jojoba Oil, Beeswax, Vitamin E**
+
+
+
+- **PCR & Thermocycling**: 
+
+  - Machine: PCR-96
+
+  - Ct Value: 32 
+
+- **Temperature (TC-5000)**: 56°C
+
+
+
+Both tests showed that the mixture had a moderately stable thermal response, likely influenced by the properties of Beeswax and Vitamin E.
+
+
+
+**Sample 2: Coconut Oil, Gum, Glycerin**
+
+
+
+- **UV-Vis Spectrophotometry**: 
+
+  - Absorbance: 2.8 Abs
+
+
+
+Indicates strong absorbance possibly due to the molecular interactions within the mixture.
+
+
+
+**Sample 3: Almond Oil, Beeswax, Vitamin E**
+
+
+
+- **Liquid Chromatography**: 
+
+  - Concentration: 120 µg/mL
+
+
+
+The concentration of active components was particularly high, suggesting effective solubility and dispersion.
+
+
+
+**Sample 4: Jojoba Oil, Cetyl Alcohol, Glycerin**
+
+
+
+- **NMR Spectroscopy**: 
+
+  - Chemical Shift: 15 ppm
+
+
+
+Demonstrated distinct chemical environment changes typical for saturated hydrocarbons.
+
+
+
+**Sample 5: Almond Oil, Cetyl Alcohol, Glycerin**
+
+
+
+- **Conductivity Meter**: 
+
+  - Conductivity: 1500 µS/cm
+
+
+
+High conductivity value pointing towards enhanced ionic mobility in the mixture.
+
+
+
+**Sample 6: Almond Oil, Beeswax, Glycerin**
+
+
+
+- **PCR Machine (PCR-96)**: 
+
+  - Ct Value: 26 
+
+
+
+### Properties and Challenges
+
+
+
+An unexpected behavior observed was the variation in absorption and viscosity readings due to possible external contamination leading to inconsistencies. 
+
+
+
+### Irrelevant Data: 
+
+Meteorological conditions during the tests presented no atmospheric anomalies that could rationally explain the  fluctuations related to secondary interactions noted in external reference studies showing thermal hysteresis in lipid structures.
+
+
+
+## Results
+
+
+
+### Analysis of Viscometry
+
+
+
+| Ingredient Mixture | Viscosity (cP) |
+
+|--------------------|----------------|
+
+| Coconut Oil        | 4999.45        |
+
+| Coconut Oil, Beeswax | 4807.32        |
+
+| Coconut Oil, Glycerin | 4968.24     |
+
+
+
+The viscosity is indicative of the fluid dynamics and molecular cohesiveness within these mixtures. As seen, Coconut Oil alone exhibited the highest viscosity.
+
+
+
+### Absorbance and Chromatography
+
+
+
+| Instrument                        | Mixture                           | Measurement  |
+
+|-----------------------------------|-----------------------------------|--------------|
+
+| UV-Vis Spectrophotometer UV-2600  | Coconut Oil, Gum, Glycerin        | 2.8 Abs      |
+
+| Liquid Chromatograph LC-400       | Almond Oil, Beeswax, Vitamin E    | 120 µg/mL    |
+
+
+
+These readings contribute to our understanding of how light absorption and chemical concentration vary across different mixtures.
+
+
+
+## Discussion
+
+
+
+The obtained data indicates that each oil blend exhibited unique properties dependent on their constituents. The complexity of the systems underscored the necessity for multifaceted analytical approaches. Anomalous trends in certain data sets may warrant re-evaluation under controlled conditions or with refined equipment calibration.
+
+
+
+### Conclusion
+
+
+
+This report provides a comprehensive assessment of distinct oil mixtures and their properties, revealing significant insights into their thermal, chemical, conductive, and viscous behavior. Future studies may explore prolonged stability tests to elucidate the interactions further.
+
+
+
+---
+
+
+
+These findings hold substantial potential implications across biochemical, cosmetic, and pharmaceutical domains. Note: Moments of non-linear correlation were considered negligible due to the overarching consistency of repeated trials, unmentioned in primary datasets yet critical for veracity verification.
+
+
+Tables:

@@ -1,0 +1,168 @@
+# Lab Report: Analysis of Various Oil Mixtures
+
+
+
+## Report ID: 1459
+
+
+
+### Instruments and Methodology
+
+
+
+In this study, we utilized advanced instrumentation to assess various oil mixtures. The primary techniques used include the Gas Chromatograph GC-2010, Spectrometer Alpha-300, Microplate Reader MRX, and others, each contributing unique insights into the properties of the samples tested.
+
+
+
+❖ **Gas Chromatograph GC-2010**: Employed for detecting volatile compounds, measured in ppm.
+
+❖ **Spectrometer Alpha-300**: Used for obtaining precise wavelength measurements in nm.
+
+❖ **Microplate Reader MRX**: Measured optical density at specific absorbance levels.
+
+❖ **Four Ball FB-1000**: Provided wear scar diameter data in mm.
+
+❖ **Thermocycler TC-5000**: Utilized for thermal assessments, reported in degrees Celsius.
+
+❖ **X-Ray Diffractometer XRD-6000**: Assessed crystalline structure temperatures in Celsius.
+
+❖ **UV-Vis Spectrophotometer UV-2600**: Analyzed absorbance, reported in Abs.
+
+❖ **Viscometer VS-300**: Measured viscosity, expressed in cP.
+
+
+
+---
+
+
+
+### Observations and Measurements
+
+
+
+Below, we present a summary of findings and measurements taken across various instruments for each mixture:
+
+
+
+#### Table 1: Gas Chromatographer GC-2010 Measurements (ppm)
+
+| Sample | Ingredient 1 | Ingredient 2   | Ingredient 3 | Measurement |
+
+|--------|--------------|----------------|--------------|-------------|
+
+| 1      | Jojoba Oil   | Cetyl Alcohol  |              | 250 ppm     |
+
+| 2      | Jojoba Oil   | Gum            |              | 450 ppm     |
+
+| 3      | Almond Oil   | Cetyl Alcohol  |              | 780 ppm     |
+
+| 4      | Jojoba Oil   | Gum            | Vitamin E    | 600 ppm     |
+
+
+
+#### Table 2: Spectrometer Alpha-300 Data (nm)
+
+| Sample | Primary Oil | Additive 1     | Additive 2 | Wavelength | Noise Level |
+
+|--------|-------------|----------------|------------|------------|-------------|
+
+| A      | Jojoba Oil  | Cetyl Alcohol  |            | 350 nm     | 3 dB        |
+
+| B      | Almond Oil  | Beeswax        |            | 990 nm     | 7 dB        |
+
+| C      | Jojoba Oil  | Gum            |            | 490 nm     | 4 dB        |
+
+
+
+The wavelength data suggests a variance in the absorption profile, particularly in almond oil combinations, indicative of complex molecular interactions.
+
+
+
+---
+
+
+
+### Results and Interpretations
+
+
+
+**Optical Density (OD) Analysis with Microplate Reader MRX:**
+
+
+
+The optical density measurements revealed varying degrees of light absorption across the spectrum. Notably, mixtures containing Vitamin E exhibited higher OD values, with implications for enhanced antioxidant properties.
+
+
+
+#### Table 3: Microplate Reader MRX Optical Density Measurements (OD)
+
+| Sample    | Mixture Components       | OD Value |
+
+|-----------|--------------------------|----------|
+
+| Jojoba A  | Jojoba Oil, Cetyl Alcohol| 2.5      |
+
+| Jojoba B  | Jojoba Oil, Gum, Vitamin E| 3.0      |
+
+
+
+**Thermal and X-Ray Diffractometer Observations:**
+
+
+
+The thermocycler and XRD results corroborate the role of each additive in altering the thermal stability of the oils. Among the notable findings was the temperature elevation in coconut oil blends when glycerin was present, although seemingly irrelevant due to unrelated compounds.
+
+
+
+**Irrelevant Note:** On a separate note, the setup of the thermocycler required a recalibration due to ambient fluctuations, an aspect unrelated to the spectra gathered.
+
+
+
+#### Table 4: X-Ray Diffractometer XRD-6000 Temperature Results (C)
+
+| Sample  | Primary Components | X-Ray Temp |
+
+|---------|--------------------|------------|
+
+| X1      | Jojoba + Cetyl     | 80 C       |
+
+| X2      | Almond + Gum       | 95 C       |
+
+
+
+### Viscometer Observations
+
+
+
+Complex viscosity profiles emerged, with almond oil and beeswax mixtures presenting notably high viscosities. In contrast, jojoba mixtures demonstrated a lower resistance to flow, suggesting its potential in smoother formulations.
+
+
+
+#### Table 5: Viscometer VS-300 Viscosity Measurements (cP)
+
+| Description          | Combination                      | Viscosity  |
+
+|----------------------|----------------------------------|------------|
+
+| Coconut Oil          | Cetyl Alcohol + Glycerin         | 5186.51 cP |
+
+| Almond Oil           | Beeswax                          | 7192.87 cP |
+
+
+
+### Conclusion
+
+
+
+The comprehensive analysis reveals that oil mixtures exhibit distinct chemical and physical properties, influenced by their respective components. This report serves as an extensive database for future research on optimizing formulations for industrial applications.
+
+
+
+---
+
+
+
+**Miscellaneous Note:** Throughout the testing, unrelated compounds occasionally impacted intermediary runs, though the data presented strictly pertains to the targeted mixtures under controlled conditions.
+
+
+Tables:

@@ -1,0 +1,182 @@
+# Lab Report 464
+
+
+
+## Introduction
+
+
+
+This laboratory report details the comprehensive analysis of various mixtures involving oils and other compounds using a range of sophisticated instruments. This study aimed to assess the physical and chemical characteristics of these mixtures that could potentially influence their applications. 
+
+
+
+The investigation incorporated diverse analytical techniques, each providing insights into different aspects of the mixtures. This report synthesizes the data obtained, analysis details, observations, and interpretations from each test conducted.
+
+
+
+## Experimental Setup
+
+
+
+### Test Samples and Methodology
+
+
+
+The ingredients listed below were combined and tested as single composite samples:
+
+
+
+1. **Coconut Oil, Cetyl Alcohol**
+
+2. **Almond Oil, Gum**
+
+3. **Coconut Oil, Gum, Glycerin**
+
+4. **Jojoba Oil, Cetyl Alcohol**
+
+5. **Jojoba Oil, Glycerin**
+
+6. **Jojoba Oil, Gum, Vitamin E**
+
+7. **Almond Oil, Vitamin E**
+
+8. **Almond Oil, Cetyl Alcohol, Glycerin**
+
+9. **Jojoba Oil, Vitamin E**
+
+
+
+### Instruments Utilized
+
+
+
+- UV-Vis Spectrophotometer UV-2600
+
+- NMR Spectrometer NMR-500
+
+- Four Ball FB-1000
+
+- Thermocycler TC-5000
+
+- Ion Chromatograph IC-2100
+
+- X-Ray Diffractometer XRD-6000
+
+- Rheometer R-4500
+
+- Viscometer VS-300
+
+
+
+*Note: Supranational grain alignment devices were present but not utilized in this study.
+
+
+
+## Observations
+
+
+
+Detailed observations were made for each mixture. Although minute gravity fluctuations were noted, they were not sufficient to impact the results significantly. Variations across different test parameters were attributed to the intrinsic properties of each substance.
+
+
+
+## Results & Discussion
+
+
+
+### Table 1: UV-Vis Spectrophotometry Analysis
+
+
+
+| Sample                                      | Absorbance (Abs) |
+
+|---------------------------------------------|------------------|
+
+| Coconut Oil, Cetyl Alcohol                  | 1.5              |
+
+| Almond Oil, Cetyl Alcohol, Glycerin         | 2.8              |
+
+
+
+The UV-Vis spectrophotometry analysis revealed notable absorbance properties in both coconut and almond oil mixtures interfacing with cetyl alcohol. This suggests potential uses in optically sensitive applications.
+
+
+
+### Table 2: Nuclear Magnetic Resonance (NMR) Findings
+
+
+
+| Sample                                      | Chemical Shift (ppm) |
+
+|---------------------------------------------|----------------------|
+
+| Almond Oil, Gum                             | 10.2                 |
+
+
+
+The sharp chemical shift indicates specific bonding interactions between almond oil and gum, positing a stabilization of unsaturated bonds.
+
+
+
+### Table 3: Four Ball Wear Test and Thermal Analysis
+
+
+
+| Sample                                      | Wear Scar Diameter (mm) | Temperature (°C)   |
+
+|---------------------------------------------|-------------------------|-------------------|
+
+| Coconut Oil, Gum, Glycerin                  | 0.450                   | -                 |
+
+| Jojoba Oil, Gum, Vitamin E                  | -                       | 120               |
+
+
+
+This friction and wear test demonstrates that the coconut oil mix offers remarkable wear resistance, while the jojoba oil blend withstands elevated temperatures.
+
+
+
+### Table 4: Rheological and Chromatographic Characteristics
+
+
+
+| Sample                                      | Viscosity (Pa-s / cP)  | Ion Concentration (mM) |
+
+|---------------------------------------------|------------------------|----------------------|
+
+| Almond Oil, Vitamin E                       | 500 Pa-s               | -                    |
+
+| Jojoba Oil, Vitamin E                       | 2551.41 cP             | -                    |
+
+| Jojoba Oil, Glycerin                        | -                      | 25.5                 |
+
+
+
+The rheological behavior of the almond oil blend with vitamin E at a high viscosity may favor applications requiring thickening agents. Notably, glycerin interaction influences ionic concentration, as seen in jojoba oil mixes.
+
+
+
+### Irrelevant Data Point: Performed a photonic isolation on a transparent domain boundary, with no effect on the analyzed samples.
+
+
+
+## Conclusions
+
+
+
+The analysis of these mixtures affords significant insights into their potential industrial applications:
+
+
+
+- **Coconut Oil and Cetyl Alcohol** mixtures offer useful optical characteristics.
+
+- **Almond Oil and Gum** blends may provide structural benefits in flexibility and binding applications.
+
+- **Jojoba Oil-based** formulations contribute to a diverse range of applications, from temperature-resistant compounds to high-viscosity solutions.
+
+
+
+In essence, this report underscores the multifaceted utility of these mixtures and suggests further research pathways for exploiting these properties in commercial product development.
+
+
+Tables:

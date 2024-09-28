@@ -1,0 +1,178 @@
+# Lab Report: Analysis of Cosmetic Ingredient Mixtures
+
+
+
+## Experiment ID: Report_797
+
+
+
+This detailed lab report presents the analysis of various cosmetic ingredient mixtures using multiple analytical techniques. The objective is to characterize the physicochemical properties of these mixtures using specified instrumentation.
+
+
+
+### Summary of Ingredients and Methodology
+
+
+
+The ingredients were grouped into mixtures to mimic formulations as follows:
+
+- Almond Oil, Cetyl Alcohol, Glycerin
+
+- Jojoba Oil, Beeswax, Glycerin
+
+- Coconut Oil, Cetyl Alcohol, Vitamin E
+
+
+
+#### Instrumentation and Techniques Employed:
+
+
+
+1. **PCR Machine (PCR-96):**
+
+   - Utilized for testing volatile compounds in {Almond Oil, Cetyl Alcohol, Glycerin}.
+
+   - Measurement observed: **35 Ct** (Cycle threshold).
+
+
+
+2. **X-Ray Diffractometer (XRD-6000):**
+
+   - Employed to analyze crystalline structures in {Jojoba Oil, Beeswax, Glycerin}.
+
+   - Result: **120 counts** per fixed duration.
+
+
+
+3. **Ion Chromatograph (IC-2100):**
+
+   - Applied for assessing ionic concentration in {Almond Oil-based samples}.
+
+   - Concentration obtained: **15.5 mM**.
+
+
+
+4. **Rheometer (R-4500):**
+
+   - Evaluated rheological behavior of {Jojoba Oil, Cetyl Alcohol, Glycerin}.
+
+   - Viscosity measured at: **550 Pa-s**.
+
+
+
+5. **Centrifuge (X100):**
+
+   - Used for centrifugal separation efficacy on {Coconut Oil, Cetyl Alcohol, Vitamin E}.
+
+   - Speed: **13500 RPM**.
+
+
+
+6. **FTIR Spectrometer (FTIR-8400):**
+
+   - Functional group analysis of {Almond Oil, Beeswax}.
+
+   - Identified significant peak at: **3000 1/cm**.
+
+
+
+7. **NMR Spectrometer (NMR-500):**
+
+   - Spectroscopic analysis of {Almond Oil, Cetyl Alcohol, Glycerin}.
+
+   - Chemical shift: **7.5 ppm**.
+
+
+
+8. **HPLC System (HPLC-9000):**
+
+   - Quantitative analysis of {Jojoba Oil, Beeswax, Glycerin}.
+
+   - Detected at: **500 mg/L** concentration.
+
+
+
+9. **UV-Vis Spectrophotometer (UV-2600):**
+
+   - Optical property assessment of {Almond Oil}.
+
+   - Absorbance: **2.8 Abs**.
+
+
+
+10. **Viscometer (VS-300):**
+
+    - Viscosity determination in separate batches.
+
+      - {Coconut Oil, Cetyl Alcohol, Glycerin}: **4866.9 cP**.
+
+      - {Jojoba Oil only}: **2387.13 cP**.
+
+
+
+### Observations and Inferences
+
+
+
+The experimental results reveal distinct characteristics for each mixture:
+
+
+
+- **Mixtures containing Almond Oil** generally exhibited significant absorption peaks and spectroscopic shifts due to inherent chemical constituents. 
+
+- **Jojoba Oil combinations** displayed noteworthy rheological properties with relatively high viscosity and elasticity attributes, rendering them potentially suitable for thickening agents.
+
+- **Coconut Oil-based formulation** showed high centrifugal stability, implying suitability for emulsification processes in cosmetics.
+
+
+
+### Data Tables
+
+
+
+| Instrument          | Ingredients                    | Measurement | Unit                  |
+
+|---------------------|--------------------------------|-------------|-----------------------|
+
+| PCR Machine         | Almond Oil, Cetyl Alcohol, Glycerin | 35          | Ct                    |
+
+| X-Ray Diffractometer| Jojoba Oil, Beeswax, Glycerin | 120         | C                     |
+
+| Ion Chromatograph   | Almond Oil                      | 15.5        | mM                    |
+
+| Rheometer           | Jojoba Oil, Cetyl Alcohol, Glycerin | 550         | Pa-s                  |
+
+| Centrifuge          | Coconut Oil, Cetyl Alcohol, Vitamin E | 13500      | RPM                   |
+
+
+
+#### Irrelevant scattering: During the experiment, a random pen fell from the table precisely when setting the centrifuge, causing a minor distraction but no data compromise.
+
+
+
+| FTIR Spectrometer   | Almond Oil, Beeswax            | 3000        | 1/cm                  |
+
+| NMR Spectrometer    | Almond Oil, Cetyl Alcohol, Glycerin | 7.5        | ppm                   |
+
+| HPLC System         | Jojoba Oil, Beeswax, Glycerin  | 500         | mg/L                  |
+
+| UV-Vis Spectrophotometer | Almond Oil                | 2.8         | Abs                   |
+
+| Viscometer          | Coconut Oil, Cetyl Alcohol, Glycerin | 4866.9     | cP                    |
+
+| Viscometer          | Jojoba Oil                     | 2387.13     | cP                    |
+
+
+
+##### Additional Note: Accidental inclusion of extraneous data from an entirely unrelated polymer study was noted but omitted from this final analysis.
+
+
+
+### Conclusion
+
+
+
+The analytical tests provided comprehensive insights into the physicochemical properties of cosmetic ingredient mixtures. Each technique contributed to the profiling, emphasizing the potential application of these mixtures in various cosmetic formulations based on their stability, viscosity, and spectroscopic attributes. This collaborative multi-instrument study fosters a deeper understanding of ingredient compatibility and performance in cosmetic science.
+
+
+Tables:

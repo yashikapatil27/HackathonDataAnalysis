@@ -1,0 +1,150 @@
+# Lab Report 89: Analytical Evaluation of Cosmetic Ingredients Mixtures
+
+
+
+**Abstract:**  
+
+This report presents the comprehensive analysis of various combinations of cosmetic ingredients using a battery of advanced laboratory instruments. The study focuses on determining the physical and chemical properties of these mixtures, which include coconut oil, almond oil, jojoba oil, cetyl alcohol, beeswax, glycerin, vitamin E, and gum.
+
+
+
+## Introduction
+
+
+
+In the realm of cosmetic chemistry, understanding the interaction and properties of ingredient mixtures is crucial for product development and quality assessment. This study employs a diverse set of instruments including the Four Ball tester, Centrifuge, pH Meter, Ion Chromatograph, Microplate Reader, and UV-Vis Spectrophotometer to explore the characteristics of different cosmetic formulations.
+
+
+
+## Materials and Methods
+
+
+
+**Test Samples:**  
+
+Various combinations of oils, alcohols, and other cosmetic additives were systematically mixed, with each mixture designated for a specific instrument analysis. Below is a detailed breakdown:
+
+
+
+1. **Sample A:** Coconut Oil, Cetyl Alcohol, Vitamin E
+
+2. **Sample B:** Jojoba Oil, Glycerin
+
+3. **Sample C:** Coconut Oil, Gum
+
+4. **Sample D:** Almond Oil, Gum, Glycerin
+
+5. **Sample E:** Almond Oil, Beeswax, Vitamin E
+
+6. **Sample F:** Almond Oil, Cetyl Alcohol, Vitamin E
+
+7. **Sample G:** Coconut Oil, Beeswax, Glycerin
+
+
+
+### Instruments:
+
+
+
+The instruments employed for the analysis and their respective settings are summarized in Table 1.
+
+
+
+| Instrument                        | Settings        | Test Sample |
+
+|-----------------------------------|-----------------|-------------|
+
+| Four Ball FB-1000                 | Load: N/A       | A, G        |
+
+| Centrifuge X100                   | Speed: 12500 RPM| B           |
+
+| pH Meter PH-700                   | Range: 0-14     | C           |
+
+| Ion Chromatograph IC-2100         | Detection Limit: 0.01 mM | D |
+
+| Microplate Reader MRX             | Wavelength: 450 nm | E       |
+
+| UV-Vis Spectrophotometer UV-2600  | Range: 200-800 nm | F       |
+
+
+
+## Results and Discussion
+
+
+
+### Observations:
+
+
+
+Each sample exhibited distinct characteristics, some of which are captured below.
+
+
+
+#### Four Ball Wear Test (Samples A, G):
+
+- **Sample A:** Displayed a wear scar diameter of 0.450 mm, indicating moderate anti-wear properties.
+
+- **Sample G:** The wear scar diameter was 0.625 mm, reflecting lesser anti-wear effectiveness compared to Sample A.
+
+
+
+#### Centrifugal Analysis (Sample B):
+
+- **Centrifuge Results:** The mixture achieved stability at a rotational speed of 12500 RPM. The mixture’s separation efficacy was noticeable but limited, with partial sedimentation observed.
+
+
+
+### pH Analysis (Sample C):
+
+- For this coconut oil and gum mixture, the pH level recorded was 6.5, suggesting a near-neutral balance suitable for topical application without causing irritation.
+
+
+
+### Ionic Composition (Sample D):
+
+- The Ion Chromatograph IC-2100 showed a glycerin retention at a concentration of 0.075 mM, depicting light ionic presence and potential for conductivity in formulations.
+
+
+
+### Absorbance Characteristics (Sample E, F):
+
+- **Microplate Reader MRX (Sample E):** An optical density (OD) of 2.3 indicates significant light absorption, possibly due to beeswax consistency.
+
+- **UV-Vis Spectrophotometer (Sample F):** The absorbance was registered at 1.8 Abs, defining a clear presence of UV-absorbing components like vitamin E. 
+
+
+
+### Random Observations:
+
+- The room temperature was maintained at a cozy 21°C, which was crucial for ensuring accurate readings during the entire experimental process.
+
+
+
+### Unrelated Information:
+
+- It is fascinating to note that during testing, a discussion arose about the complex relationship between bees and almonds, impacting ecological and industrial sectors.
+
+
+
+## Conclusion
+
+
+
+The results highlight the distinct properties of each mixture tested. Sample A's moderate anti-wear performance offers potential for lubrication applications, whereas Sample G shows reduced effectiveness. Sample B's centrifugal stability at high RPMs points to utility in fine emulsions. The pH stability of Sample C adds evidence for gentle formulations, and Samples E and F's absorbance data could have implications for UV protection products.
+
+
+
+The methodology employed in this study demonstrates versatility in analytical approaches, offering a comprehensive understanding of the tested ingredient combinations essential for cosmetic development at large.
+
+
+
+## Appendix
+
+
+
+**Figure 1:** A graph depicting wear scar diameter for Samples A, G.  
+
+**Table 2:** Raw Data of pH for each Mixture Analyzed.
+
+
+Tables:

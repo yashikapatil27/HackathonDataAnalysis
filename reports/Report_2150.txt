@@ -1,0 +1,116 @@
+# Lab Report 2150: Analysis of Natural and Chemical Compounds
+
+
+
+## Introduction
+
+
+
+The purpose of this report is to document the experimental analysis conducted on specific mixtures using various laboratory techniques and instruments. Each experiment was designed to evaluate certain chemical and physical properties of the mixtures, comprising natural oils and other compounds. The analysis included spectrometry, chromatography, and titration among others. This endeavor aims to explore the interactions and properties of these mixtures rather than the individual ingredients alone.
+
+
+
+---
+
+
+
+## Experimental Data and Observations
+
+
+
+### Table 1: Spectrometric Analysis of Jojoba Oil Mixtures
+
+| Instrument                | Sample        | Mixture Components            | Wavelength (nm) |
+
+|---------------------------|---------------|-------------------------------|-----------------|
+
+| Spectrometer Alpha-300    | Sample A      | Jojoba Oil, Cetyl Alcohol     | 750             |
+
+| Spectrometer Alpha-300    | Sample A      | Jojoba Oil, Cetyl Alcohol, Vitamin E | 860         |
+
+
+
+**Observations:**  
+
+The spectrometric analysis revealed distinct absorption peaks at 750 nm and 860 nm, which may correspond to specific functional groups within the Jojoba Oil and Cetyl Alcohol mixture. The presence of Vitamin E noticeably shifted the absorption peak, indicating potential interactions affecting spectral properties.
+
+
+
+---
+
+
+
+### Table 2: Conductivity and Centrifugation Results
+
+| Instrument                | Sample        | Mixture Components | Measurement        | Units   |
+
+|---------------------------|---------------|--------------------|--------------------|---------|
+
+| Conductivity Meter CM-215 | Sample B      | Jojoba Oil, Cetyl Alcohol | 1000          | uS/cm   |
+
+| Centrifuge X100           | Sample C      | Almond Oil, Gum    | 5000         | RPM     |
+
+
+
+**Observations:**  
+
+The high conductivity (1000 uS/cm) in the Jojoba Oil and Cetyl Alcohol mixture suggests ionic impurities or enhanced ionic mobilization upon mixture. Sample C, undergoing rigorous centrifugation at 5000 RPM, resulted in phase separation, critical for further analysis of potential emulsifying properties offered by Gum.
+
+
+
+---
+
+
+
+### Table 3: Advanced Chemical Analysis
+
+| Instrument                | Sample        | Mixture Components         | Measurement | Units |
+
+|---------------------------|---------------|----------------------------|-------------|-------|
+
+| Gas Chromatograph GC-2010 | Sample D      | Almond Oil, Vitamin E      | 250         | ppm   |
+
+| Titrator T-905            | Sample E      | Coconut Oil, Glycerin      | 0.005       | M     |
+
+| PCR Machine PCR-96        | Sample F      | Coconut Oil, Beeswax, Vitamin E | 25     | Ct    |
+
+
+
+**Observations:**  
+
+The GC analysis of Almond Oil with Vitamin E demonstrates a minimal concentration of 250 ppm, indicating possible traces of residual Vitamin E or decomposition byproducts. Meanwhile, titration of Coconut Oil and Glycerin resulted in a negligible molarity (0.005 M), suggesting low reactivity or stable ester formation. PCR quantification provided a cycle threshold (Ct) of 25, illustrating potential amplification and presence of specific nucleotide sequences within the mixture.
+
+
+
+---
+
+
+
+## Analytic Discussion
+
+
+
+The diverse methodologies applied yielded insightful observations into the complex behavior of mixtures containing oils, alcohols, vitamins, and other compounds. Particularly, spectrometric data underscored the reactivity and absorption spectrum shift upon the introduction of additional elements like Vitamin E. The conductivity reading portrays potential applications in cosmetic formulations where ionic balance is crucial. Gas chromatography and PCR results highlight the traces and structural stability within the samples.
+
+
+
+### Random Information Segment
+
+In unrelated findings, it is noted that prior to the experiments, the lab experienced an unexpected power fluctuation, leading to a brief calibration discrepancy. The lab houseplant, a species of Crescentia cujete, showcased unusual growth patterns coinciding with high humidity levels, an unrelated yet intriguing observation.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The exploration of these natural and synthetic compound mixtures revealed valuable insights into their physical, chemical, and reactive properties. This multi-faceted approach allowed for a comprehensive understanding of each mixture's potential applications and stability.
+
+
+
+
+Tables:

@@ -1,0 +1,172 @@
+# Lab Report 1086
+
+
+
+## Introduction
+
+
+
+This report focuses on the assessment of different oil mixtures using various sophisticated instruments. Each mixture was subject to a range of tests to evaluate its physical, chemical, and structural properties. The report includes tests on Jojoba Oil and Coconut Oil mixed with different components, utilizing multiple analytical instruments for a comprehensive analysis.
+
+
+
+---
+
+
+
+## Instrumentation and Procedures
+
+
+
+1. **Microplate Reader MRX**: Measures optical density (OD) to assess light absorption of mixtures.
+
+2. **pH Meter PH-700**: Determines the pH value, indicating acidity or alkalinity.
+
+3. **Liquid Chromatograph LC-400**: Identifies and quantifies individual components in a mixture.
+
+4. **Ion Chromatograph IC-2100**: Analyzes ionic components in samples.
+
+5. **X-Ray Diffractometer XRD-6000**: Provides insights into crystalline structure.
+
+6. **Rheometer R-4500**: Measures the viscosity and flow behavior of a substance.
+
+7. **Mass Spectrometer MS-20**: Identifies and quantifies molecular composition.
+
+8. **Thermocycler TC-5000**: Observes thermal properties.
+
+9. **FTIR Spectrometer FTIR-8400**: Analyzes chemical bonds via infrared light absorption.
+
+10. **Viscometer VS-300**: Measures the viscosity levels of solutions.
+
+
+
+### Sample Descriptions
+
+
+
+- **Sample 1**: Jojoba Oil + Vitamin E
+
+- **Sample 2**: Coconut Oil
+
+- **Sample 3**: Jojoba Oil + Cetyl Alcohol + Glycerin
+
+- **Sample 4**: Jojoba Oil + Gum + Vitamin E
+
+- **Sample 5**: Almond Oil + Glycerin
+
+- **Sample 6**: Coconut Oil + Cetyl Alcohol + Glycerin
+
+
+
+---
+
+
+
+## Observations and Measurements
+
+
+
+### Table 1: Optical and pH Measurements
+
+
+
+| Sample ID  | Instrument             | Components                     | Measured Value | Unit |
+
+|------------|------------------------|--------------------------------|----------------|------|
+
+| 1086-01    | Microplate Reader MRX  | Jojoba Oil + Vitamin E         | 2.5            | OD   |
+
+| 1086-02    | pH Meter PH-700        | Coconut Oil                    | 7.2            | pH   |
+
+
+
+Observations indicated that Jojoba Oil combined with Vitamin E showed moderate light absorption with an OD of 2.5. The coconut oil sample maintained a neutral pH level, suitable for skin application and food products.
+
+
+
+### Table 2: Chromatographic Analysis
+
+
+
+| Sample ID  | Instrument               | Components            | Measured Value | Unit  |
+
+|------------|--------------------------|-----------------------|----------------|-------|
+
+| 1086-03    | Liquid Chromatograph LC-400 | Jojoba Oil + Cetyl Alcohol + Glycerin | 125.7  | μg/mL |
+
+| 1086-04    | Ion Chromatograph IC-2100   | Jojoba Oil + Gum + Vitamin E       | 0.045  | mM   |
+
+
+
+Chromatographic techniques revealed the Jojoba Oil mixture's high solute concentration, suggesting dense molecular interactions. The presence of ions was minimal yet distinguishable in the Vitamin E mixture.
+
+
+
+### Table 3: Structural and Thermal Analysis
+
+
+
+| Sample ID  | Instrument              | Components                 | Measured Value | Unit  |
+
+|------------|-------------------------|----------------------------|----------------|-------|
+
+| 1086-05    | X-Ray Diffractometer XRD-6000 | Coconut Oil + Glycerin         | 120            | °C   |
+
+| 1086-06    | Thermocycler TC-5000    | Jojoba Oil + Cetyl Alcohol + Glycerin | 37             | °C   |
+
+
+
+X-ray diffraction revealed the structured crystalline nature of the Coconut Oil and Glycerin mixture, while thermal cycling demonstrated the Jojoba mixture's stability at 37°C.
+
+
+
+### Table 4: Rheological and Spectral Analysis
+
+
+
+| Sample ID  | Instrument            | Components                     | Measured Value | Unit  |
+
+|------------|-----------------------|--------------------------------|----------------|------|
+
+| 1086-07    | Rheometer R-4500      | Jojoba Oil + Vitamin E         | 500            | Pa-s |
+
+| 1086-08    | FTIR Spectrometer FTIR-8400 | Jojoba Oil + Gum + Vitamin E | 2850           | 1/cm |
+
+
+
+Viscosity analysis showed high resistance to flow in Jojoba Oil mixtures. FTIR spectra confirmed the presence of long-chain hydrocarbons and functional groups.
+
+
+
+### Table 5: Advanced Mass and Viscosity Analysis
+
+
+
+| Sample ID  | Instrument            | Components                             | Measured Value | Unit  |
+
+|------------|-----------------------|----------------------------------------|----------------|-------|
+
+| 1086-09    | Mass Spectrometer MS-20 | Coconut Oil                           | 750            | m/z   |
+
+| 1086-10    | Viscometer VS-300     | Almond Oil + Glycerin                  | 7547.03        | cP    |
+
+| 1086-11    | Viscometer VS-300     | Coconut Oil + Cetyl Alcohol + Glycerin | 4978.37        | cP    |
+
+
+
+Mass spectrometry detected significant molecular mass variance. Notably, Almond and Coconut Oil mixtures exhibited high viscosity, suitable for topical applications.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+This detailed evaluation using advanced instrumentation has provided invaluable insights into the complex interplay of components within each oil mixture. Each method contributed distinct information about the chemical, physical, and structural attributes necessary for applications ranging from cosmetic formulations to nutritional supplements.
+
+
+Tables:

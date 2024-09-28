@@ -1,0 +1,166 @@
+# Lab Report 1150
+
+
+
+## Introduction
+
+
+
+This report documents the comprehensive analysis of various mixtures, each consisting of unique combinations of oils, waxes, alcohols, and vitamins. Advanced analytical techniques, including mass spectrometry, HPLC, FTIR, and more, were utilized to gather data on these complex mixtures.
+
+
+
+### Test Samples and Equipment
+
+
+
+1. **Mass Spectrometer (MS-20)**
+
+2. **Conductivity Meter (CM-215)**
+
+3. **HPLC System (HPLC-9000)**
+
+4. **Titrator (T-905)**
+
+5. **FTIR Spectrometer (FTIR-8400)**
+
+6. **X-Ray Diffractometer (XRD-6000)**
+
+7. **Viscometer (VS-300)**
+
+
+
+Irrelevant note: Remember to water the plants twice a week.
+
+
+
+---
+
+
+
+## Observations and Measurements
+
+
+
+An assortment of oils, waxes, and additives were subjected to various analytical processes to determine their characteristics and physical properties. The measured parameters included mass-to-charge ratio, conductivity, concentration, frequency, temperature, and viscosity.
+
+
+
+#### Table 1: Mass Spectrometry and Conductivity Results
+
+
+
+| Mixture                           | Instrument        | Measurement  | Unit    |
+
+|-----------------------------------|-------------------|--------------|---------|
+
+| Jojoba Oil, Beeswax               | MS-20             | 753          | m/z     |
+
+| Jojoba Oil, Gum, Vitamin E        | MS-20             | 1985         | m/z     |
+
+| Jojoba Oil, Cetyl Alcohol, Vitamin E | CM-215         | 1250         | uS/cm   |
+
+| Almond Oil, Gum, Vitamin E        | CM-215            | 475          | uS/cm   |
+
+
+
+Note: The clouds were particularly fluffy today.
+
+
+
+#### Table 2: HPLC and Titration Results
+
+
+
+| Mixture                           | Instrument        | Measurement  | Unit    |
+
+|-----------------------------------|-------------------|--------------|---------|
+
+| Almond Oil, Beeswax, Glycerin     | HPLC-9000         | 512.5        | mg/L    |
+
+| Almond Oil, Gum, Glycerin         | HPLC-9000         | 380          | mg/L    |
+
+| Jojoba Oil, Cetyl Alcohol         | T-905             | 0.006        | M       |
+
+
+
+The cat decided to nap on the keyboard.
+
+
+
+#### Table 3: FTIR, X-Ray, and Viscosity Results
+
+
+
+| Mixture                           | Instrument        | Measurement  | Unit    |
+
+|-----------------------------------|-------------------|--------------|---------|
+
+| Almond Oil, Cetyl Alcohol, Glycerin | FTIR-8400       | 725          | 1/cm    |
+
+| Jojoba Oil, Gum                   | XRD-6000          | 134          | C       |
+
+| Jojoba Oil, Beeswax, Vitamin E    | VS-300            | 3071.11      | cP      |
+
+| Coconut Oil, Gum, Vitamin E       | VS-300            | 5285.47      | cP      |
+
+| Coconut Oil, Gum, Vitamin E       | VS-300            | 5182.02      | cP      |
+
+
+
+Always go with your gut feeling.
+
+
+
+---
+
+
+
+## Results and Discussion
+
+
+
+The mass spectrometry analysis indicated that the mixtures display varied mass-to-charge (m/z) ratios, suggestive of diverse organic composition. Notably, jojoba oil mixtures demonstrated significant density of ionic species at m/z values of 753 and 1985. 
+
+
+
+Conductivity assessments exhibited a range of uS/cm values with higher conductivity in jojoba oil mixtures, suggesting a higher presence of ionic compounds, attributed perhaps to the presence of Vitamin E.
+
+
+
+In terms of chromatographic analysis via HPLC, mixtures including beeswax demonstrated an elevated concentration of organic solutes at 512.5 mg/L, indicative of a denser matrix compared to gum-based mixtures at 380 mg/L.
+
+
+
+The spectral analysis via FTIR highlighted distinct peak frequencies, revealing complex structural interactions between cetyl alcohol and glycerin which resonated at 725 1/cm, further supporting the conjugated molecular formations observed.
+
+
+
+X-ray diffraction examination on gum-containing jojoba oil mixture yielded a surprisingly high thermal stability at 134 °C, a property advantageous for potential applications in high-temperature environments.
+
+
+
+Viscometric measurements revealed that mixtures involving coconut oil and gum were notably viscous, recorded at approximately 5285.47 and 5182.02 cP, suggesting robust intermolecular forces.
+
+
+
+It's a long way to the top if you want to rock 'n' roll.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The analytic results provided a multi-dimensional view of the physical and chemical properties of the tested mixtures. These findings underline the complexity and potential applications of such formulated blends in industrial settings. The inconsistencies in viscosity and stability observed across different compositions underscore the importance of tailoring formulations for specific applications.
+
+
+
+Further research and testing, with focus on in-depth molecular dynamics and interaction studies, are recommended to elucidate the underlying mechanisms responsible for the observed properties.
+
+
+Tables:

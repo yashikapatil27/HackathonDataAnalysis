@@ -1,0 +1,162 @@
+# Laboratory Report 1257
+
+
+
+## Introduction
+
+
+
+In this study, various oil-based mixtures were analyzed using different equipment to measure their physical and chemical properties. The tests involved almond, coconut, and jojoba oils as primary bases, with additional components such as cetyl alcohol, beeswax, glycerin, gum, and vitamin E. The outcomes have been documented in a comprehensive manner.
+
+
+
+## Equipment and Methodology
+
+
+
+Various sophisticated instruments were utilized to conduct the experiments:
+
+
+
+1. **Thermocycler TC-5000**: Used to determine thermal properties and behaviors under applied conditions.
+
+2. **Fours Ball FB-1000**: Evaluated tribological characteristics.
+
+3. **Mass Spectrometer MS-20**: Identified molecular weights and compositions.
+
+4. **PCR Machine PCR-96**: Tested for amplification thresholds.
+
+5. **Ion Chromatograph IC-2100**: Measured ionic concentrations.
+
+6. **Viscometer VS-300**: Assessed the viscosity of each sample.
+
+
+
+### Observations and Measurements 
+
+
+
+#### Thermal Analysis
+
+
+
+| Sample Mixture                                  | Equipment            | Temperature (\(^\circ\)C) |
+
+|-------------------------------------------------|----------------------|----------------------------|
+
+| Almond Oil, Cetyl Alcohol, Glycerin             | Thermocycler TC-5000 | 72                         |
+
+| Jojoba Oil, Vitamin E                           | Thermocycler TC-5000 | 85                         |
+
+
+
+Despite the common perception that almond oil tends to have a moderate thermal response, this assumption was confirmed with almond oil mixtures achieving a steady temperature of 72°C. However, jojoba oil-based mixtures exhibited a higher stability at 85°C, indicating a potential resilience factor associated with Vitamin E involvement.
+
+
+
+#### Tribological Testing
+
+
+
+| Sample Mixture              | Equipment           | Wear Scar Diameter (mm) |
+
+|-----------------------------|---------------------|-------------------------|
+
+| Coconut Oil, Gum            | Fours Ball FB-1000  | 0.350                   |
+
+| Almond Oil, Gum             | Fours Ball FB-1000  | 0.500                   |
+
+
+
+It was observed that the inclusion of gum in coconut oil resulted in a lower wear scar diameter, illustrating possibly superior lubrication characteristics compared to almond oil combinations.
+
+
+
+#### Mass Spectrometry Analysis
+
+
+
+| Sample Mixture                            | Equipment         | Peak m/z   |
+
+|-------------------------------------------|-------------------|------------|
+
+| Jojoba Oil, Cetyl Alcohol                 | Mass Spectrometer MS-20 | 1500       |
+
+| Coconut Oil, Cetyl Alcohol, Vitamin E     | Mass Spectrometer MS-20 | 1200       |
+
+
+
+These peaks suggest a predominance of mid-range molecular weights, with coconut oil compositions showing a more complex mixture due to Vitamin E inclusion.
+
+
+
+#### Amplification Thresholds
+
+
+
+| Sample Mixture                   | Equipment          | Ct Value |
+
+|----------------------------------|--------------------|----------|
+
+| Almond Oil, Beeswax, Vitamin E   | PCR Machine PCR-96 | 25       |
+
+| Coconut Oil, Beeswax             | PCR Machine PCR-96 | 30       |
+
+
+
+## Ion Chromatographic Measurements
+
+
+
+Almond oil formulations reached 10 mM, whereas jojoba-based samples demonstrated a higher concentration at 20 mM, implying a more ion-rich environment.
+
+
+
+## Viscosity Evaluation
+
+
+
+| Sample Mixture                              | Equipment         | Viscosity (cP) |
+
+|---------------------------------------------|-------------------|----------------|
+
+| Jojoba Oil, Cetyl Alcohol, Glycerin         | Viscometer VS-300 | 2733.34        |
+
+| Coconut Oil, Cetyl Alcohol, Vitamin E       | Viscometer VS-300 | 5184.71        |
+
+| Jojoba Oil, Beeswax, Glycerin               | Viscometer VS-300 | 2810.25        |
+
+
+
+Intriguingly, coconut oil combinations showed a significant increase in viscosity, reflecting on potential applications where thicker formulations are required.
+
+
+
+## Conclusions
+
+
+
+This report confirms the diversity and applicability of oil-based mixtures across different domains. Each tested combination exhibited unique properties suitable for selective industrial applications. Further studies could delve into the synergistic effects observed in jojoba and coconut oils specifically, as these display promising prospects for future biochemical applications.
+
+
+
+---
+
+
+
+### Appendix of Irrelevant Data
+
+
+
+- **Note**: During the testing, a temporary interruption occurred due to a blown fuse in the laboratory, unrelated to sample outcomes.
+
+- Daily lab temperatures varied between 20°C to 22°C.
+
+- All results comply with internal quality standards, apart from minor discrepancies in the mass spectrometry results due to ambient electrical interference.
+
+
+
+In conclusion, while slight variations were noted, the data serves as a foundational reference for future optimization of oil-based formulations.
+
+
+Tables:

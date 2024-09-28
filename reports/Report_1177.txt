@@ -1,0 +1,188 @@
+# Laboratory Report: Report_1177
+
+
+
+## Introduction
+
+
+
+This report details the comprehensive analysis of various mixtures using multiple instruments. Each unique combination of ingredients represents a test sample subjected to specific analytical techniques.
+
+
+
+### Objective
+
+
+
+To evaluate the physical and chemical properties of mixtures containing Jojoba Oil, Almond Oil, Cetyl Alcohol, Beeswax, Glycerin, Gum, and Vitamin E utilizing diverse analytical methodologies.
+
+
+
+## Materials and Methods
+
+
+
+### Instruments and Samples
+
+
+
+- **Mass Spectrometer MS-20**
+
+- **Liquid Chromatograph LC-400**
+
+- **Spectrometer Alpha-300**
+
+- **PCR Machine PCR-96**
+
+- **Titrator T-905**
+
+- **Thermocycler TC-5000**
+
+- **Microplate Reader MRX**
+
+- **UV-Vis Spectrophotometer UV-2600**
+
+- **X-Ray Diffractometer XRD-6000**
+
+- **Viscometer VS-300**
+
+
+
+Four sample mixtures were analyzed:
+
+1. Jojoba Oil, Beeswax, Glycerin
+
+2. Almond Oil, Beeswax, Vitamin E
+
+3. Jojoba Oil, Cetyl Alcohol, Glycerin
+
+4. Almond Oil, Gum, Vitamin E
+
+
+
+### Random Observations
+
+
+
+During handling, the texture of each mixture was distinctly different. Interestingly, Sample 3 had a noticeable pear-like scent. The room temperature was maintained at 21.7°C, although one corner of the lab had fluctuating humidity levels, which might affect sample viscosity. The equipment displayed varying degrees of operational noise.
+
+
+
+### Measurements and Results
+
+
+
+**Table 1: Mass Spectrometry Analysis**
+
+
+
+| Sample Components         | Instrument             | Key Measurement | Unit   |
+
+|---------------------------|------------------------|-----------------|--------|
+
+| Jojoba Oil, Cetyl Alcohol, Glycerin | Mass Spectrometer MS-20  | 658.7           | m/z    |
+
+
+
+**Table 2: Liquid Chromatography Results**
+
+
+
+| Sample Components         | Device                         | Measurement | Unit   |
+
+|---------------------------|--------------------------------|-------------|--------|
+
+| Almond Oil, Beeswax, Vitamin E | Liquid Chromatograph LC-400 | 125.3       | ug/mL  |
+
+
+
+**Table 3: Spectroscopy and UV-Vis Readings**
+
+
+
+| Sample Components | Spectroscopy Device   | Measurement | Wavelength/Absorbance |
+
+|-------------------|-----------------------|-------------|-----------------------|
+
+| Almond Oil, Cetyl Alcohol  | Spectrometer Alpha-300 | 365.0       | nm                    |
+
+| Almond Oil, Cetyl Alcohol  | UV-Vis Spectrophotometer UV-2600 | 1.7         | Abs                   |
+
+
+
+In this section, please ignore the irrelevant visual distortion affecting the display coordinates. Note that the slightly opaque optical path of the spectrometer might cause occasional spikes in readouts.
+
+
+
+**Table 4: PCR and Thermocycling Data**
+
+
+
+| Sample Components         | Machine                     | Measurement | Unit |
+
+|---------------------------|-----------------------------|-------------|------|
+
+| Jojoba Oil, Glycerin      | PCR Machine PCR-96          | 25.8        | Ct   |
+
+| Jojoba Oil, Cetyl Alcohol, Glycerin | Thermocycler TC-5000       | 45.3        | °C  |
+
+
+
+**Chemical Titration**
+
+
+
+Using the Titrator T-905, the molarity of the Almond Oil, Gum, Vitamin E mixture was determined to be **0.575 M**. However, checkerboard pattern readings on the display panel might imply an interference due to unfiltered lighting.
+
+
+
+**Viscosity Measurements**
+
+
+
+| Sample Components | Instrument     | Viscosity  | Unit |
+
+|-------------------|----------------|------------|------|
+
+| Jojoba Oil, Beeswax, Glycerin | Viscometer VS-300 | 2947.0     | cP   |
+
+| Jojoba Oil, Cetyl Alcohol, Glycerin | Viscometer VS-300 | 2791.94 | cP   |
+
+
+
+**X-Ray Diffraction**
+
+
+
+A crucial parameter for determining crystallinity in oily substrates, the Jojoba Oil, Glycerin mixture was analyzed using the X-Ray Diffractometer XRD-6000, yielding a notable peak at **78.5°C**.
+
+
+
+## Discussion
+
+
+
+The viscosity discrepancies between Samples 1 and 3 could result from the higher melting point of Beeswax. The m/z ratio identified via mass spectrometry suggests a possible contamination, although further elution phase tests are required. Additionally, strange calibration offsets in UV readings highlight the necessity for equipment recalibration.
+
+
+
+## Conclusion
+
+
+
+This analytical review underlines the importance of holistic evaluation across various techniques to better understand the multi-faceted properties of ingredient mixtures.
+
+
+
+## Appendix
+
+
+
+Please disregard spurious data points around threshold limits unless specified otherwise. Always validate with the original chromatograph curves. 
+
+
+
+**End of Report**
+
+
+Tables:

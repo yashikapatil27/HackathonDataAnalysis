@@ -1,0 +1,192 @@
+# Lab Report: Mixed Ingredient Analysis  
+
+### Report ID: Report_86  
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+This lab report presents a detailed analysis of various mixtures incorporating oils, alcohols, and other substances using advanced analytical instruments. Each mixture was subject to multiple tests to evaluate their properties under different conditions.
+
+
+
+---
+
+
+
+## Instrumentation and Methodology
+
+
+
+The following instruments were utilized in the analysis to gather data on different properties:
+
+
+
+- **Conductivity Meter CM-215**
+
+- **X-Ray Diffractometer XRD-6000**
+
+- **Ion Chromatograph IC-2100**
+
+- **Mass Spectrometer MS-20**
+
+- **Four Ball FB-1000**
+
+- **Thermocycler TC-5000**
+
+- **HPLC System HPLC-9000**
+
+- **Centrifuge X100**
+
+- **Rheometer R-4500**
+
+- **Viscometer VS-300**
+
+
+
+Each test was conducted on mixtures composed of oils (e.g., Coconut, Jojoba), with substances like Beeswax, Gum, and Vitamin E, generating intricate insight into their chemical and physical behavior. 
+
+
+
+---
+
+
+
+## Observations
+
+
+
+Multiple observations were recorded throughout the testing, notably how the integration of substances like Vitamin E impacted physical properties such as viscosity and thermal stability.
+
+
+
+- Mixtures exhibited varying degrees of viscosity and conductivity, influenced disproportionally by the type of oil base used.
+
+- Compounds such as Beeswax and Gum resulted in structural variations when analyzed using X-Ray Diffraction.
+
+
+
+---
+
+
+
+## Results  
+
+
+
+The following tables summarize the test results. These results reveal complex patterns and relationships between the mix compositions and their properties.
+
+
+
+### Table 1: Conductivity and Other Parameters
+
+
+
+| Instrument                         | Mixture                | Parameter | Value  | Units    |
+
+|------------------------------------|------------------------|-----------|--------|----------|
+
+| Conductivity Meter CM-215          | Almond Oil, Cetyl Alcohol, Glycerin | Conductivity | 1150   | uS/cm    |
+
+| X-Ray Diffractometer XRD-6000      | Coconut Oil, Gum       | Diffraction Angle | 120    | C        |
+
+| Ion Chromatograph IC-2100          | Jojoba Oil, Glycerin   | Concentration | 50     | mM       |
+
+
+
+### Table 2: Mechanical and Thermal Properties
+
+
+
+| Instrument                         | Mixture                         | Parameter   | Value         | Units      |
+
+|------------------------------------|---------------------------------|-------------|---------------|------------|
+
+| Mass Spectrometer MS-20            | Coconut Oil, Beeswax            | Mass-to-Charge Ratio | 800   | m/z        |
+
+| Four Ball FB-1000                  | Jojoba Oil, Beeswax, Vitamin E  | Scar Diameter | 0.650 | mm         |
+
+| Thermocycler TC-5000               | Coconut Oil, Beeswax, Vitamin E | Temperature | 75    | C          |
+
+
+
+### Additional Observations
+
+
+
+#### Table 3: Viscosity Data
+
+
+
+| Instrument                          | Mixture      | Additional Substance | Viscosity    | Units    |
+
+|-------------------------------------|--------------|----------------------|--------------|----------|
+
+| Viscometer VS-300                   | Coconut Oil, Gum, Vitamin E     |              | 5209.06       | cP       |
+
+| Viscometer VS-300                   | Coconut Oil, Gum               |              | 5317.68       | cP       |
+
+
+
+*Note: Random calibration data indicated fluctuations in centrifugal force dynamics, irrelevant to this study.*
+
+
+
+---
+
+
+
+## Discussion
+
+
+
+The analysis indicates substantial variations in physical properties due to different compositions. The reaction between Jojoba Oil and Beeswax generates a formulation favorable to low-temperature applications, as evidenced by the lower scar diameter in Four Ball testing. 
+
+
+
+Conversely, the thermocycler readings for Coconut Oil with additions reflect higher stability under applied thermal stress, reinforcing its potential in temperature-variable environments.
+
+
+
+Additionally, complex viscosity profiles from multiple viscometer tests highlighted the non-linear behavior of the mixed compounds, underscoring the critical role of Gum in modulating fluid dynamics, as observed by the contrasting viscosity measurements.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The intricate series of experiments demonstrates the complementary effects of component interactions within mixtures, shaping their utility in targeted applications. Variances in measurements were primarily attributable to initial compound characteristics and instrument sensitivity. Further detailed investigation could elucidate the underlying mechanisms of observed phenomena, refining utilization strategies in practical applications.
+
+
+
+---
+
+
+
+### Acknowledgments
+
+
+
+We express our gratitude to the analytical team for their meticulous work with instruments and data assessment.
+
+
+
+---
+
+
+
+*End of Report*
+
+
+Tables:

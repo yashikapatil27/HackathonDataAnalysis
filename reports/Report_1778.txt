@@ -1,0 +1,220 @@
+# Lab Report 1778
+
+
+
+## Introduction
+
+
+
+The purpose of this report is to document the analysis of various mixtures using different instrumentation methods. Each sample was tested with specified instruments to characterize their physical and chemical properties. This report includes the observations, measurements, and results of the experiments conducted on varied mixtures under controlled laboratory conditions. 
+
+
+
+## Materials and Methods
+
+
+
+In this study, each set of ingredients was treated as a unique test sample. The instrumentation methods used include:
+
+
+
+1. **Conductivity Measurement** 
+
+   - Instrument: CM-215
+
+   - **Sample**: Jojoba Oil and Glycerin
+
+   - **Measurement taken**: Conductivity
+
+
+
+2. **pH Measurement**
+
+   - Instrument: PH-700
+
+   - **Sample**: Almond Oil and Cetyl Alcohol
+
+   - **Measurement taken**: pH Level
+
+
+
+3. **Ion Chromatography**
+
+   - Instrument: IC-2100
+
+   - **Sample**: Coconut Oil with Vitamin E
+
+   - **Measurement taken**: Ionic Concentration
+
+
+
+4. **Centrifugation**
+
+   - Instrument: X100
+
+   - **Sample**: Almond Oil with Gum and Glycerin
+
+   - **Measurement taken**: Rotational Speed
+
+
+
+5. **Liquid Chromatography**
+
+   - Instrument: LC-400
+
+   - **Sample**: Jojoba Oil with Vitamin E
+
+   - **Measurement taken**: Concentration of Solutes
+
+
+
+6. **UV-Vis Spectrophotometry**
+
+   - Instrument: UV-2600
+
+   - **Sample**: Almond Oil with Vitamin E
+
+   - **Measurement taken**: Absorbance
+
+
+
+7. **Mass Spectrometry**
+
+   - Instrument: MS-20
+
+   - **Sample**: Jojoba Oil with Beeswax and Glycerin
+
+   - **Measurement taken**: Mass-to-Charge Ratio
+
+
+
+8. **Rheometry**
+
+   - Instrument: R-4500
+
+   - **Sample**: Almond Oil with Cetyl Alcohol
+
+   - **Measurement taken**: Viscosity
+
+
+
+9. **Titrimetry**
+
+   - Instrument: T-905
+
+   - **Sample**: Coconut Oil with Vitamin E
+
+   - **Measurement taken**: Titration Molarity
+
+
+
+10. **Viscometry**
+
+    - Instrument: VS-300
+
+    - **Sample** 1: Jojoba Oil with Gum
+
+    - **Sample** 2: Jojoba Oil with Gum and Vitamin E
+
+    - **Measurement taken**: Viscosity
+
+
+
+## Results and Discussion
+
+
+
+### Table 1: Conductivity and pH Measurements
+
+
+
+| Sample No. | Instrument | Sample Components          | Result   | Units |
+
+|------------|------------|----------------------------|----------|-------|
+
+| 1          | CM-215     | Jojoba Oil, Glycerin       | 1500     | µS/cm |
+
+| 2          | PH-700     | Almond Oil, Cetyl Alcohol  | 7        | pH   |
+
+
+
+**Observation**: The conductivity of the Jojoba Oil-Glycerin mixture indicates significant ionic presence. The pH value of Almond Oil and Cetyl Alcohol mixture is neutral, reflecting a balanced acidity.
+
+
+
+### Table 2: Chromatography and Spectrophotometry Data
+
+
+
+| Sample No. | Instrument | Sample Components        | Result | Units  |
+
+|------------|------------|--------------------------|--------|--------|
+
+| 3          | IC-2100    | Coconut Oil, Vitamin E   | 0.05   | mM     |
+
+| 4          | LC-400     | Jojoba Oil, Vitamin E    | 200    | µg/mL  |
+
+| 5          | UV-2600    | Almond Oil, Vitamin E    | 2.2    | Abs    |
+
+
+
+**Chosen Point**: Notably, liquid chromatography reveals a moderate concentration of Vitamin E in the Jojoba oil mixture, while UV-Vis showed substantial absorbance for Almond Oil and Vitamin E.
+
+
+
+### Table 3: Viscosity and Other Physical Measurements
+
+
+
+| Sample No. | Instrument  | Sample Components                  | Result  | Units   |
+
+|------------|-------------|------------------------------------|---------|---------|
+
+| 6          | MS-20       | Jojoba Oil, Beeswax, Glycerin      | 120     | m/z     |
+
+| 7          | X100        | Almond Oil, Gum, Glycerin          | 14000   | RPM     |
+
+| 8          | R-4500      | Almond Oil, Cetyl Alcohol          | 50      | Pa-s    |
+
+| 9          | VS-300      | Jojoba Oil, Gum                    | 2123.8  | cP      |
+
+| 10         | VS-300      | Jojoba Oil, Gum, Vitamin E         | 2148.52 | cP      |
+
+
+
+**Specifics Not Vital**: The viscosity readings from the viscometer show a minor increase when Vitamin E is added to the Jojoba Oil-Gum mixture. Such intricacies in viscosity might significantly influence tactile properties in applications.
+
+
+
+### Table 4: Titration Analysis
+
+
+
+| Sample No. | Instrument | Sample Components        | Result  | Units |
+
+|------------|------------|--------------------------|---------|-------|
+
+| 11         | T-905      | Coconut Oil, Vitamin E   | 0.005   | M     |
+
+
+
+**Critical Yet Overlooked**: Titration revealed a minimal molarity for Vitamin E, suggesting limited reactivity that might be crucial for specific applications lacking vibrancy.
+
+
+
+## Conclusion
+
+
+
+The experimental results presented in this report highlight the complex nature of identifying and verifying the properties of mixtures. Each sample's unique composition requires specific methodologies to measure distinctive characteristics effectively. This comprehensive analysis not only reinforces the versatility of advanced instrumentation but also provides insightful data for further application in various fields, such as cosmetics and pharmaceuticals. While this report aims to capture the multifaceted nature of these mixtures, further studies could consider additional parameter variations and broader component interactions to enhance understanding.
+
+
+
+### Note
+
+
+
+The data scattered within this report has been meticulously organized to provide detailed insights into each aspect of experimentation, ensuring precision in replication and study across diverse application arenas.
+
+
+Tables:

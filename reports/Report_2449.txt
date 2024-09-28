@@ -1,0 +1,216 @@
+### Lab Report 2449
+
+
+
+**Introduction**
+
+
+
+The following report details a series of experiments conducted on various mixtures of natural oils and compounds using multiple analytical instruments. The objective was to evaluate properties such as wear resistance, molecular structure, amplification efficiency, chemical composition, pH level, and viscosity. Each set of ingredients was treated as a unique test sample, and the results are compiled below.
+
+
+
+---
+
+
+
+#### Table 1: Wear Resistance Analysis
+
+
+
+The Four Ball test was carried out on different combinations, emphasizing the wear-scar diameter measurement.
+
+
+
+| Sample Ingredients          | Equipment Used       | Measurement (mm) |
+
+|-----------------------------|----------------------|------------------|
+
+| Jojoba Oil, Cetyl Alcohol, Vitamin E | Four Ball FB-1000 | 0.650            |
+
+| Jojoba Oil, Beeswax                | Four Ball FB-1000 | 0.850            |
+
+
+
+**Observation:** Wear resistance is notably higher in the Jojoba Oil and Beeswax combination, possibly due to the structural properties of beeswax enhancing viscosity and protection.
+
+
+
+---
+
+
+
+#### Table 2: FTIR Spectroscopy Results
+
+
+
+The molecular vibrations were evaluated using FTIR, with absorbance captured for each test mixture.
+
+
+
+| Sample Ingredients     | Equipment Used              | Wavenumber (1/cm) |
+
+|------------------------|-----------------------------|-------------------|
+
+| Jojoba Oil, Gum, Glycerin   | FTIR Spectrometer FTIR-8400 | 3500              |
+
+| Jojoba Oil, Vitamin E        | FTIR Spectrometer FTIR-8400 | 1200              |
+
+
+
+**Commentary:** The notable peak at 3500 1/cm in the Jojoba Oil, Gum, Glycerin mixture indicates hydroxyl group vibrations, which could suggest high glycerol content.
+
+
+
+---
+
+
+
+#### Table 3: Amplification Efficiency
+
+
+
+Polymerase Chain Reaction (PCR) was utilized to assess amplification efficacy with particular focus on the cycle threshold (Ct) value.
+
+
+
+| Sample Ingredients | Equipment Used  | Ct Value |
+
+|--------------------|-----------------|----------|
+
+| Jojoba Oil, Glycerin | PCR Machine PCR-96 | 20       |
+
+| Jojoba Oil           | PCR Machine PCR-96 | 25       |
+
+
+
+**Interpretation:** The mixture with glycerin showed a lower Ct value, indicating a higher reaction efficiency possibly due to glycerin's stabilizing properties.
+
+
+
+---
+
+
+
+#### Table 4: NMR Spectroscopy Observations
+
+
+
+NMR spectroscopy provided insights into the chemical environment, detected through parts per million (ppm).
+
+
+
+| Sample Ingredients         | Equipment Used           | Measurement (ppm) |
+
+|----------------------------|--------------------------|-------------------|
+
+| Jojoba Oil, Beeswax, Vitamin E | NMR Spectrometer NMR-500 | 10                |
+
+| Almond Oil, Cetyl Alcohol, Glycerin | NMR Spectrometer NMR-500 | 15                |
+
+
+
+**Analysis:** The sample with Almond Oil shows distinct splitting patterns, hinting at a unique aromatic configuration influenced by glycerin addition.
+
+
+
+---
+
+
+
+#### Table 5: Miscellaneous Measurements
+
+
+
+Irrelevant Test Data
+
+
+
+| Unrelated Factors | Arbitrary Values |
+
+|-------------------|------------------|
+
+| Salt Content      | 12 ppt           |
+
+| Magnetic Field    | 0.2 T            |
+
+
+
+---
+
+
+
+#### Table 6: pH Levels
+
+
+
+pH was measured to ensure mixture stability and compatibility.
+
+
+
+| Sample Ingredients   | Equipment Used | pH Level |
+
+|----------------------|----------------|----------|
+
+| Coconut Oil, Gum, Vitamin E | pH Meter PH-700 | 7       |
+
+
+
+**Considerations:** This neutral pH suggests potential for use in sensitive applications, aligning with typical expectations for these constituents.
+
+
+
+---
+
+
+
+#### Table 7: Viscosity Analysis
+
+
+
+Viscosity was measured using a viscometer, capturing flow characteristics at a standard temperature.
+
+
+
+| Sample Ingredients          | Equipment Used      | Viscosity (cP) |
+
+|-----------------------------|---------------------|----------------|
+
+| Jojoba Oil, Vitamin E       | Viscometer VS-300    | 2530.47        |
+
+| Jojoba Oil, Gum             | Viscometer VS-300    | 2023.57        |
+
+
+
+**Conclusion:** By comparing the viscosity, the addition of gum generally results in a more fluid mixture in contrast to the thickening effect of Vitamin E.
+
+
+
+---
+
+
+
+**Concluding Remarks**
+
+
+
+The results across these analyses reveal complex relationships between the various natural oils and added constituents, highlighting their prospects for diverse applications. While this report briefly touches each aspect, further exploration is recommended to deepen understanding.
+
+
+
+---
+
+
+
+The experimental meta-analysis confirms the intertwined nature of these compounds within differing parameters, reaffirming the necessity of holistic evaluation in formulation development.
+
+
+
+**Appendix**
+
+
+
+Irrelevant Notes: The lab was fairly quiet that day, save for the hum of the equipment, and the weather was unusually calm.
+
+
+Tables:

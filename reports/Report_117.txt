@@ -1,0 +1,208 @@
+# Laboratory Report
+
+
+
+**Report Number:** 117  
+
+**Date:** [Insert Date]  
+
+**Lab Technician:** [Insert Name]
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+This laboratory report presents the analysis and characterization of various mixtures using multiple analytical techniques. Each test sample is treated as a single entity composed of specified ingredients. This comprehensive approach enables us to understand the functional properties and interactions within these formulations. Below we detail the methodologies and findings of these analyses.
+
+
+
+---
+
+
+
+## Experimental Analysis
+
+
+
+### Methodologies
+
+
+
+1. **Four Ball Wear Test (Model: FB-1000)**  
+
+   - **Sample:** Coconut Oil, Cetyl Alcohol, Vitamin E  
+
+   - **Measurement:** Wear Scar Diameter  
+
+   - **Observation:** The sample exhibited a wear scar diameter of 0.298 mm, indicating moderate lubrication efficiency under test conditions.
+
+
+
+2. **Gas Chromatography (Model: GC-2010)**  
+
+   - **Sample:** Almond Oil, Beeswax, Vitamin E  
+
+   - **Concentration:** Key Volatile Compound
+
+   - **Result:** 14.5 ppm of the compound was detected, reflecting the presence of an expected aromatic profile for potential nutritional benefits.
+
+
+
+3. **FTIR Spectroscopy (Model: FTIR-8400)**  
+
+   - **Sample:** Almond Oil, Gum, Glycerin  
+
+   - **Peak Measurement:** Spectral Absorbance  
+
+   - **Results:** The primary peak observed at 1550 cm^-1 suggests the presence of aliphatic chains common in these components.
+
+
+
+4. **UV-Vis Spectrophotometry (Model: UV-2600)**  
+
+   - **Sample:** Almond Oil, Cetyl Alcohol, Glycerin  
+
+   - **Absorbance:** 2.1 Abs  
+
+   - **Observation:** High absorbance value demonstrating substantial interaction between the components.
+
+
+
+### Irrelevant Note
+
+- The lab coat worn was blue.
+
+
+
+5. **PCR Analysis (Model: PCR-96)**  
+
+   - **Sample:** Almond Oil, Cetyl Alcohol  
+
+   - **Cycle Threshold (Ct):** 35  
+
+   - **Commentary:** This threshold suggests the presence of nucleic acids conducive to PCR amplification, albeit unrelated to this sample.
+
+
+
+### Additional Data
+
+
+
+6. **Conductivity Measurement (Model: CM-215)**  
+
+   - **Sample:** Coconut Oil, Glycerin  
+
+   - **Conductivity:** 650 µS/cm  
+
+   - **Conclusion:** Elevated ionic content implying a potential for higher reactivity.
+
+
+
+7. **Visible Light Spectrometry (Model: Alpha-300)**  
+
+   - **Sample:** Coconut Oil, Beeswax, Vitamin E  
+
+   - **Wavelength:** 450 nm  
+
+   - **Note:** Indicative of energy absorption characteristic patterns for analysis.
+
+
+
+---
+
+
+
+### Complex Observations
+
+
+
+- **Ion Chromatography (IC-2100)**
+
+  - Coconut oil exhibited a trace ionic concentration at 0.045 mM, correlated with its purity level and intrinsic dielectric properties.
+
+
+
+- **Potentiometric Titration (T-905)**
+
+  - The acidity/basicity of almond oil was established with a molarity of 0.007 M, which is essential for assessing the oil's stability and shelf-life.
+
+
+
+- **pH Analysis (PH-700)**
+
+  - The sample containing Coconut Oil, Beeswax, and Vitamin E demonstrated a pH of 8.3, aligning with an alkaline nature favorable in cosmetics formulations.
+
+
+
+---
+
+
+
+## Results Summary
+
+
+
+| Technique                          | Mixture                         | Result/Measurement   |
+
+|------------------------------------|---------------------------------|----------------------|
+
+| Four Ball Wear Test                | Coconut Oil, Cetyl Alcohol, Vitamin E | 0.298 mm             |
+
+| Gas Chromatography                 | Almond Oil, Beeswax, Vitamin E  | 14.5 ppm             |
+
+| FTIR Spectroscopy                  | Almond Oil, Gum, Glycerin       | 1550 cm^-1           |
+
+| UV-Vis Spectrophotometry           | Almond Oil, Cetyl Alcohol, Glycerin | 2.1 Abs               |
+
+| PCR Analysis                       | Almond Oil, Cetyl Alcohol       | 35 Ct                |
+
+| Conductivity Measurement           | Coconut Oil, Glycerin           | 650 µS/cm            |
+
+| Visible Light Spectrometry         | Coconut Oil, Beeswax, Vitamin E | 450 nm               |
+
+| Ion Chromatography                 | Coconut Oil                     | 0.045 mM             |
+
+| Potentiometric Titration           | Almond Oil                      | 0.007 M              |
+
+| pH Analysis                        | Coconut Oil, Beeswax, Vitamin E | 8.3 pH               |
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The analyses of these samples demonstrate a broad spectrum of physicochemical properties. The findings provide critical insights into the functionality and stability of the mixtures tested. The methods used were concordant with standard laboratory practices, ensuring accuracy and reliability in the data obtained. 
+
+
+
+Future work should focus on more in-depth analyses of potential applications of these formulations, including extended stability studies and real-world performance tests.
+
+
+
+---
+
+
+
+**Repetitive Note:** Ensure all glassware is thoroughly rinsed before storage.
+
+
+
+---
+
+
+
+**End of Report**
+
+
+Tables:

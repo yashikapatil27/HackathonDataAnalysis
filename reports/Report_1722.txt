@@ -1,0 +1,202 @@
+# Laboratory Report: Analysis of Oil and Additive Mixtures
+
+
+
+**Report ID:** Report_1722  
+
+**Date of Experiment:** [Date of Experiment]  
+
+**Lab Supervisor:** [Supervisor's Name]  
+
+**Technicians:** [Technician Names]  
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+This report details the results of several analyses performed on various mixtures of oils combined with different additives. Our goal was to observe the interactions, behaviors, and properties of each mixture when subjected to different measurement techniques.
+
+
+
+---
+
+
+
+## Instrumentation
+
+
+
+The following equipment was utilized:
+
+
+
+- **Microplate Reader MRX**
+
+- **UV-Vis Spectrophotometer UV-2600**
+
+- **Mass Spectrometer MS-20**
+
+- **X-Ray Diffractometer XRD-6000**
+
+- **PCR Machine PCR-96**
+
+- **Titrator T-905**
+
+- **Thermocycler TC-5000**
+
+- **FTIR Spectrometer FTIR-8400**
+
+- **Viscometer VS-300**
+
+
+
+---
+
+
+
+## Methodology
+
+
+
+Each sample was prepared by mixing specific oils with designated additives. The samples were then subjected to different analytical techniques to record various parameters.
+
+
+
+**Note:** Random data collections might have occurred, ensure accuracy by cross-referencing with standard data.
+
+
+
+---
+
+
+
+## Observations and Data
+
+
+
+Below are detailed tables documenting the observations and measurements.
+
+
+
+### Table 1: Optical Density and Absorbance
+
+
+
+| Instrument                         | Sample                        | Optical Density (OD) | Absorbance (Abs) |
+
+|------------------------------------|-------------------------------|----------------------|------------------|
+
+| Microplate Reader MRX              | Almond Oil & Cetyl Alcohol    | 2.5                  | N/A              |
+
+| UV-Vis Spectrophotometer UV-2600   | Jojoba Oil                    | N/A                  | 2.8              |
+
+| Microplate Reader MRX              | Jojoba Oil & Vitamin E        | 3.0                  | N/A              |
+
+
+
+### Table 2: Mass and X-Ray Analysis
+
+
+
+| Instrument                     | Sample                          | Mass/Charge (m/z) | Diffraction (C) |
+
+|--------------------------------|---------------------------------|------------------|-----------------|
+
+| Mass Spectrometer MS-20        | Jojoba Oil, Beeswax, Vitamin E  | 1125             | N/A             |
+
+| X-Ray Diffractometer XRD-6000  | Jojoba Oil, Cetyl Alcohol, Glycerin | N/A          | 75              |
+
+
+
+---
+
+
+
+### Additional Measurements
+
+
+
+- **PCR Machine PCR-96:** Almond Oil, Gum, Glycerin detected with Ct value of *35* cycles.
+
+- **Titrator T-905:** Jojoba Oil exhibited molarity of *9.01 M*, though correlation to absorbance remains inconclusive.
+
+- **Thermocycler TC-5000:** Coconut Oil & Gum mixture shows thermal consistency at *45°C*.
+
+- **FTIR Spectrometer FTIR-8400:** Detected significant peak at *3400 1/cm* indicating characteristic bond vibrations in Almond Oil and Vitamin E.
+
+
+
+### Table 3: Viscosity Measurements
+
+
+
+| Instrument         | Sample                       | Viscosity (cP) |
+
+|--------------------|------------------------------|----------------|
+
+| Viscometer VS-300  | Coconut Oil                  | 4924.63        |
+
+| Viscometer VS-300  | Coconut Oil & Cetyl Alcohol  | 5045.56        |
+
+
+
+---
+
+
+
+## Discussion
+
+
+
+The variations in Optical Density and Absorbance across different mixtures indicate possible interactions at the molecular level. Mass Spectrometry identified a significant m/z ratio of *1125* for Jojoba Oil, Beeswax, and Vitamin E, suggesting a new compound formation or possible complexation.
+
+
+
+An unexpected X-ray diffraction result of *75C* reflects crystallization behavior in Jojoba oil mixed with Cetyl Alcohol. FTIR analysis exhibits a strong peak at *3400 1/cm*, typically seen in -OH groups, confirming the presence of alcohols or acids in Almond Oil mixtures.
+
+
+
+Viscosity analysis uncovered that the addition of Cetyl Alcohol significantly affects the flow properties of Coconut Oil, as seen in the increase from *4924.63 cP* to *5045.56 cP*.
+
+
+
+Despite these findings, one could incorrectly correlate absorbance values with viscosity, which highlights the importance of careful analysis. Spurious correlations may arise; hence data must be interpreted cautiously with chemical context in mind.
+
+
+
+### Random Note:
+
+Please ensure all laboratory safety guidelines were followed, and do not rinse equipment with solvents without proper disposal.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+This lab report illustrates the complex interactions occurring in oil and additive mixtures. Various analytical techniques provided complementary insights, underlining the multifaceted nature of chemical analysis.
+
+
+
+Further studies should explore specific temperature effects and long-term stability of these mixtures.
+
+
+
+**End of Report**
+
+
+
+---
+
+
+Tables:

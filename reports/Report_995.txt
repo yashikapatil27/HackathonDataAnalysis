@@ -1,0 +1,194 @@
+### Lab Report 995: Analysis of Various Oil Mixtures
+
+
+
+**Objective:**  
+
+The primary objective of this report is to analyze different oil mixtures using a variety of spectroscopic and chromatographic techniques. Each unique combination of ingredients is treated as a single test sample for the purpose of obtaining detailed measurements of various properties.
+
+
+
+---
+
+
+
+#### Equipment Used:
+
+
+
+- NMR Spectrometer (Model: NMR-500)
+
+- Gas Chromatograph (Model: GC-2010)
+
+- Liquid Chromatograph (Model: LC-400)
+
+- UV-Vis Spectrophotometer (Model: UV-2600)
+
+- Ion Chromatograph (Model: IC-2100)
+
+- Mass Spectrometer (Model: MS-20)
+
+- Viscometer (Model: VS-300)
+
+
+
+---
+
+
+
+### Observations and Measurements:
+
+
+
+#### Nuclear Magnetic Resonance (NMR)
+
+
+
+Table 1: NMR Analysis Results
+
+| Sample ID | Mixture                           | Measurement (ppm) |
+
+|-----------|-----------------------------------|-------------------|
+
+| 1         | Coconut Oil, Gum                  | 15.3              |
+
+| 2         | Jojoba Oil, Gum, Vitamin E        | 14.9              |
+
+
+
+*NMR Spectrometer NMR-500* was employed to detect chemical shifts in mixtures containing coconut and jojoba oils. Notably, the sample with just gum and coconut oil revealed a higher ppm value compared to the jojoba mixture. It should be noted that environmental factors might affect these readings.
+
+
+
+#### Gas Chromatography
+
+
+
+Table 2: Gas Chromatography Results
+
+| Sample ID | Mixture           | Measurement (ppm) |
+
+|-----------|-------------------|-------------------|
+
+| 1         | Jojoba Oil, Gum   | 200.5             |
+
+| 2         | Almond Oil, Gum   | 450.2             |
+
+
+
+The *Gas Chromatograph GC-2010*, when applied to the mixtures, exhibited noteworthy variances. Jojoba oil and gum yielded a result of 200.5 ppm, contrasting significantly with the almond oil and gum mixture, which showed an elevated reading of 450.2 ppm.
+
+
+
+#### Liquid Chromatography
+
+
+
+Table 3: Liquid Chromatography Observations
+
+| Sample ID | Mixture                  | Component    | Measurement (ug/mL) |
+
+|-----------|--------------------------|--------------|---------------------|
+
+| 1         | Almond Oil, Beeswax, Vitamin E |            | 320.7              | 
+
+
+
+Analysis via *Liquid Chromatograph LC-400* delved into the almond blend, indicating Vitamin E content. The influence of beeswax on the chromatographic profile requires further investigation.
+
+
+
+#### UV-Vis Spectrophotometry
+
+
+
+Table 4: UV-Vis Spectrophotometry
+
+| Sample ID | Mixture             | Measurement (Abs) |
+
+|-----------|---------------------|-------------------|
+
+| 1         | Almond Oil, Vitamin E | 2.3               |
+
+
+
+Using the *UV-Vis Spectrophotometer UV-2600*, the almond oil mixture provided an absorbance of 2.3, suggesting the presence of Vitamin E. However, interference from other constituents was minimal.
+
+
+
+#### Ion Chromatography
+
+
+
+Table 5: Ion Chromatography Results
+
+| Sample ID | Mixture                               | Measurement (mM) |
+
+|-----------|---------------------------------------|------------------|
+
+| 1         | Coconut Oil, Cetyl Alcohol, Glycerin  | 50.9             |
+
+
+
+Through *Ion Chromatograph IC-2100*, the ion concentration was established for the coconut oil mixture, integrating both cetyl alcohol and glycerin. The significance of the ionic strength needs additional focus.
+
+
+
+#### Mass Spectrometry
+
+
+
+Table 6: Mass Spectrometry Findings
+
+| Sample ID | Mixture             | Measurement (m/z) |
+
+|-----------|---------------------|------------------|
+
+| 1         | Coconut Oil, Glycerin | 850.2            |
+
+
+
+*Mass Spectrometer MS-20* results indicated a mass-to-charge ratio particularly high for the coconut oil and glycerin combination at 850.2 m/z, proposing potential carrier ions.
+
+
+
+#### Viscosity Measurements
+
+
+
+Table 7: Viscosity Differentials
+
+| Sample ID | Mixture           | Measurement (cP) |
+
+|-----------|-------------------|------------------|
+
+| 1         | Coconut Oil, Glycerin | 4890.45         |
+
+| 2         | Jojoba Oil            | 2433.65         |
+
+
+
+*Viscometer VS-300* results suggest a substantial viscosity disparity between coconut and jojoba oils, potentially influenced by glycerin's involvement.
+
+
+
+---
+
+
+
+### Results and Discussion:
+
+
+
+The measurements from each method underscore the complexity of interactions within these oil mixtures. Coconut oil consistently presented higher ppm, mM, and viscosity readings possibly due to its intrinsic molecular structure, indicating deeper polarity and weight when combined with gum or glycerin derivatives.
+
+
+
+Almond oil and jojoba oil displayed significant variations in other spectroscopic and chromatographic readings, which could reflect differences in their constituent fatty acids and phytochemicals. These variations are valuable for applications in cosmetic formulation and quality control.
+
+
+
+In conclusion, the suite of analyses highlights the nuanced character of each mixture and supports ongoing research into optimizing these natural ingredients for industrial applications. Random notes highlight the essential nature of methodological improvements to address potential inconsistencies in detection sensitivity across diverse analytical platforms.
+
+
+Tables:

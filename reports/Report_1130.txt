@@ -1,0 +1,212 @@
+# Lab Report 1130
+
+
+
+## Introduction
+
+
+
+This report documents a comprehensive analysis of various samples analyzed using different analytical instruments. Each test sample is a unique combination of ingredients, and the objective is to evaluate their properties across multiple dimensions, including concentration, absorbance, spectral analysis, titration, and viscosity. The methods used include High-Performance Liquid Chromatography (HPLC), Spectrometry, Titration, UV-Visible spectroscopy, Fourier-transform infrared spectroscopy (FTIR), Liquid Chromatography, and Viscosity measurements.
+
+
+
+---
+
+
+
+## Observations
+
+
+
+A diverse range of samples were analyzed, including combinations of oils and additives noted for their application in cosmetics or nutraceuticals. Each mixture exhibited distinct properties based on its components. Observations varied widely depending on the equipment used.
+
+
+
+### Samples Analyzed
+
+
+
+1. **Coconut Oil, Gum, Vitamin E**
+
+2. **Coconut Oil, Beeswax, Vitamin E**
+
+3. **Coconut Oil, Beeswax, Glycerin**
+
+4. **Jojoba Oil, Beeswax, Vitamin E**
+
+5. **Coconut Oil (alone)**
+
+6. **Almond Oil, Gum, Glycerin**
+
+7. **Coconut Oil, Cetyl Alcohol, Glycerin**
+
+
+
+---
+
+
+
+## Measurements
+
+
+
+**HPLC Analysis**: This process quantified Vitamin E and Glycerin concentrations in various mixtures. Results were measured in milligrams per liter (mg/L).
+
+
+
+**Table 1: HPLC Measurement Data**
+
+
+
+| Sample No. | Ingredients                      | Concentration (mg/L) |
+
+|------------|----------------------------------|-----------------------|
+
+| 1          | Coconut Oil, Gum, Vitamin E      | 42.5                  |
+
+| 2          | Coconut Oil, Beeswax, Vitamin E  | 37.8                  |
+
+| 3          | Coconut Oil, Beeswax, Glycerin   | 56.4                  |
+
+| 4          | Jojoba Oil, Beeswax, Vitamin E   | 24.3                  |
+
+| 5          | Coconut Oil                      | 72.9                  |
+
+| 6          | Almond Oil, Gum, Glycerin        | 53.1                  |
+
+| 7          | Coconut Oil, Cetyl Alcohol, Glycerin | 48.7              |
+
+
+
+**Spectrometry and UV-Vis Analysis**: These techniques were employed to determine the absorption spectra, important for understanding light interaction with samples. Results are in nanometers (nm) and absorbance (Abs).
+
+
+
+**Table 2: Spectrometry Measurements**
+
+
+
+| Sample No. | Wavelength (nm) | Absorbance (Abs) |
+
+|------------|-----------------|------------------|
+
+| 1          | 350             | 1.2              |
+
+| 2          | 476             | 1.8              |
+
+| 3          | 250             | 1.5              |
+
+| 4          | 620             | 2.1              |
+
+| 5          | 300             | 0.9              |
+
+| 6          | 540             | 2.5              |
+
+| 7          | 415             | 1.1              |
+
+
+
+### Titration and FTIR Analysis
+
+
+
+**Titration Results**: Molar concentrations were determined for mixtures, shedding light on molecular interactions for certain organic compounds.
+
+
+
+**Table 3: Titration and FTIR**
+
+
+
+| Sample No. | Molarity (M) | FTIR Frequency (1/cm) |
+
+|------------|--------------|----------------------|
+
+| 1          | 0.005        | 800                  |
+
+| 2          | 0.008        | 950                  |
+
+| 3          | 0.007        | 1200                 |
+
+| 4          | 0.012        | 1000                 |
+
+| 5          | 0.003        | 700                  |
+
+| 6          | 0.009        | 1100                 |
+
+| 7          | 0.004        | 950                  |
+
+
+
+### Liquid Chromatography and Viscosity Analysis
+
+
+
+**LC Results**: Quantification of dispersed particles in micrograms per milliliter (ug/mL) provides insight into material distribution in the sample.
+
+
+
+**Table 4: LC and Viscosity Measurements**
+
+
+
+| Sample No. | Concentration (ug/mL) | Viscosity (cP)      |
+
+|------------|------------------------|---------------------|
+
+| 1          | 150                    | N/A                 |
+
+| 2          | 200                    | N/A                 |
+
+| 3          | 350                    | N/A                 |
+
+| 4          | 250                    | N/A                 |
+
+| 5          | 450                    | N/A                 |
+
+| 6          | 300                    | 7522.29             |
+
+| 7          | 275                    | 5305.7              |
+
+
+
+---
+
+
+
+## Results
+
+
+
+The results revealed unique characteristics for each mixture, underscoring the influence of individual ingredients. Variability in measurements across different instruments indicates complexity inherent in understanding molecular interactions.
+
+
+
+- **Complex spectra and absorbance peaks** suggested diverse interactions and structural variations.
+
+- **Titration molarity** values pointed to differential reactivity, particularly for Vitamin E in varied systems.
+
+- **Viscosity analysis** highlighted significant differences among samples, especially the impact of Cetyl Alcohol and Glycerin within the viscosity parameters.
+
+
+
+**Random Observation**: The presence of Cetyl Alcohol in any mixture exhibited interesting effects on its viscosity and spectral absorption, which might imply underlying chemical interactions affecting these parameters.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The comprehensive analysis using multiple technologies provided a holistic view of the samples' chemical makeup. Understanding these variations can have practical implications in product development and quality control, particularly for industries focusing on personal care products. Further analysis focusing on stability and shelf-life prediction might also prove valuable.
+
+
+
+[End of Report]
+
+
+Tables:

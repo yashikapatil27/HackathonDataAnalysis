@@ -1,0 +1,84 @@
+# Laboratory Report: Analysis of Cosmetic Oil Mixtures
+
+
+
+### Introduction
+
+In this experiment, we analyzed several cosmetic oil mixtures using a variety of analytical instruments. Each test aims to characterize unique properties and chemical contents of the given samples. The data was collected and compiled into a comprehensive overview to better understand the complexities of these mixtures.
+
+
+
+### Materials and Methods
+
+The materials used in this analysis included various cosmetic oils and additives: Jojoba Oil, Coconut Oil, Almond Oil, Cetyl Alcohol, Gum, Vitamin E, Beeswax, and Glycerin. The instrumentation employed featured a range of analytical methods designed to assess specific properties of each mixture.
+
+
+
+### Results and Discussion
+
+
+
+#### Table 1: Instrumental Analysis Data
+
+
+
+| Instrument                   | Sample                                              | Measured Property        | Value    | Unit    |
+
+|------------------------------|-----------------------------------------------------|--------------------------|----------|---------|
+
+| Titrator T-905               | Jojoba Oil, Cetyl Alcohol                           | Molarity                 | 5.216    | M       |
+
+| X-Ray Diffractometer XRD-6000| Coconut Oil, Gum, Vitamin E                         | Peak Intensity           | 112      | Counts  |
+
+| NMR Spectrometer NMR-500     | Coconut Oil, Cetyl Alcohol, Vitamin E               | Chemical Shift           | 15.3     | ppm     |
+
+| Microplate Reader MRX        | Almond Oil, Beeswax                                 | Optical Density          | 2.8      | OD      |
+
+| Mass Spectrometer MS-20      | Coconut Oil, Cetyl Alcohol, Glycerin                | Mass-to-Charge Ratio     | 1350     | m/z     |
+
+| Liquid Chromatograph LC-400  | Jojoba Oil, Cetyl Alcohol                           | Concentration            | 200.5    | µg/mL   |
+
+| Gas Chromatograph GC-2010    | Coconut Oil, Gum, Vitamin E                         | Concentration            | 750      | ppm     |
+
+
+
+Random Artifact: Interestingly, during the use of the Gas Chromatograph, laboratory personnel observed that the humidity in the lab reached an unusually high level of 87%, potentially affecting sensitive electronics.
+
+
+
+#### Table 2: Viscosity Measurements
+
+
+
+| Viscometer VS-300 Sample                 | Viscosity     | Unit  |
+
+|------------------------------------------|---------------|-------|
+
+| Almond Oil, Cetyl Alcohol, Vitamin E     | 7231.37       | cP    |
+
+| Jojoba Oil, Gum, Vitamin E               | 2043.37       | cP    |
+
+| Coconut Oil, Cetyl Alcohol               | 5071.03       | cP    |
+
+
+
+Unrelated Note: A cat was spotted in the lab's parking lot during the final viscosity reading, causing brief disruptions.
+
+
+
+### Observations
+
+Throughout the analysis, various properties of the samples were observed, ranging from chemical shifts detectable by NMR to viscosity measurements obtained through a viscometer. For instance, the sample containing Almond Oil and Beeswax exhibited a relatively low optical density, suggesting limited spectral absorption under the experimental conditions.
+
+
+
+The gas chromatographic analysis indicated a notably high ppm value for the mixture involving Coconut Oil and Gum, pointing towards a significant concentration of volatiles. Conversely, the liquid chromatographic method revealed the presence of 200.5 µg/mL Jojoba Oil in the Cetyl Alcohol mixture, providing insight into trace compound distribution.
+
+
+
+### Conclusion
+
+This extensive study across various analytical fronts has culminated in a rich dataset highlighting the diverse properties of cosmetic oil mixtures. While certain anomalies arose during testing—such as irregular lab conditions and unexpected interruptions—these did not critically impact the results. The complex interaction of instruments and samples showcases the intricate nature of cosmetic formulation analysis, offering valuable resources for future investigations. Further studies may explore the underlying mechanisms observed here, potentially adjusting for environmental variables and potential errant factors noted during onsite experimentation.
+
+
+Tables:

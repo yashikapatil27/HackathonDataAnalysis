@@ -1,0 +1,162 @@
+# Lab Report: Testing and Analysis of Cosmetic Mixtures
+
+
+
+**Report ID:** Report_668  
+
+**Date:** October 13, 2023  
+
+**Purpose:** Evaluating the properties of various cosmetic mixtures using advanced laboratory instrumentation. Each mixture was tested utilizing different equipment to determine specific characteristics such as lubrication, thermal stability, ion concentration, polymerization efficiency, spectroscopic properties, and viscosity.  
+
+
+
+### Introduction
+
+
+
+In pursuit of enhancing the quality and performance of cosmetic products, it is essential to comprehensively analyze the properties of various formulations. Our study focuses on mixtures containing different oils, waxes, and active components. Each mixture underwent a rigorous set of experiments, and the results were meticulously documented to provide valuable insights.
+
+
+
+### Experimental Setup and Methodology
+
+
+
+Each formulation was subjected to a specific testing procedure. The methodology included using distinct instruments tailored to measure diverse properties of the mixtures. An array of sophisticated machines was employed, such as the Four Ball Tester for measuring lubrication, a Thermocycler for assessing thermal stability, an Ion Chromatograph for ion concentration, and more.
+
+
+
+### Results and Observations
+
+
+
+The data collected from each test is summarized in the following sections.  
+
+  
+
+#### Lubrication Test using Four Ball Tester FB-1000
+
+
+
+| Mixture Components | Equipment Model | Measurement | Unit |
+
+|--------------------|-----------------|-------------|------|
+
+| Almond Oil, Gum, Vitamin E | FB-1000 | 0.650 | mm |
+
+| Almond Oil, Cetyl Alcohol, Glycerin | FB-1000 | 0.850 | mm |
+
+
+
+Observations: The lubrication tests indicated a notable difference in the lubricating film thickness of the mixtures. The inclusion of Cetyl Alcohol and Glycerin with Almond Oil improved lubrication slightly compared to the mixture with Gum and Vitamin E.  
+
+
+
+#### Thermal Stability Analysis using Thermocycler TC-5000
+
+
+
+| Mixture Components | Equipment Model | Temperature | Unit |
+
+|--------------------|-----------------|-------------|------|
+
+| Coconut Oil, Beeswax, Glycerin | TC-5000 | 38 | °C |
+
+
+
+Observations: The Coconut Oil-based mixture demonstrated stable thermal behavior, maintaining integrity at up to 38°C. This endows the formulation with resistance to temperature-induced degradation.  
+
+
+
+#### Ion Concentration Measurement by Ion Chromatograph IC-2100
+
+
+
+| Mixture Components | Equipment Model | Concentration | Unit |
+
+|--------------------|-----------------|--------------|------|
+
+| Jojoba Oil, Gum, Vitamin E | IC-2100 | 12.5 | mM |
+
+
+
+Observations: The ion concentration in the Jojoba Oil mixture suggests a moderate ionic presence, potentially affecting the mixture's electrical properties and interaction with skin.  
+
+
+
+#### Polymerization Efficiency via PCR Machine PCR-96
+
+
+
+| Mixture Components | Equipment Model | Ct Value | |
+
+|--------------------|-----------------|---------|---|
+
+| Almond Oil, Beeswax, Vitamin E | PCR-96 | 22 | |
+
+
+
+Observations: This test assessed amplification kinetics, revealing a Ct value indicative of efficient molecular interactions. The role of Beeswax and Vitamin E in stabilizing the polymer formation was notable.  
+
+
+
+#### Spectroscopic Properties using FTIR Spectrometer FTIR-8400
+
+
+
+| Mixture Components | Equipment Model | Wavenumber | Unit |
+
+|--------------------|-----------------|------------|------|
+
+| Jojoba Oil | FTIR-8400 | 2900 | 1/cm |
+
+
+
+Note: FTIR analysis skipped redundant data processing, focusing solely on peak wavenumber for primary functional group assessment. The presence of characteristic CH-stretching vibrations confirmed the composition's integrity.
+
+
+
+#### Viscosity Assessment via Viscometer VS-300
+
+
+
+| Mixture Components | Equipment Model | Viscosity | Unit |
+
+|--------------------|-----------------|----------|------|
+
+| Coconut Oil, Cetyl Alcohol, Vitamin E | VS-300 | 5055.24 | cP |
+
+
+
+Observations: The exceptionally high viscosity of this blend may confer desirable textural properties in applications requiring thickening agents.
+
+
+
+### Discussion
+
+
+
+Irrelevant Interjection: During testing, it was discovered that the adjacent lab forgot to turn off the centrifuge overnight, leading to a minor inconvenience in sample processing.
+
+
+
+Examining the data, we see distinct variances in the physicochemical properties associated with the component mixtures. The potential applications of each formulation depend heavily on these attributes. Further research could explore the long-term stability and performance of each mixture under various environmental conditions.
+
+
+
+### Conclusion
+
+
+
+The comprehensive analysis elucidates critical aspects of each formulation, supporting informed decisions in the development of high-performance cosmetic products. By understanding these parameters, we advance the creation of products that are both effective and safe for consumers.
+
+
+
+#### Appendices
+
+
+
+Additional charts, graphs, and irrelevant notes, such as random musings on the impact of caffeine on research productivity, are available on request.
+
+
+Tables:

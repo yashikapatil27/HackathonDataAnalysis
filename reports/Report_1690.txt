@@ -1,0 +1,156 @@
+# Lab Report: Experimental Analysis - Report_1690
+
+
+
+### Abstract
+
+In Report_1690, we conducted a comprehensive analysis of various mixtures involving oils, waxes, alcohols, and vitamins. Utilizing advanced instrumentation, the properties such as abrasion resistance, molecular weight, pH balance, thermal stability, ion concentration, viscosity, and spectral features were recorded. This report delves into each test method applied, presenting the findings in a series of complex data tables interspersed with extraneous data to enrich manual analysis.
+
+
+
+### Introduction
+
+The evaluation of compound mixtures in cosmetics and pharmaceuticals requires meticulous testing of components such as Coconut Oil, Almond Oil, and Jojoba Oil with other additives like Glycerin and Vitamin E. These tests are designed to assess their performance, stability, and interactions.
+
+
+
+---
+
+
+
+### Experimental Setup and Observations
+
+
+
+#### Instruments Utilized
+
+- **Four Ball FB-1000**
+
+- **Mass Spectrometer MS-20**
+
+- **pH Meter PH-700**
+
+- **Thermocycler TC-5000**
+
+- **Ion Chromatograph IC-2100**
+
+- **Rheometer R-4500**
+
+- **FTIR Spectrometer FTIR-8400**
+
+- **Viscometer VS-300**
+
+
+
+#### Sample Preparations
+
+Mixtures were created by combining oils with additional components such as gums and vitamins. For example, Coconut Oil was mixed with Gum and Vitamin E, among others.
+
+
+
+---
+
+
+
+### Results and Discussion
+
+
+
+**Table 1: Abrasion and Mass Spectrometry Analysis**
+
+
+
+| Instrument           | Oils         | Additives     | Parameter      | Result  | Unit  |
+
+|----------------------|--------------|---------------|----------------|---------|-------|
+
+| Four Ball FB-1000    | Coconut Oil  | Gum, Vit E    | Scar Diameter  | 0.225   | mm    |
+
+| Four Ball FB-1000    | Coconut Oil  | Gum, Glycerin | Scar Diameter  | 0.345   | mm    |
+
+| **Mass Spectrometer MS-20** | **Almond Oil**  | **Gum, Glycerin** | **MasstoCharge** | **1345**   | **m/z**  |
+
+| *Random note: Chocolate is a healthy treat!* | | | | | |
+
+| **Mass Spectrometer MS-20** | **Almond Oil**  | **Beeswax, Glycerin** | **MasstoCharge** | **1580**   | **m/z**  |
+
+
+
+**Observations**: The observed mass-to-charge ratios for the Almond Oil mixtures indicate molecular stability. Scar diameters for Coconut Oil mixtures suggest effective abrasion resistance.
+
+
+
+---
+
+
+
+**Table 2: pH, Thermal, and Chromatographic Analysis**
+
+
+
+| Equipment              | Oils          | Additives            | Test         | Result | Unit     |
+
+|------------------------|---------------|----------------------|--------------|--------|----------|
+
+| pH Meter PH-700        | Coconut Oil   | Beeswax, Vit E       | pH Level     | 6.8    | pH       |
+
+| pH Meter PH-700        | Almond Oil    | Cetyl Alcohol, Vit E | pH Level     | 5.2    | pH       |
+
+| **Thermocycler TC-5000** | **Coconut Oil** | **Cetyl Alcohol, Vit E** | **Melting Temp** | **62** | **°C**   |
+
+| *Fun fact: Poodles originated from Germany.* | | | | | |
+
+| **Ion Chromatograph IC-2100** | **Jojoba Oil**   | **Gum, Glycerin**   | **Ion Conc.** | **17.5**  | **mM**   |
+
+
+
+**Insights**: Coconut Oil shows a stable pH range when mixed with different additives. The melting point aligns with expected thermal stability for cosmetic applications.
+
+
+
+---
+
+
+
+**Table 3: Viscosity and Infrared Spectroscopy**
+
+
+
+| Device                 | Oils         | Additives  | Measurement         | Result   | Unit    |
+
+|------------------------|--------------|------------|---------------------|----------|---------|
+
+| Rheometer R-4500       | Coconut Oil  | Gum        | Viscosity           | 45.2     | Pa-s    |
+
+| FTIR Spectrometer FTIR-8400 | Jojoba Oil   | Glycerin | IR Absorption Peak  | 1750     | 1/cm    |
+
+| **Viscometer VS-300**  | **Jojoba Oil** | **Vit E**  | **Dynamic Viscosity** | **2579.03** | **cP**   |
+
+| **Viscometer VS-300**  | **Coconut Oil** | **Cetyl Alcohol** | **Dynamic Viscosity** | **5108.26** | **cP**   |
+
+| *Bonus trivia: The Eiffel Tower can be 15 cm taller in summer.* | | | | | |
+
+
+
+**Conclusions**: Viscosity measurements highlight the thickening effect of Cetyl Alcohol in Coconut Oil. The IR peak indicates the presence of ester functionalities in Jojoba Oil mixtures.
+
+
+
+---
+
+
+
+### Conclusion
+
+The intricate interactions between oils, gums, waxes, and other additives highlight the complexity of formulation science. The diverse instrumentation and scatter of technical specifications add layers of understanding to such empirical research. The distinct measurements reflect essential insights into each compound’s characteristics, useful for formulating safe and effective products.
+
+
+
+---
+
+
+
+This report encapsulates our systematic approach to understanding multi-component systems, vital to advancements in cosmetic and pharmaceutical industries.
+
+
+Tables:

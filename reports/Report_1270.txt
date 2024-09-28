@@ -1,0 +1,164 @@
+# Laboratory Report: Report_1270
+
+
+
+---
+
+
+
+## Introduction
+
+The objective of this series of experiments was to evaluate the physicochemical properties of various oil-based mixtures under different test conditions. The primary focus was on mixtures containing Jojoba Oil, Almond Oil, and Coconut Oil combined with other components such as Beeswax, Vitamin E, and Glycerin. Each mixture was subjected to multiple analytical techniques to determine diverse properties, including their mechanical, spectroscopic, and chromatographic characteristics.
+
+
+
+## Methodology
+
+A comprehensive series of tests were carried out using various instruments detailed below. Each instrument provided specific insights into the distinct characteristics of the sample mixtures. The naming of each sample corresponds to its main constituents. The data might seem complex with intermingled observations and extraneous information but provides a thorough insight into the experiment outcomes.
+
+
+
+### Sample Mixtures
+
+1. **Jojoba Oil, Beeswax, Vitamin E**
+
+2. **Jojoba Oil, Cetyl Alcohol**
+
+3. **Jojoba Oil, Beeswax, Glycerin**
+
+4. **Coconut Oil, Glycerin**
+
+5. **Almond Oil, Gum, Glycerin**
+
+6. **Coconut Oil, Beeswax, Vitamin E**
+
+7. **Almond Oil, Glycerin**
+
+
+
+### Instrumentation and Measurements
+
+- **PCR Machine (PCR-96)**
+
+- **Rheometer (R-4500)**
+
+- **Microplate Reader (MRX)**
+
+- **FTIR Spectrometer (FTIR-8400)**
+
+- **UV-Vis Spectrophotometer (UV-2600)**
+
+- **Titrator (T-905)**
+
+- **Ion Chromatograph (IC-2100)**
+
+- **Four Ball Tester (FB-1000)**
+
+- **Spectrometer (Alpha-300)**
+
+- **Liquid Chromatograph (LC-400)**
+
+- **Viscometer (VS-300)**
+
+
+
+## Results and Observations
+
+
+
+### Table 1: Spectroscope Analysis
+
+| Instrument             | Mixture                             | Measurement | Unit   |
+
+|------------------------|-------------------------------------|-------------|--------|
+
+| FTIR-8400              | Jojoba Oil                          | 1450        | 1/cm   |
+
+| UV-2600                | Coconut Oil, Glycerin               | 1.5         | Abs    |
+
+| Spectrometer Alpha-300 | Almond Oil                          | 550         | nm     |
+
+
+
+### Observations
+
+- The FTIR spectrometer showed a peak at 1450 1/cm for Jojoba Oil, indicative of characteristic functional group vibrations.
+
+- The UV-Vis Spectrophotometer displayed an absorbance of 1.5 Abs for the Coconut Oil and Glycerin mixture, which could relate to specific chromophoric activity.
+
+
+
+### Table 2: Rheological and Viscosity Analysis
+
+| Instrument  | Mixture                            | Viscosity/Stiffness | Unit   |
+
+|-------------|------------------------------------|---------------------|--------|
+
+| R-4500      | Jojoba Oil, Cetyl Alcohol          | 150                 | Pa-s   |
+
+| VS-300      | Jojoba Oil, Gum, Vitamin E         | 2047.08             | cP     |
+
+| FB-1000     | Almond Oil, Glycerin               | 0.650               | mm     |
+
+
+
+### Observations
+
+- The rheological properties measured by the Rheometer R-4500 showed heightened viscosity in the Jojoba Oil and Cetyl Alcohol mixture.
+
+- The Viscometer indicated a high viscosity for the Jojoba Oil, Gum, and Vitamin E mixture, which suggests potential applications in thick formulations.
+
+
+
+### Table 3: Chemical and Concentration Analysis
+
+| Instrument  | Mixture                            | Concentration | Unit   |
+
+|-------------|------------------------------------|---------------|--------|
+
+| LC-400      | Jojoba Oil, Cetyl Alcohol          | 200           | ug/mL  |
+
+| T-905       | Almond Oil, Gum, Glycerin          | 0.032         | M      |
+
+| IC-2100     | Coconut Oil, Beeswax, Vitamin E    | 12.5          | mM     |
+
+
+
+### Observations
+
+- High chemical concentrations were noted for the Jojoba Oil and Cetyl Alcohol mixture using the Liquid Chromatograph.
+
+- The Ion Chromatograph analysis revealed significant ionic content in the Coconut Oil, Beeswax, and Vitamin E mixture.
+
+
+
+### Table 4: Miscellaneous Data
+
+| Instrument | Mixture                      | Ct/OD/Random Data | Unit |
+
+|------------|------------------------------|--------------------|------|
+
+| PCR-96     | Jojoba Oil, Beeswax, Vitamin E | 35                 | Ct   |
+
+| MRX        | Jojoba Oil, Beeswax, Glycerin  | 2.8                | OD   |
+
+
+
+### Observations
+
+- The PCR machine output for the Jojoba Oil, Beeswax, and Vitamin E indicated a Ct value of 35, an unusual parameter for standard PCR applications.
+
+- Microplate Reader MRX showed an optical density of 2.8 for the Jojoba Oil, Beeswax, and Glycerin mixture.
+
+
+
+## Conclusion
+
+The multiple tests elucidated a detailed profile of each mixture's properties, indicating potential applications in formulations requiring specific viscosities, chemical concentrations, or spectroscopic characteristics. Findings demonstrate the complexity and versatility of these natural ingredients when mixed in various combinations for potential industrial applications.
+
+
+
+Future experiments may focus on refining these mixtures for targeted uses, such as in cosmetics or food products, by further exploring the irrelevant complexities introduced at each step.
+
+
+Tables:

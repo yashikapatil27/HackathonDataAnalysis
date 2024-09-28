@@ -1,0 +1,240 @@
+# Lab Report 1925: Analysis of Oil-Based Mixtures
+
+
+
+## Introduction
+
+
+
+In this study, we conducted a series of tests on various oil-based mixtures to understand their physical and chemical properties. The experiments were performed using advanced instruments, each carefully selected for specific measurements. The focus was on combinations of Coconut Oil, Almond Oil, and Jojoba Oil with additives such as Gum, Vitamin E, Beeswax, and Cetyl Alcohol. Each mixture underwent a unique set of analyses.
+
+
+
+## Equipment and Methodology
+
+
+
+### Used Instruments
+
+
+
+1. **Thermocycler TC-5000**:
+
+   - Purpose: Analyze thermal characteristics.
+
+   - Conditions: Maintained specific temperatures.
+
+
+
+2. **Titrator T-905**:
+
+   - Purpose: Measure concentration via titration.
+
+   - Conditions: Precision titration to determine molarity.
+
+
+
+3. **X-Ray Diffractometer XRD-6000**:
+
+   - Purpose: Evaluate structural properties.
+
+   - Conditions: High-temp settings.
+
+
+
+4. **Four Ball FB-1000**:
+
+   - Purpose: Assess tribological behavior.
+
+   - Conditions: Measured wear scar diameter.
+
+
+
+5. **Spectrometer Alpha-300**:
+
+   - Purpose: Analyze light absorption.
+
+   - Conditions: Specific wavelength measurement.
+
+
+
+### Protocol Overview
+
+
+
+A detailed methodology was established to ensure that each mixture was subjected to consistent and accurate testing. Conditions were tightly controlled, with an irrelevant side note on the lab room temperature at 22°C throughout the tests. For simplicity, the purification steps were omitted, although they are crucial for real-world applications.
+
+
+
+## Observations and Measurements
+
+
+
+### Coconut Oil Combinations
+
+
+
+#### **Test 1**: Coconut Oil, Gum, Vitamin E
+
+- **Instrument Used**: Thermocycler TC-5000
+
+- **Temperature**: 75°C
+
+- **Observation**: The blend showed significant viscosity variation at elevated temperatures.
+
+
+
+#### **Test 2**: Coconut Oil, Gum
+
+- **Instrument Used**: Spectrometer Alpha-300
+
+- **Wavelength**: 450 nm
+
+- **Observation**: Absorption peak indicated a stable suspension of particles. *(Note: the operator spilled coffee during this test)*
+
+
+
+### Almond Oil Combinations
+
+
+
+#### **Test 3**: Almond Oil, Vitamin E
+
+- **Instrument Used**: Titrator T-905
+
+- **Molarity**: 0.512 M
+
+- **Observation**: The solution reached its required concentration quickly.
+
+
+
+#### **Test 4**: Almond Oil, Gum, Vitamin E
+
+- **Instrument Used**: X-Ray Diffractometer XRD-6000
+
+- **Temperature**: 90°C
+
+- **Observation**: No significant crystalline structures were identified.
+
+
+
+#### **Test 5**: Almond Oil, Beeswax
+
+- **Instrument Used**: Four Ball FB-1000
+
+- **Wear Scar Diameter**: 0.850 mm
+
+- **Observation**: This mixture exhibited good lubricating properties.
+
+
+
+#### **Test 6**: Almond Oil, Cetyl Alcohol, Vitamin E
+
+- **Instrument Used**: Four Ball FB-1000
+
+- **Wear Scar Diameter**: 0.750 mm
+
+- **Observation**: Better performance against friction as compared to the previous Almond Oil mix.
+
+
+
+### Jojoba Oil Combinations
+
+
+
+#### **Test 7**: Jojoba Oil, Gum, Glycerin
+
+- **Instrument Used**: Thermocycler TC-5000
+
+- **Temperature**: 60°C
+
+- **Observation**: The mixture remained homogenous throughout the thermal cycle.
+
+
+
+#### **Test 8**: Jojoba Oil, Cetyl Alcohol
+
+- **Instrument Used**: Titrator T-905
+
+- **Molarity**: 5.640 M
+
+- **Observation**: Reaction time was notably longer than anticipated.
+
+
+
+#### **Test 9**: Jojoba Oil
+
+- **Instrument Used**: X-Ray Diffractometer XRD-6000
+
+- **Temperature**: 120°C
+
+- **Observation**: Crystal formation was detected, suggesting molecular alignment.
+
+
+
+#### **Test 10**: Jojoba Oil, Gum, Vitamin E
+
+- **Instrument Used**: Spectrometer Alpha-300
+
+- **Wavelength**: 650 nm
+
+- **Observation**: Showed high absorbance indicating effective solubilization of Vitamin E.
+
+
+
+## Results and Discussion
+
+
+
+### Summary Tables
+
+
+
+#### Table 1: Thermal and Spectral Analysis
+
+| Sample ID     | Ingredients                     | Instrument        | Measured Value | Unit |
+
+|---------------|---------------------------------|-------------------|----------------|------|
+
+| 1             | Coconut Oil, Gum, Vitamin E     | TC-5000           | 75             | °C   |
+
+| 2             | Coconut Oil, Gum                | Alpha-300         | 450            | nm   |
+
+| 7             | Jojoba Oil, Gum, Glycerin       | TC-5000           | 60             | °C   |
+
+| 10            | Jojoba Oil, Gum, Vitamin E      | Alpha-300         | 650            | nm   |
+
+
+
+#### Table 2: Titration and Mechanical Analysis
+
+| Sample ID | Ingredients                     | Instrument | Measured Value | Unit  |
+
+|-----------|---------------------------------|------------|----------------|-------|
+
+| 3         | Almond Oil, Vitamin E           | T-905      | 0.512          | M     |
+
+| 5         | Almond Oil, Beeswax             | FB-1000    | 0.850          | mm    |
+
+| 6         | Almond Oil, Cetyl Alcohol, Vitamin E | FB-1000    | 0.750          | mm    |
+
+| 8         | Jojoba Oil, Cetyl Alcohol       | T-905      | 5.640          | M     |
+
+
+
+Random Note: The test facilitator enjoys afternoon tea, which has no bearing on test results.
+
+
+
+### Conclusion
+
+
+
+The various tests provided insights into the behavior of different oil-based mixtures. Each combination presented distinct characteristics when exposed to controlled conditions. Notably, mixtures with Vitamin E showed potential for enhanced stability and functionality in specific applications.
+
+
+
+Each test's success may be obscured by the complexity of protocol interactions, with nuances that require further exploration. Future studies should consider random events such as equipment humming effects and the influence of background music, which were beyond the scope of this initial investigation.
+
+
+Tables:

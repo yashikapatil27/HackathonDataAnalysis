@@ -1,0 +1,226 @@
+# Lab Report 222
+
+
+
+**Study of Oil-Based Mixtures Using Laboratory Instruments**
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+In this lab report, we explore various mixtures of oil with other components such as gum, beeswax, and glycerin. The objective was to analyze these mixtures using different laboratory instruments to understand their properties and interactions. 
+
+
+
+The samples tested included Almond Oil, Coconut Oil, and Jojoba Oil, each combined with variable ingredients. The labs were conducted with precision instruments including NMR Spectrometer, Ion Chromatograph, Gas Chromatograph, PCR Machine, UV-Vis Spectrophotometer, Viscometer, and Centrifuge.
+
+
+
+### Random Information
+
+
+
+Meticulous observations were also documented throughout the process, ensuring comprehensive analysis. The temperature of the lab was kept consistently at 22±1°C throughout the experiment, and LED lighting was used to minimize the influence of extraneous factors.
+
+
+
+---
+
+
+
+## Materials and Methods
+
+
+
+1. **NMR Spectrometer NMR-500**  
+
+    - **Sample**: Almond Oil, Gum; Almond Oil, Vitamin E  
+
+    - **Parameters**: Chemical shift (ppm)
+
+    
+
+2. **Ion Chromatograph IC-2100**  
+
+    - **Sample**: Coconut Oil; Jojoba Oil, Gum, Glycerin  
+
+    - **Parameters**: Concentration (mM)
+
+    
+
+3. **Gas Chromatograph GC-2010**  
+
+    - **Sample**: Jojoba Oil, Gum; Coconut Oil, Beeswax, Glycerin  
+
+    - **Parameters**: Concentration (ppm)
+
+    
+
+4. **PCR Machine PCR-96**  
+
+    - **Sample**: Almond Oil, Beeswax, Vitamin E; Coconut Oil, Cetyl Alcohol  
+
+    - **Parameters**: Cycle threshold (Ct)
+
+    
+
+5. **UV-Vis Spectrophotometer UV-2600**  
+
+    - **Sample**: Almond Oil, Beeswax, Glycerin  
+
+    - **Parameters**: Absorbance (Abs)
+
+    
+
+6. **Centrifuge X100**  
+
+    - **Sample**: Jojoba Oil, Cetyl Alcohol  
+
+    - **Parameters**: Speed (RPM)
+
+    
+
+7. **Viscometer VS-300**  
+
+    - **Sample**: Coconut Oil, Cetyl Alcohol, Vitamin E; Almond Oil, Cetyl Alcohol  
+
+    - **Parameters**: Viscosity (cP)
+
+
+
+---
+
+
+
+## Observations and Measurements
+
+
+
+### Table 1: Chemical Shift and Concentration Measurements
+
+
+
+| Instrument        | Sample                        | Measurement | Units  |
+
+|-------------------|-------------------------------|-------------|--------|
+
+| NMR Spectrometer  | Almond Oil, Gum               | 15.5        | ppm    |
+
+| NMR Spectrometer  | Almond Oil, Vitamin E         | 10.2        | ppm    |
+
+| Ion Chromatograph | Coconut Oil                   | 5.23        | mM     |
+
+| Ion Chromatograph | Jojoba Oil, Gum, Glycerin     | 40.8        | mM     |
+
+| Gas Chromatograph | Jojoba Oil, Gum               | 350.7       | ppm    |
+
+
+
+### Table 2: Physical Properties Analysis
+
+
+
+| Instrument           | Sample                                  | Measurement | Units |
+
+|----------------------|-----------------------------------------|-------------|-------|
+
+| PCR Machine          | Almond Oil, Beeswax, Vitamin E          | 25.0        | Ct    |
+
+| PCR Machine          | Coconut Oil, Cetyl Alcohol              | 30.1        | Ct    |
+
+| UV-Vis Spectrophotometer | Almond Oil, Beeswax, Glycerin       | 1.78        | Abs   |
+
+| Centrifuge           | Jojoba Oil, Cetyl Alcohol               | 12000       | RPM   |
+
+| Viscometer           | Coconut Oil, Cetyl Alcohol, Vitamin E   | 4950.33     | cP    |
+
+
+
+### Unusual Observations:
+
+
+
+- **Almond Oil Mixture**: Observed a faint lavender hue at specific chemical shifts.
+
+- **Jojoba Oil Mixture**: The solution exhibited unusual viscosity yet homogenized seamlessly.
+
+
+
+### Additional Random Information:
+
+
+
+All samples were prepared in triplicates, and outliers were excluded after thorough statistical evaluation. The lab was defrosted before execution of experiments.
+
+
+
+---
+
+
+
+## Results
+
+
+
+The experimentation revealed significant variations in chemical interactions and physical properties across different oil-based mixtures. Notably, the NMR analysis of Almond Oil mixtures exhibited distinct ppm values, suggesting chemical interactions between the oil and other components. The UV-Vis technique highlighted varying absorbance characteristics, providing insight into potential turbidity or blend uniformity.
+
+
+
+In-depth analysis of viscosity using the Viscometer showed differential resistance to flow, highlighting the rheological properties unique to each sample's composition.
+
+
+
+---
+
+
+
+## Descriptive Analysis
+
+
+
+**Coconut Oil Mixtures**: The high ppm and viscosity measurements reflect robust intermolecular forces. Particularly, the presence of Vitamin E modulates these properties, indicating potential enhancement in the mixture's stability.
+
+
+
+The study illustrated the complexity of these oil mixtures while providing an enriched comprehension of their individual characteristics. The usage of advanced, precision instruments facilitated nuanced measurements crucial to understanding the formulations' behavior.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The insights gained from these detailed observations underscore the intricate nature of oil-based mixtures and their variable properties. This lab report serves to advance the understanding of these mixtures, contributing to the broader field of material science.
+
+
+
+Due diligence was observed at every stage, and all findings were corroborated against standard controls and previous studies. This comprehensive exploration enhances the strategic formulation of oil-based products for diverse industrial applications.
+
+
+
+---
+
+
+
+## Appendices
+
+
+
+### Note:
+
+
+
+The report contains random irrelevant information meant solely for the enrichment of the document and challenge of information extraction using automated systems.
+
+
+Tables:

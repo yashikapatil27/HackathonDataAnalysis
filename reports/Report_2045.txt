@@ -1,0 +1,168 @@
+# Laboratory Report: Analysis of Oil Mixtures
+
+
+
+## Introduction
+
+
+
+This report, designated as Report_2045, presents comprehensive analyses conducted on various oil mixtures. The mixtures tested include Almond Oil, Jojoba Oil, and Coconut Oil with various additional ingredients. Each test utilizes specific instruments to deduce the physicochemical characteristics of these mixtures. The instruments employed include mass spectrometers, NMR spectrometers, UV-Vis spectrophotometers, and several others, offering insights into their molecular composition and properties.
+
+
+
+---
+
+
+
+## Instrumental Analysis
+
+
+
+### **1. Mass Spectrometry**
+
+
+
+Utilizing the Mass Spectrometer MS-20, we examined an Almond Oil, Cetyl Alcohol, and Vitamin E mixture. The measurement results were observed at 1500 m/z, suggesting a complex interplay of hydrocarbons and additional functional groups.  
+
+
+
+**Key Notes:**
+
+
+
+- The mass-to-charge ratio signifies the presence of high molecular weight compounds.
+
+- Detectable peaks indicate potential ester linkages and phenolic compounds.
+
+
+
+### **2. Nuclear Magnetic Resonance (NMR)**
+
+
+
+The NMR Spectrometer NMR-500 was employed to analyze an Almond Oil and Vitamin E mixture. The results, observed at 15 ppm, highlight chemical shifts indicative of aromatic proton environments.
+
+
+
+**Interesting Irrelevant Information:**
+
+
+
+Did you know that almond oil is often used in ancient traditional medicine for wound healing?
+
+
+
+### **3. UV-Vis Spectrophotometry**
+
+
+
+The mixture of Almond Oil and Cetyl Alcohol was subjected to analysis using the UV-Vis Spectrophotometer UV-2600. An absorbance reading of 2.7 Abs was recorded, indicative of unsaturated compounds and possible conjugated systems present in the sample.
+
+
+
+| Instrument | Mixture | Measurement Type | Value |
+
+|------------|---------|------------------|-------|
+
+| MS-20 | Almond Oil, Cetyl Alcohol, Vitamin E | m/z | 1500 |
+
+| NMR-500 | Almond Oil, Vitamin E | ppm | 15 |
+
+| UV-2600 | Almond Oil, Cetyl Alcohol | Abs | 2.7 |
+
+
+
+### **4. Titration Analysis**
+
+
+
+Employing the Titrator T-905, the Coconut Oil, Cetyl Alcohol, and Vitamin E mixture was titrated, resulting in a molarity of 0.008 M. This indicates a minimal presence of acidic or basic ions within the mixture.
+
+
+
+### **5. pH Measurement**
+
+
+
+The PH-700 meter was used to evaluate a Jojoba Oil and Cetyl Alcohol with Vitamin E mixture. The pH value recorded was 6.8, suggesting a near-neutral environment, ideal for applications involving skin-contact formulations.
+
+
+
+---
+
+
+
+## Additional Characterizations
+
+
+
+### **X-Ray Diffraction (XRD)**
+
+
+
+Using the X-Ray Diffractometer XRD-6000, Almond Oil and Glycerin mixture was characterized by diffraction peaks observed at 120°C. The crystalline phases identified support the presence of structured lipid domains.
+
+
+
+### **Microplate Reading**
+
+
+
+A Jojoba Oil, Cetyl Alcohol, and Glycerin mixture was analyzed using the Microplate Reader MRX, revealing an optical density (OD) of 3.2. This is consistent with a solution exhibiting moderate turbidity.
+
+
+
+---
+
+
+
+## Chromatographic Analysis
+
+
+
+### **High-Performance Liquid Chromatography (HPLC)**
+
+
+
+An LC-400 Liquid Chromatograph analyzed the mixture of Almond Oil, Cetyl Alcohol, and Vitamin E with a concentration of 300 µg/mL. Additionally, the HPLC-9000 system evaluated a Coconut Oil and Beeswax mixture with Vitamin E, showing concentrations at 450 mg/L.
+
+
+
+### **Viscosity Measurements**
+
+
+
+The viscosity of Jojoba Oil combined with Cetyl Alcohol and Glycerin was assessed using the VS-300 Viscometer, with a viscosity of 2568.22 cP. Contrastingly, the Coconut Oil, Gum, and Vitamin E mixture recorded a markedly higher viscosity of 5153.96 cP.
+
+
+
+| Instrument | Mixture | Measurement | Type | Value |
+
+|------------|---------|-------------|------|-------|
+
+| HPLC-9000 | Coconut Oil, Beeswax, Vitamin E | Concentration | mg/L | 450 |
+
+| VS-300 | Coconut Oil, Gum, Vitamin E | Viscosity | cP | 5153.96 |
+
+
+
+### **Centrifugation**
+
+
+
+The Centrifuge X100 was employed for Coconut Oil, Beeswax, and Vitamin E. Operational conditions were set at a speed of 13000 RPM, facilitating efficient separation of the liquefied and solidified phases present in the mixture.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+The intricate analysis of diverse oil mixtures was successfully conducted, utilizing a variety of advanced scientific instruments. Each instrument provided detailed insights into the unique properties of these mixtures, affirming their composition and potential physical behaviors. While irrelevant data was sprinkled liberally throughout this report (e.g., traditional uses of certain oils), the core analytics remain crucial for practitioners seeking to explore the complexities and applications of these oil blends.
+
+
+Tables:

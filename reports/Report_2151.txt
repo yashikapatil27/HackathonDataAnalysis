@@ -1,0 +1,182 @@
+---
+
+
+
+# Lab Report 2151
+
+
+
+### Introduction
+
+
+
+This report details the analysis of various oil-based samples using different scientific instruments. The objective was to determine the physical and chemical properties of combinations consisting of oils, waxes, alcohols, and other additives. Each sample's unique properties were measured with specific instruments to ascertain their suitability for potential applications in cosmetic and pharmaceutical formulations.
+
+
+
+### Materials and Methods
+
+
+
+A variety of oils including Coconut Oil, Almond Oil, and Jojoba Oil were combined with other substances like Cetyl Alcohol, Beeswax, Gum, Vitamin E, and Glycerin. These mixtures were subjected to various instrumental analyses, including spectroscopic, chromatographic, and rheometric techniques.
+
+
+
+#### Instruments Used
+
+
+
+- **UV-Vis Spectrophotometer UV-2600**
+
+- **Thermocycler TC-5000**
+
+- **Rheometer R-4500**
+
+- **Microplate Reader MRX**
+
+- **Ion Chromatograph IC-2100**
+
+- **Centrifuge X100**
+
+- **Mass Spectrometer MS-20**
+
+- **Liquid Chromatograph LC-400**
+
+- **PCR Machine PCR-96**
+
+- **X-Ray Diffractometer XRD-6000**
+
+- **Viscometer VS-300**
+
+
+
+### Results
+
+
+
+#### UV-Vis Spectrophotometer Analysis
+
+
+
+- Mixture: Coconut Oil, Cetyl Alcohol, Vitamin E  
+
+  **Measurement**: 3.2 Abs  
+
+  **Observation**: The absorbance at 3.2 indicates moderate UV absorption, suggesting potential sunscreen application.
+
+
+
+#### Thermal and Viscosity Measurements
+
+
+
+- Mixture: Almond Oil, Beeswax, Glycerin  
+
+  **Thermocycler Temperature**: 68°C  
+
+  **Viscosity**: 7132.95 cP  
+
+  **Observation**: High viscosity and thermal stability hint at potential use in heavy moisturizers.
+
+
+
+#### Rheological Properties
+
+
+
+- Mixture: Jojoba Oil  
+
+  **Viscosity Measurement (Rheometer)**: 0.75 Pa-s  
+
+  **Viscosity Measurement (Viscometer)**: 2937.2 cP (duplicate setup presents some discrepancy indicating potential measurement error)  
+
+  **Observation**: Low viscosity indicates potential suitability for lightweight formulations.
+
+
+
+#### Chromatographic Analysis
+
+
+
+- Mixture: Almond Oil, Beeswax, Glycerin  
+
+  **Ion Chromatography**: 50.3 mM  
+
+  **Observation**: This concentration suggests compatibility with neutral pH products.
+
+
+
+#### Centrifugation and Spectral Analysis
+
+
+
+- Mixture: Jojoba Oil, Cetyl Alcohol  
+
+  **Centrifuge Speed**: 2500 RPM  
+
+  **X-Ray Diffraction**: Temperature noted at 150°C could indicate potential crystalline phase changes.  
+
+  **Mass Spectrometer Analysis**: 980.2 m/z (Coconut Oil, Glycerin)  
+
+  **Observation**: High mass/charge ratio suggests complex molecular structures.
+
+
+
+### Discussion
+
+
+
+The collected data shows varied properties across different oil mixtures, demonstrating potential applications in various cosmetic and pharmaceutical products. The complexity of the data indicates a need for specialized processing to fully interpret the results.
+
+
+
+#### Table 1: Spectroscopy and Chromatography
+
+
+
+| Instrument           | Mixture                       | Measurement | Unit |
+
+|----------------------|-------------------------------|-------------|------|
+
+| UV-Vis Spectrophotometer  | Coconut Oil, Cetyl Alcohol, Vitamin E | 3.2         | Abs  |
+
+| Ion Chromatograph     | Almond Oil, Beeswax, Glycerin| 50.3        | mM   |
+
+
+
+#### Table 2: Thermal and Viscosity Analysis
+
+
+
+| Instrument       | Mixture                         | Measurement  | Unit   |
+
+|------------------|---------------------------------|--------------|--------|
+
+| Thermocycler     | Almond Oil, Beeswax, Glycerin   | 68           | °C     |
+
+| Viscometer       | Almond Oil, Beeswax             | 7132.95      | cP     |
+
+| Viscometer       | Jojoba Oil, Beeswax, Glycerin   | 2883.47      | cP     |
+
+
+
+### Conclusion
+
+
+
+The analysis provided detailed insights into the physicochemical properties of oil-based mixtures. Variabilities in viscosity, UV absorption, and thermal stability highlight the challenges in developing formulations, suggesting the need for precise control over composition and process parameters.
+
+
+
+Further analysis and error correction of the data (particularly viscosities) may be necessary to streamline the production process for commercial applications. The potential for each mixture can be exploited in different spheres, pending additional tests to verify long-term stability and efficacy.
+
+
+
+---
+
+
+
+This report, despite containing some extraneous information, aims to furnish an ample understanding of the tested materials and their prospective uses in topical products.
+
+
+Tables:

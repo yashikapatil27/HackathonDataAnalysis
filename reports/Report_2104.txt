@@ -1,0 +1,186 @@
+# Laboratory Analysis Report
+
+
+
+## Introduction
+
+
+
+In this study, we conducted a series of experiments under Report_2104 to evaluate various physicochemical properties of different oil-based mixtures using advanced analytical equipment. Each test involved a specific mixture comprising a combination of oils and additives. This document provides comprehensive observations and results from the compiled dataset.
+
+
+
+### Procedures
+
+
+
+1. **Mass Spectrometry Analysis**
+
+   - **Instrument**: Mass Spectrometer MS-20
+
+   - **Mixture**: Jojoba Oil, Cetyl Alcohol, Vitamin E
+
+   - **Observations**: The sample was ionized, revealing peak m/z values indicative of lipid molecular structures.
+
+
+
+2. **pH Analysis**
+
+   - **Instrument**: pH Meter PH-700
+
+   - **Mixture**: Coconut Oil, Cetyl Alcohol
+
+   - **Result**: The pH determined was 7.5, suggesting a neutral composition typical for cosmetic applications.
+
+
+
+3. **NMR Spectroscopy**
+
+   - **Instrument**: NMR Spectrometer NMR-500
+
+   - **Mixture**: Almond Oil, Beeswax
+
+   - **Details**: A chemical shift of 15 ppm was noted, consistent with unsaturated fatty acids.
+
+
+
+4. **X-Ray Diffraction**
+
+   - **Tool Used**: X-Ray Diffractometer XRD-6000
+
+   - **Sample**: Jojoba Oil, Beeswax, Glycerin
+
+   - **Temperature**: 120°C observed during the crystallization phase.
+
+
+
+5. **UV-Vis Spectroscopy**
+
+   - **Apparatus**: UV-Vis Spectrophotometer UV-2600
+
+   - **Composition**: Coconut Oil, Gum, Vitamin E
+
+   - **Absorption**: A peak at 2.8 Abs, indicating potential antioxidant activity.
+
+
+
+6. **Rotational Friction Measurement**
+
+   - **Device**: Four Ball FB-1000
+
+   - **Ingredients**: Jojoba Oil, Beeswax
+
+   - **Frictional Wear**: 0.750 mm, indicating excellent lubrication properties.
+
+
+
+7. **Centrifugation**
+
+   - **Equipment**: Centrifuge X100
+
+   - **Mixture Examined**: Almond Oil, Cetyl Alcohol, Glycerin
+
+   - **Speed**: Operated at 12,500 RPM to separate components based on density.
+
+
+
+8. **Spectral Analysis**
+
+   - **Tool**: Spectrometer Alpha-300
+
+   - **Observation of**: Coconut Oil
+
+   - **Wavelength**: Detected at 450 nm, typical for oil-related phenolic compounds.
+
+
+
+9. **Viscosity Measurement**
+
+   - **Instrument**: Viscometer VS-300
+
+   - **Mixtures**:
+
+     - **Coconut Oil**: Demonstrated a viscosity of 4925.07 cP, ideal for skin care formulations.
+
+     - **Jojoba Oil, Gum, Vitamin E**: Measured at 1934.4 cP, lower viscosity suitable for lightweight creams.
+
+
+
+## Tables of Data
+
+
+
+### Table 1: Analytical Instruments and Observations
+
+
+
+| Instrument                   | Mixture                            | Observed Measurement  | Unit |
+
+|------------------------------|------------------------------------|-----------------------|------|
+
+| Mass Spectrometer MS-20      | Jojoba Oil, Cetyl Alcohol, Vitamin E | Peak m/z: *750*       | m/z  |
+
+| pH Meter PH-700              | Coconut Oil, Cetyl Alcohol            | pH: *7.5*            | pH   |
+
+| NMR Spectrometer NMR-500     | Almond Oil, Beeswax                  | Chemical Shift: *15* | ppm  |
+
+| X-Ray Diffractometer XRD-6000| Jojoba Oil, Beeswax, Glycerin        | Temperature: *120*   | °C   |
+
+| UV-Vis Spectrophotometer UV-2600 | Coconut Oil, Gum, Vitamin E     | Absorption Peak: *2.8* | Abs  |
+
+
+
+### Table 2: Friction and Density Related Measurements
+
+
+
+| Instrument         | Mixture                  | Measurement    | Unit |
+
+|--------------------|--------------------------|----------------|------|
+
+| Four Ball FB-1000  | Jojoba Oil, Beeswax      | Wear: *0.750*  | mm   |
+
+| Centrifuge X100    | Almond Oil, Cetyl Alcohol, Glycerin | RPM: *12500* | RPM  |
+
+| Spectrometer Alpha-300 | Coconut Oil           | Wavelength: *450* | nm  |
+
+
+
+### Table 3: Viscosity Data
+
+
+
+| Instrument       | Mixture                        | Viscosity (cP)     |
+
+|------------------|--------------------------------|---------------------|
+
+| Viscometer VS-300| Coconut Oil                    | *4925.07*           |
+
+| Viscometer VS-300| Jojoba Oil, Gum, Vitamin E     | *1934.4*            |
+
+
+
+## Discussion
+
+
+
+The analytical methods provided in-depth insights into the mixed compounds. The use of Mass Spectrometry and NMR Spectroscopy complemented each other, confirming molecular weights and bonding arrangements within the mixtures. Observations from the pH meter indicated compatibility with skin, with values close to neutral for optimal use in formulations.
+
+
+
+The observed temperature during X-Ray Diffraction aligns with phase transitions crucial for understanding melting and crystallization behaviors. Meanwhile, UV-Vis Spectroscopy suggested antioxidant presence, reinforcing the potential health benefits of these oil mixtures.
+
+
+
+Frictional tests displayed the excellent lubricating characteristics of Jojoba Oil and Beeswax, minimalizing wear at a microscopic level. These findings integrate well with the density separation visualized during centrifugation and the spectral data emphasizing colorimetric traits.
+
+
+
+Varying viscosities recorded by the Viscometer provided essential data for formulating emulsions with specific textural qualities, balancing user preference with functional performance.
+
+
+
+In conclusion, the sampled testes authenticated the intricate chemical and physical natures of these oil-based concoctions, underscoring their multifaceted applications. Through pervasive laboratory practices, each analytical technique illuminated unique attributes, collectively enhancing understanding and offering substantive evidence for further research and development.
+
+
+Tables:

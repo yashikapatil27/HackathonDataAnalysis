@@ -1,0 +1,156 @@
+# Advanced Analytical Chemistry Lab Report
+
+
+
+## Report ID: 2267
+
+
+
+### Introduction
+
+
+
+This lab report summarizes the analysis conducted on various oil-based mixtures using different analytical instruments. Each mixture was synthesized using a combination of oils and additives, such as Jojoba Oil, Almond Oil, Coconut Oil, Beeswax, Cetyl Alcohol, Glycerin, Vitamin E, and Gum. The intent was to evaluate physical and chemical properties using multiple techniques, and the results are categorized below.
+
+
+
+### Instruments and Methodology
+
+
+
+1. **Gas Chromatograph GC-2010**: Utilized to analyze volatile components in Jojoba Oil mixtures. Key findings include quantifiable data such as ppm values crucial for quality evaluation.
+
+
+
+2. **FTIR Spectrometer FTIR-8400**: Applied to detect functional groups in Beeswax-containing samples. The results are displayed in wavenumber (1/cm), indicative of compound interactions.
+
+
+
+3. **Microplate Reader MRX**: Incorporated in assessing turbidity in combinations containing Coconut Oil. Data is presented in optical density (OD), which correlates with concentration.
+
+
+
+4. **Liquid Chromatograph LC-400**: For detecting components in Almond Oil, the output is measured in ug/mL.
+
+
+
+5. **UV-Vis Spectrophotometer UV-2600**: Designed to measure absorbance, allowing detailed insight into Cetyl Alcohol content.
+
+
+
+6. **NMR Spectrometer NMR-500**: Provided detailed molecular information in Almond Oil mixtures with ppm measurements.
+
+
+
+7. **HPLC System HPLC-9000**: Facilitated analysis providing mg/L concentrations for Jojoba Oil samples.
+
+
+
+8. **Rheometer R-4500**: Captured viscosity and flow characteristics of Coconut Oil mixtures with measurements in Pa-s.
+
+
+
+9. **PCR Machine PCR-96**: Analyzed Almond Oil samples subjected to amplification, yielding Ct values.
+
+
+
+10. **Viscometer VS-300**: Evaluated viscosity in several oil mixtures, yielding results in centipoise (cP).
+
+
+
+### Observations and Results
+
+
+
+**Table 1: Gas Chromatograph Analysis**
+
+
+
+| Mixture ID                   | Sample Components            | Measurement (ppm) |
+
+|------------------------------|------------------------------|-------------------|
+
+| 1                            | Jojoba Oil, Cetyl Alcohol    | 458               |
+
+| 2                            | Jojoba Oil, Vitamin E        | 600               |
+
+
+
+### Discursive Points
+
+
+
+Gas chromatograph results highlighted the presence of trace compounds within the Jojoba Oil mixtures. Noteworthy was the higher ppm for the mixture with Vitamin E compared to Cetyl Alcohol, potentially due to differing volatilities. The implications of this observation align with expected oil stabilization processes.
+
+
+
+**Table 2: Viscometer and Rheometer Analysis**
+
+
+
+| Mixture ID                   | Sample Components            | Measurement (cP/Pa-s) |
+
+|------------------------------|------------------------------|-----------------------|
+
+| 3                            | Almond Oil, Beeswax, Vitamin E | 7229.69 (cP)          |
+
+| 4                            | Jojoba Oil, Beeswax, Vitamin E | 3117.15 (cP)          |
+
+| *Irrelevant Information*     | *Null*                       | *Null*                |
+
+| 5                            | Coconut Oil, Beeswax, Vitamin E | 625 (Pa-s)            |
+
+
+
+Complex interactions within these mixtures were evidenced by distinct viscosity profiles, with Almond Oil combinations demonstrating notably high centipoise values. This suggests a potentially cohesive molecular interaction due to the presence of Beeswax and Vitamin E.
+
+
+
+**Table 3: Comprehensive Analysis of Mixed Data Types**
+
+
+
+| Instrument/Method            | Mix Components              | Measurement Value | Measurement Unit |
+
+|------------------------------|-----------------------------|-------------------|-----------------|
+
+| FTIR Spectrometer FTIR-8400  | Jojoba Oil, Beeswax         | 3056              | 1/cm            |
+
+| Microplate Reader MRX        | Coconut Oil, Beeswax        | 2.3               | OD              |
+
+| NMR Spectrometer NMR-500     | Almond Oil, Beeswax, Glycerin| 15               | ppm             |
+
+| HPLC System HPLC-9000        | Jojoba Oil                   | 634               | mg/L            |
+
+| Liquid Chromatograph LC-400  | Almond Oil                   | 122               | ug/mL           |
+
+| UV-Vis Spectrophotometer     | Coconut Oil, Cetyl Alcohol  | 1.2               | Abs             |
+
+| PCR Machine PCR-96           | Almond Oil, Gum             | 28                | Ct              |
+
+
+
+### Recommendations
+
+
+
+It’s recommended to consider further analysis using enhanced spectrometric methods to delve deeper into the unknown interactions between these compounds. The current measurement frameworks, while informative, suggest underlying complexities not fully captured through available instrumentation.
+
+
+
+### Conclusion
+
+
+
+The analytical studies on oil-based mixtures revealed significant insights into the chemical and physical properties of each mixture. Variations in ppm, OD, ug/mL, Abs, and other metrics underscore the complex nature of these oils, providing information essential for industrial applications.
+
+
+
+This report, while detailed, necessitates further inquiry into specific interactions to derive more definitive conclusions. The data intricacies presented propose a foundational understanding but leave room for continued exploration and refinement.
+
+
+
+*Note: Some disjointed conjectural lines have been intentionally included to meet report robustness criteria.*
+
+
+Tables:

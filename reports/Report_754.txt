@@ -1,0 +1,256 @@
+# Lab Report 754: Complex Mixtures Analysis
+
+
+
+## Introduction
+
+
+
+In this report, we present a detailed analysis of various cosmetic formulations, focusing on their physical and chemical properties. This study evaluates mixtures prepared using different oils combined with beeswax, gum, glycerin, and/or vitamin E. Specific tests were performed using diverse instruments such as pH meters, centrifuges, ion chromatographs, X-ray diffractometers, spectrometers, and thermocyclers.
+
+
+
+### Methodology
+
+
+
+All tests used for each sample were conducted according to standard procedures. Measurements varied across devices, and multiple readings were taken to ensure precision and accuracy.
+
+
+
+### Observations
+
+
+
+1. **Mixtures Overview:**
+
+
+
+   Each set of ingredients containing either Jojoba Oil, Almond Oil, or Coconut Oil displayed distinct chemical and physical behaviors when combined with other compounds like Gum, Beeswax, Glycerin, and Vitamin E. The presence of Vitamin E often altered the reactivity and stability of the mixtures.
+
+
+
+2. **Apparatus Specificity:**
+
+
+
+   Different instruments provided insights into specific characteristics of each mixture, including acidity, rotational speeds under centrifugal forces, ion concentrations, crystalline structures, spectral properties, and thermal stability.
+
+
+
+## Measurements and Results
+
+
+
+### 1. pH Analysis
+
+
+
+The pH levels of the mixtures were obtained using the PH-700 pH Meter. Observations revealed slight variations in pH in response to changes in ingredients.
+
+
+
+#### Table 1: pH Measurements
+
+
+
+| Ingredients                              | pH Value |
+
+|------------------------------------------|----------|
+
+| Jojoba Oil, Beeswax, Glycerin            | 7.2      |
+
+| Jojoba Oil, Beeswax, Vitamin E           | 6.8      |
+
+| Almond Oil, Beeswax, Vitamin E           | 7.0      |
+
+| Jojoba Oil, Gum                          | 6.9      |
+
+| Coconut Oil, Gum, Vitamin E              | 7.1      |
+
+| Jojoba Oil, Gum, Vitamin E               | 7.3      |
+
+| Almond Oil, Gum                          | 6.7      |
+
+
+
+### 2. Centrifugal Properties
+
+
+
+Utilizing the Centrifuge X100, the formulations were subjected to rotational forces measured in RPM. Analyzing these results aids in understanding the sedimentation tendencies and viscosity differences.
+
+
+
+#### Table 2: Centrifuge RPMs
+
+
+
+| Ingredients                              | RPM Value |
+
+|------------------------------------------|-----------|
+
+| Jojoba Oil, Beeswax, Glycerin            | 12000     |
+
+| Jojoba Oil, Beeswax, Vitamin E           | 11500     |
+
+| Almond Oil, Beeswax, Vitamin E           | 12500     |
+
+| Jojoba Oil, Gum                          | 13000     |
+
+| Coconut Oil, Gum, Vitamin E              | 13500     |
+
+| Jojoba Oil, Gum, Vitamin E               | 14000     |
+
+| Almond Oil, Gum                          | 14500     |
+
+
+
+---
+
+
+
+### 3. Ion Concentration Analysis
+
+
+
+Ion Chromatograph IC-2100 was employed to detect ion presence within the mixtures, offering insights into the ionic stability and solute interactions.
+
+
+
+#### Table 3: Ion Concentrations
+
+
+
+| Ingredients                              | Ion Concentration (mM) |
+
+|------------------------------------------|------------------------|
+
+| Jojoba Oil, Beeswax, Glycerin            | 0.95                   |
+
+| Jojoba Oil, Beeswax, Vitamin E           | 1.05                   |
+
+| Almond Oil, Beeswax, Vitamin E           | 1.10                   |
+
+| Jojoba Oil, Gum                          | 0.85                   |
+
+| Coconut Oil, Gum, Vitamin E              | 1.15                   |
+
+| Jojoba Oil, Gum, Vitamin E               | 1.20                   |
+
+| Almond Oil, Gum                          | 0.90                   |
+
+
+
+### 4. Crystalline Structures
+
+
+
+Using the X-Ray Diffractometer XRD-6000, the crystalline structures were analyzed, indicating varying degrees of crystalline organization based on the combination of ingredients.
+
+
+
+#### Table 4: Crystallinity (C)
+
+
+
+| Ingredients                              | Crystallinity (C) |
+
+|------------------------------------------|-------------------|
+
+| Jojoba Oil, Beeswax, Glycerin            | 120               |
+
+| Jojoba Oil, Beeswax, Vitamin E           | 110               |
+
+| Almond Oil, Beeswax, Vitamin E           | 115               |
+
+| Jojoba Oil, Gum                          | 105               |
+
+| Coconut Oil, Gum, Vitamin E              | 125               |
+
+| Jojoba Oil, Gum, Vitamin E               | 130               |
+
+| Almond Oil, Gum                          | 135               |
+
+
+
+---
+
+
+
+### 5. Spectral Properties
+
+
+
+Spectral analysis executed via the Spectrometer Alpha-300 assessed each mixture’s light absorption characteristics, suggesting significant variations accommodating different wavelengths.
+
+
+
+#### Table 5: Spectral Peaks (nm)
+
+
+
+| Ingredients                              | Peak (nm)   |
+
+|------------------------------------------|-------------|
+
+| Jojoba Oil, Beeswax, Glycerin            | 550         |
+
+| Jojoba Oil, Beeswax, Vitamin E           | 560         |
+
+| Almond Oil, Beeswax, Vitamin E           | 570         |
+
+| Jojoba Oil, Gum                          | 540         |
+
+| Coconut Oil, Gum, Vitamin E              | 530         |
+
+| Jojoba Oil, Gum, Vitamin E               | 590         |
+
+| Almond Oil, Gum                          | 600         |
+
+
+
+### 6. Thermal Stability
+
+
+
+Data collected by Thermocycler TC-5000 underscored the heat endurance capabilities of each sample, a critical factor for formulation stability.
+
+
+
+#### Table 6: Thermal Stability (C)
+
+
+
+| Ingredients                              | Thermal Stability (C) |
+
+|------------------------------------------|-----------------------|
+
+| Jojoba Oil, Beeswax, Glycerin            | 60                    |
+
+| Jojoba Oil, Beeswax, Vitamin E           | 65                    |
+
+| Almond Oil, Beeswax, Vitamin E           | 70                    |
+
+| Jojoba Oil, Gum                          | 75                    |
+
+| Coconut Oil, Gum, Vitamin E              | 80                    |
+
+| Jojoba Oil, Gum, Vitamin E               | 85                    |
+
+| Almond Oil, Gum                          | 90                    |
+
+
+
+## Conclusion
+
+
+
+The simultaneous study across various instruments revealed critical insights into the properties of these cosmetic formulations. The presence of specific ingredients consistently affected pH, ion concentrations, crystalline structures, and thermal stability of the mixtures. Notably, the addition of Vitamin E modified the mixture's characteristics dramatically, indicating potential applications in product stability optimization.
+
+
+
+In further studies, focusing on enhanced consistency across trials will be emphasized, as anomalies are occasionally present due to extraneous environmental factors. Future work might explore adjustments in ingredient ratios to refine formulations further for targeted applications.
+
+
+Tables:

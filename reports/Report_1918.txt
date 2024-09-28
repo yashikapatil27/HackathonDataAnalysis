@@ -1,0 +1,166 @@
+# Lab Report: Characterization of Cosmetic Formulations
+
+
+
+## Experiment ID: Report_1918
+
+
+
+### Equipment and Materials Used
+
+
+
+The following instruments were used in this experiment to analyze various mixtures:
+
+
+
+1. **Titrator T-905**
+
+2. **Mass Spectrometer MS-20**
+
+3. **PCR Machine PCR-96**
+
+4. **pH Meter PH-700**
+
+5. **X-Ray Diffractometer XRD-6000**
+
+6. **Viscometer VS-300**
+
+
+
+The primary focus of these tests was to analyze combinations of common cosmetic ingredients including Almond Oil, Jojoba Oil, Coconut Oil, Gum, Glycerin, Cetyl Alcohol, Beeswax, and Vitamin E.
+
+
+
+### Test and Observations
+
+
+
+#### Table 1: Titration Results
+
+| Mixture | Instrument | Titrant | Measurement (M) |
+
+|---------|------------|---------|-----------------|
+
+| Almond Oil + Gum + Glycerin | Titrator T-905 | Glycerin | 5.467 |
+
+| Jojoba Oil + Cetyl Alcohol | Titrator T-905 | Cetyl Alcohol | 6.789 |
+
+
+
+Upon introduction of titration with **Titrator T-905**, the Almond Oil-Gum-Glycerin mixture demonstrated moderate reactivity indicating a primarily hydrophilic environment. This was contrasted by a higher molarity when Jojoba Oil and Cetyl Alcohol were combined, suggesting strong cohesion, potentially due to Cetyl Alcohol’s long carbon chains.
+
+
+
+#### Table 2: Mass Spectrometry Results
+
+
+
+| Mixture | Instrument | Target Compound | Measurement (m/z) |
+
+|---------|------------|-----------------|--------------------|
+
+| Jojoba Oil + Gum + Vitamin E | Mass Spectrometer MS-20 | Vitamin E | 275.34 |
+
+| Almond Oil + Beeswax + Vitamin E | Mass Spectrometer MS-20 | Vitamin E | 1650.5 |
+
+
+
+**Mass Spectrometer MS-20** readings revealed that the Jojoba Oil and Vitamin E combination yielded a significant m/z value of 275.34, suggestive of cohesive emulsification. Notably, Almond Oil with Beeswax showed peaks at 1650.5, indicative of extensive bonding within the matrix.
+
+
+
+### Anomalies and Irrelevancies
+
+During spectrometry runs, a duplicate reading anomaly with an intercept signal was triggered at 302 nm, unrelated to this study.
+
+
+
+#### Table 3: PCR Results
+
+
+
+| Mixture | Instrument | Gene Amplified | Measurement (Ct) |
+
+|---------|------------|----------------|------------------|
+
+| Coconut Oil + Beeswax | PCR Machine PCR-96 | - | 28.3 |
+
+| Almond Oil + Vitamin E | PCR Machine PCR-96 | - | 15.7 |
+
+
+
+**PCR Machine PCR-96** presented cycle threshold (Ct) values confirming the non-biological origin of these compounds, with Almond Oil mixtures yielding lower Ct values, indicating more rapid thermal denaturation profiles due to likely homogeneous viscosity attributes.
+
+
+
+### pH Measurement Insights
+
+
+
+#### Table 4: pH Readings
+
+
+
+| Mixture | Instrument | Electrolyte Addition | Measurement (pH) |
+
+|---------|------------|----------------------|-----------------|
+
+| Jojoba Oil + Cetyl Alcohol + Glycerin | pH Meter PH-700 | Glycerin | 7.1 |
+
+| Almond Oil + Glycerin | pH Meter PH-700 | - | 6.4 |
+
+
+
+The **pH Meter PH-700** denoted a balanced pH for Jojoba-Cetyl-Glycerin mix (~7.1), aligning with potential skin pH suitability, whereas a subtle acidic tendency (6.4) was noted in Almond-Glycerin samples.
+
+
+
+### Structural Analysis
+
+
+
+#### Table 5: X-Ray Diffraction
+
+
+
+| Mixture | Instrument  | Measurement (C) |
+
+|---------|-------------|------------------|
+
+| Coconut Oil | X-Ray Diffractometer XRD-6000 | 110.5 |
+
+
+
+An X-ray diffraction peak observed for **Coconut Oil** suggests crystalline structuring at approximately 110.5 C, indicative of solid-state particle distribution within the mix, potentially related to incomplete melting during sample preparation.
+
+
+
+### Viscosity Analysis
+
+
+
+#### Table 6: Viscosity Measurements
+
+
+
+| Mixture | Instrument | Measurement (cP) |
+
+|---------|------------|------------------|
+
+| Almond Oil + (rest unspecified) | Viscometer VS-300 | 7354.82 |
+
+| Almond Oil + Gum | Viscometer VS-300 | 7437.56 |
+
+
+
+Viscometry via **VS-300** determines that the addition of Gum significantly increases the viscosity of the Almond Oil base from 7354.82 to 7437.56 cP, attributing to enhanced molecular interaction and increased flow resistance.
+
+
+
+### Conclusion
+
+Each test mixture revealed distinctive physical and chemical characteristics. The composite nature of these cosmetic formulations, analyzed through varied instrumentation, illustrates wide-ranging properties, from simple titrated reactions and molecular weight distribution to mechanical and structural behaviors, critical for potential application in dermatological sectors. Further studies may include chromatography to dissect the exact compositional impact within these diverse blends.
+
+
+Tables:

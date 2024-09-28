@@ -1,0 +1,208 @@
+# Lab Report 433
+
+
+
+## Introduction
+
+
+
+This report documents the analysis of various oil-based mixtures using different analytical instruments. Each mixture's components were subjected to rigorous testing to determine their properties and concentration.
+
+
+
+### Primary Objective
+
+
+
+The aim of this study was to analyze the composition and physical properties of oil-based mixtures, leveraging various instruments such as HPLC, NMR, and more.
+
+
+
+---
+
+
+
+## Instruments and Methodology
+
+
+
+The following equipment was used to carry out the tests on the mixtures:
+
+
+
+- **HPLC System HPLC-9000**: Utilized for the quantification of substances within the mixtures.
+
+- **NMR Spectrometer NMR-500**: Employed for determining molecular and structural properties.
+
+- **Thermocycler TC-5000**: Monitored temperature-related characteristics.
+
+- **Liquid Chromatograph LC-400**: Analyzed the concentration of various compounds.
+
+- **Ion Chromatograph IC-2100**: Measured ion concentrations present in the mixtures.
+
+- **X-Ray Diffractometer XRD-6000**: Checked for crystallinity and structural analysis.
+
+- **Centrifuge X100**: Used for isolating compounds by centrifugal separation.
+
+- **pH Meter PH-700**: Determined the pH levels of each mixture.
+
+- **Gas Chromatograph GC-2010**: Evaluated volatile component concentrations.
+
+- **Viscometer VS-300**: Measured viscosity to assess flow properties.
+
+
+
+---
+
+
+
+## Observations and Measurements
+
+
+
+### Table 1: Chemical Quantification Using HPLC
+
+
+
+| Sample                            | Concentration (mg/L) |
+
+|-----------------------------------|----------------------|
+
+| Jojoba Oil                        | 96.4                 |
+
+| Jojoba Oil, Beeswax               | 580.3                |
+
+
+
+### Table 2: Molecular Analysis Using NMR
+
+
+
+| Sample                                | Measurement (ppm) |
+
+|---------------------------------------|-------------------|
+
+| Jojoba Oil, Beeswax                   | 17.8              |
+
+| Jojoba Oil, Cetyl Alcohol             | 19.6              |
+
+
+
+### Table 3: Temperature and Physical Tests
+
+
+
+| Sample                      | Temp (°C) | RPM      |
+
+|-----------------------------|-----------|----------|
+
+| Jojoba Oil                  | 78        | 12000    |
+
+| Jojoba Oil, Beeswax         | -         | 14500    |
+
+| Jojoba Oil, Beeswax, Vitamin E | 45      | -        |
+
+
+
+### Table 4: Miscellaneous Concentrations and Properties
+
+
+
+| Sample                                     | Concentration           | Unit  |
+
+|--------------------------------------------|-------------------------|-------|
+
+| Jojoba Oil, Beeswax                        | 0.55                    | mM    |
+
+| Coconut Oil, Gum                           | 0.75                    | mM    |
+
+| Jojoba Oil, Gum, Vitamin E                 | 240.5                   | µg/mL |
+
+| Coconut Oil, Gum, Glycerin                 | 320.1                   | µg/mL |
+
+| Coconut Oil, Gum                           | 5252.56                 | cP    |
+
+| Coconut Oil, Gum, Vitamin E                | 5152.78                 | cP    |
+
+
+
+### Table 5: pH Levels
+
+
+
+| Sample                             | pH   |
+
+|------------------------------------|------|
+
+| Jojoba Oil, Gum                    | 5.6  |
+
+| Jojoba Oil, Beeswax, Vitamin E     | 4.4  |
+
+
+
+### Table 6: Gas Chromatography Results
+
+
+
+| Sample                           | Measurement (ppm) |
+
+|----------------------------------|-------------------|
+
+| Jojoba Oil                       | 750.5             |
+
+| Jojoba Oil, Cetyl Alcohol        | 882.3             |
+
+
+
+---
+
+
+
+## Results and Descriptions
+
+
+
+In analyzing the respective mixtures, significant contrasts were evident in their component concentrations and physical attributes. For instance, the **HPLC results** suggested a more substantial amount of beeswax in the Jojoba Oil and Beeswax mix compared to pure Jojoba Oil. Meanwhile, an **NMR** assessment underscored the subtle variance in ppm when comparing Beeswax and Cetyl Alcohol within the Jojoba base.
+
+
+
+Evaluating the **data from the Gas Chromatograph**, it was apparent there was an increased presence of volatile compounds when Cetyl Alcohol was added to Jojoba Oil. Additionally, the **Ion Chromatography** noted micromolar increments in ion concentration for Coconut Oil mixed with Gum.
+
+
+
+Complexities unfolded when working with the **X-Ray Diffractometer** data, particularly with the crystallinity changes as Vitamin E interfaced with the oil mixtures, an aspect worth exploring further in future studies.
+
+
+
+Surprisingly, the viscosity remained relatively unaffected by the addition of Vitamin E to the Coconut Oil and Gum mixture, as shown by the **Viscometer**, which illustrated little change in centipoise. 
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+In a comprehensive analysis, the investigation realized the intricate dynamics within these oil-based chemical mixtures. The collaborative use of these instruments has provided a multilayered perspective on the constituents, leading to detailed insights into concentration levels and underlying physical conditions.
+
+
+
+These findings harbor relevance extending beyond mere theoretical foundations, warranting further exploration on application potency in cosmetics and pharmaceuticals, where such oils frequently find usage. More importantly, this study laid the groundwork for recognizing novel approaches in compound separation and analysis.
+
+
+
+---
+
+
+
+## Note
+
+
+
+For detailed raw data and additional information, refer to the supplementary material section not included in this document.
+
+
+Tables:

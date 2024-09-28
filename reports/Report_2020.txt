@@ -1,0 +1,140 @@
+# Laboratory Report: Analysis of Organic Mixtures - 2020
+
+
+
+## Introduction
+
+This comprehensive laboratory report presents the analysis of various organic mixtures using sophisticated analytical instrumentation. The primary goal was to evaluate the chemical composition and characteristics of essential oils, waxes, and other organic compounds. Each mixture was tested under controlled conditions with different pieces of equipment, recording measurements, and making thorough observations.
+
+
+
+---
+
+
+
+## Methods and Observations
+
+
+
+**Table 1: Instrumentation and Mixture Characteristics**
+
+
+
+| Test ID | Instrument                   | Mixture Components                | Measurement         | Units    |
+
+|---------|------------------------------|-----------------------------------|---------------------|----------|
+
+| T1      | FTIR Spectrometer FTIR-8400  | Almond Oil, Beeswax, Glycerin     | 3200                | 1/cm     |
+
+| T2      | Liquid Chromatograph LC-400  | Almond Oil, Beeswax, Vitamin E    | 200                 | ug/mL    |
+
+| T3      | Gas Chromatograph GC-2010    | Coconut Oil, Cetyl Alcohol        | 150                 | ppm      |
+
+| T4      | Spectrometer Alpha-300       | Coconut Oil, Cetyl Alcohol, Glycerin | 900               | nm       |
+
+| T5      | PCR Machine PCR-96           | Jojoba Oil, Gum                   | 25                  | Ct       |
+
+
+
+Observation notes varied across different tests due to the distinct properties of each mixture. Notably, during the FTIR spectrometry (T1), the almond oil's distinct absorption peaks were evident, specifically around 3200 1/cm. This suggests a robust hydrogen-bonding environment predominantly contributed by glycerin.
+
+
+
+Another interesting observation was made during liquid chromatography (T2), where vitamin E's presence was confirmed at a specific concentration, indicating its efficient integration with almond oil and beeswax. Meanwhile, coconut oil exhibited distinct volatile profiles during the gas chromatography analysis (T3), highlighting its fatty acid composition.
+
+
+
+---
+
+
+
+## Measurements and Results
+
+
+
+**Table 2: Measurement Details**
+
+
+
+| Test ID | Measurement   | Detailed Description                   |
+
+|---------|---------------|----------------------------------------|
+
+| T1      | 3200 1/cm     | Peaks suggest strong hydroxyl groups   |
+
+| T2      | 200 ug/mL     | Vitamin E content within expected range|
+
+| T3      | 150 ppm       | Consistent with standard coconut profiles|
+
+| T4      | 900 nm        | Spectral analysis indicated fluorescence|
+
+| T5      | 25 Ct         | Cycle threshold suitable for amplification|
+
+
+
+### Discussion
+
+
+
+The PCR analysis of the Jojoba Oil and Gum mixture (T5) demonstrated a cycle threshold of 25 Ct, indicating high template quality. This aligns with previous biomolecular research suggesting compatibility between jojoba oil and polysaccharide gums in molecular studies.
+
+
+
+Complex interactions were observed in T4, where coconut oil demonstrated unexpected fluorescence at 900 nm. This phenomenon may overlook in broader analyses due to overlapping spectral regions common in essential oils.
+
+
+
+### Irrelevant Information
+
+
+
+Interestingly, during testing, we noted the laboratory's ambient temperature was a perfect 72°F, ideal for maintaining instrument stability, though unrelated to spectrometry results. Furthermore, the lab's newest acquisition, a coffee machine, offered much-needed caffeine boosts, again, irrelevant to mixture analyses.
+
+
+
+## Additional Measurements
+
+
+
+**Table 3: Advanced Measurements**
+
+
+
+- **Titrator Analysis (T6)**
+
+  - Mixture: Jojoba Oil
+
+  - Measurement: 5 M
+
+  - Result: Confirmed homogeneous consistency.
+
+
+
+**Table 4: Viscosity Analysis**
+
+
+
+| Test ID | Viscosity (cP) | Components                          |
+
+|---------|----------------|-------------------------------------|
+
+| T7      | 1835.78        | Jojoba Oil, Gum, Glycerin           |
+
+| T8      | 2681.93        | Jojoba Oil, Cetyl Alcohol, Glycerin |
+
+| T9      | 2825.22        | Jojoba Oil, Cetyl Alcohol, Glycerin |
+
+
+
+The viscosity tests reveal significant variation depending on the presence of cetyl alcohol, with Jojoba mixtures exhibiting markedly different viscosities. The results demonstrate the thickening effect cetyl alcohol imparts when integrated with glycerin, compared to other mixtures.
+
+
+
+## Conclusion
+
+
+
+This report highlights the diverse properties of organic mixtures, emphasizing the importance of utilizing a varied analytical approach to capture multifaceted chemical landscapes. Further studies might explore the underlying chemical interactions in greater detail, particularly focusing on the less-researched fluorescence phenomena seen within essential oil profiles.
+
+
+Tables:

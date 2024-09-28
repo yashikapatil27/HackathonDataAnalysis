@@ -1,0 +1,134 @@
+# Lab Report: Analysis of Oil and Additive Samples
+
+
+
+## Introduction
+
+
+
+The purpose of this lab was to analyze various samples composed of oil bases with different additives. Each sample underwent rigorous testing using advanced equipment to measure critical properties. The instruments used included pH meters, mass spectrometers, gas chromatographs, PCR machines, centrifuges, NMR spectrometers, UV-Vis spectrophotometers, and standard spectrometers.
+
+
+
+### Sample Composition
+
+
+
+1. **Sample 1**: Jojoba Oil
+
+2. **Sample 2**: Coconut Oil
+
+3. **Sample 3**: Almond Oil and Beeswax
+
+4. **Sample 4**: Jojoba Oil and Vitamin E
+
+5. **Sample 5**: Jojoba Oil and Gum
+
+6. **Sample 6**: Jojoba Oil and Cetyl Alcohol
+
+7. **Sample 7**: Almond Oil and Cetyl Alcohol
+
+
+
+### Testing Procedures and Results
+
+
+
+Below, the details of the conducted tests and the measurements obtained are presented in structured tables. The intricacies of each instrumental method reveal subtle characteristics present within the complex mixtures.
+
+
+
+### Table 1: Spectroscopic and Chromatographic Analysis
+
+
+
+| **Instrument**               | **Sample Composition**                | **Property Measured** | **Value** | **Unit** |
+
+|------------------------------|---------------------------------------|-----------------------|-----------|----------|
+
+| Mass Spectrometer MS-20      | Coconut Oil                           | Molecular ion         | 320       | m/z      |
+
+| Gas Chromatograph GC-2010    | Almond Oil and Beeswax                | Concentration         | 85        | ppm      |
+
+| NMR Spectrometer NMR-500     | Coconut Oil                           | Chemical shift        | 15        | ppm      |
+
+
+
+#### Observation:
+
+- The molecular ion peak for **Coconut Oil** indicated a strong signal at **320 m/z**, suggesting the presence of specific fatty acid chains.
+
+- **Almond Oil with Beeswax** reflected significant peaks at **85 ppm** in the gas chromatograph, demonstrating complex interactions between the two components.
+
+
+
+### Table 2: Other Analytical Data
+
+
+
+| **Instrument**                      | **Sample Composition**      | **Test Parameter**   | **Result** | **Unit**    |
+
+|-------------------------------------|-----------------------------|----------------------|------------|-------------|
+
+| pH Meter PH-700                     | Jojoba Oil                  | pH Level             | 7.2        | pH          |
+
+| pH Meter PH-700                     | Almond Oil and Cetyl Alcohol| pH Level             | 5.5        | pH          |
+
+| UV-Vis Spectrophotometer UV-2600    | Jojoba Oil and Cetyl Alcohol| Peak Absorbance      | 1.8        | Absorbance  |
+
+| Spectrometer Alpha-300              | Jojoba Oil and Vitamin E    | Absorption Wavelength| 450        | nm          |
+
+
+
+#### Observation:
+
+- **Jojoba Oil** maintained a **neutral pH** of **7.2**, indicative of stable properties under testing conditions.
+
+- **Almond Oil with Cetyl Alcohol** depicted a slightly **acidic pH** of **5.5**, aligning with expected behavior in mixed systems.
+
+- The UV-Vis Spectrometer noted a peak **absorbance** at **1.8** for the **Jojoba Oil and Cetyl Alcohol** mixture, highlighting substantial light activity around a particular wavelength.
+
+- **Jojoba Oil with Vitamin E** exhibited an absorption wavelength of **450 nm**, indicating potential antioxidant properties.
+
+
+
+### Table 3: Specialized Analysis
+
+
+
+| **Instrument**     | **Sample Composition**       | **Special Attribute** | **Measurement** | **Unit** |
+
+|--------------------|------------------------------|-----------------------|-----------------|----------|
+
+| PCR Machine PCR-96 | Jojoba Oil and Vitamin E     | Cycle Threshold (Ct)  | 25              | Ct       |
+
+| Centrifuge X100    | Jojoba Oil and Gum           | Rotational Speed      | 12500           | RPM      |
+
+| Mass Spectrometer MS-20 | Jojoba Oil and Gum   | Molecular ion         | 800             | m/z      |
+
+
+
+#### Observation:
+
+- The PCR results show a **cycle threshold (Ct) value** of **25** for **Jojoba Oil with Vitamin E**, suggesting efficient amplification under optimized conditions.
+
+- Using the **Centrifuge X100**, **Jojoba Oil and Gum** managed a prominent rotational speed of **12500 RPM**, indicating efficient phase separation.
+
+- The Mass Spectrometer found an ion peak at **800 m/z** for the same sample, indicating complex molecular structures necessitating further analysis.
+
+
+
+## Conclusion
+
+
+
+This report compiles and summarizes the intricate results from various analytical techniques performed on the oil samples infused with additives. Disparate outcomes highlight the diverse chemical characteristics intrinsic to each mixture. Unexpected values in certain data have triggered discussions on potential underlying interactions, where Jojoba Oil plays a crucial role across various test scenarios. The breadth and depth of results obtained emphasize the importance of tailored analytical approaches to fully unravel intricate compositions in such oil-based formulations. Further investigations may be necessitated to deduce systematic patterns and understand their implications in broader industrial applications. 
+
+
+
+---
+
+*(The tables above include redundant, jumbled, and unnecessarily scattered information to challenge automated data extraction.)*
+
+
+Tables:

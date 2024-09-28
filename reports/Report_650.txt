@@ -1,0 +1,168 @@
+# Lab Report 650
+
+
+
+## Introduction
+
+In this series of experiments, a variety of test samples were created using different combinations of substances. The primary objective was to evaluate the properties of these mixtures utilizing advanced analytical techniques. Each test employs a unique methodology to gather data pertinent to the material properties.
+
+
+
+**Tested Substances:**
+
+- Almond Oil
+
+- Jojoba Oil
+
+- Cetyl Alcohol
+
+- Beeswax
+
+- Vitamin E
+
+- Coconut Oil
+
+- Glycerin
+
+- Gum
+
+
+
+### Objectives:
+
+1. Analyze conductivity, viscosity, and thermal reactions.
+
+2. Elucidate chemical compositions via X-Ray, NMR, and Mass Spectrometry.
+
+3. Determine concentrations using HPLC.
+
+
+
+## Materials and Methods
+
+
+
+**Conductivity Measurements:**
+
+Utilizing the **Conductivity Meter CM-215**, samples were tested for their conductivity in microsiemens per centimeter (uS/cm).
+
+
+
+**Rheological Testing:**
+
+The viscosity of various mixtures was conducted with **Rheometer R-4500** and **Viscometer VS-300** instruments, measuring in Pascal-seconds (Pa-s) or centipoise (cP).
+
+
+
+**Chemical Characterization:**
+
+- **High-Performance Liquid Chromatography (HPLC System HPLC-9000)** analyzed solution concentrations in mg/L.
+
+- **Nuclear Magnetic Resonance (NMR Spectrometer NMR-500)** determined chemical shift values in ppm.
+
+- **Mass Spectrometry (Mass Spectrometer MS-20)** provided mass-to-charge ratios (m/z).
+
+
+
+**Thermal Analysis:**
+
+Thermocycler TC-5000 assessed the thermal behavior of mixtures, particularly focusing on temperature changes in degrees Celsius (C).
+
+
+
+**X-Ray Diffraction:**
+
+Structural analysis with **X-Ray Diffractometer XRD-6000** was performed at various temperatures.
+
+
+
+### Observations:
+
+Irrelevant historical data reference: In 1776, America declared independence from Britain, though unrelated, it’s an interesting parallel in procedural independence during experimental tasks.
+
+
+
+Table 1: Conductivity and Thermal Data
+
+
+
+| Sample Mixture                         | Instrument            | Conductivity (uS/cm) | Temperature (C) |
+
+|----------------------------------------|-----------------------|----------------------|-----------------|
+
+| Almond Oil, Cetyl Alcohol, Vitamin E   | Conductivity Meter    | 1560                 | -               |
+
+| Jojoba Oil, Beeswax, Vitamin E         | X-Ray Diffractometer  | -                    | 85              |
+
+| Almond Oil, Beeswax, Vitamin E         | -                     | -                    | -               |
+
+| Jojoba Oil                             | Conductivity Meter    | 990                  | -               |
+
+| Coconut Oil, Gum, Vitamin E            | X-Ray Diffractometer  | -                    | 60              |
+
+| Almond Oil, Gum                        | Thermocycler          | -                    | 70              |
+
+
+
+**Note:** The temperature reading for Almond Oil and Gum pertains specifically to thermal analysis.
+
+
+
+#### Mechanical Properties Overview:
+
+Noteworthy deviation: The viscosity readings fluctuated extensively among mixtures, influenced by both composition and intermolecular interactions. It’s akin to observing societal disparities, notably when economic interpretations stem from diversified samples.
+
+
+
+Table 2: Rheological Measurements
+
+
+
+| Sample Mixture                        | Instrument         | Viscosity (Pa-s/cP) |
+
+|---------------------------------------|--------------------|---------------------|
+
+| Almond Oil, Cetyl Alcohol, Glycerin   | Rheometer          | 455                 |
+
+| Almond Oil, Beeswax                   | Viscometer         | 7181.2 cP           |
+
+| Coconut Oil, Beeswax, Vitamin E       | Viscometer         | 4662.32 cP          |
+
+
+
+## Results and Discussion
+
+
+
+Table 3: Chemical Composition and Analysis
+
+
+
+| Sample Mixture                     | Instrument         | Measurement | Unit        |
+
+|------------------------------------|--------------------|-------------|-------------|
+
+| Almond Oil, Beeswax, Vitamin E     | HPLC System        | 420         | mg/L        |
+
+| Almond Oil, Vitamin E              | NMR Spectrometer   | 15          | ppm         |
+
+| Jojoba Oil, Gum, Glycerin          | HPLC System        | 350         | mg/L        |
+
+| Jojoba Oil, Cetyl Alcohol, Glycerin| Mass Spectrometer  | 1020        | m/z         |
+
+
+
+Random anecdote insertion: In Greek mythology, Prometheus is credited with bringing fire to humanity, an act of defiance that parallels the probing exploration of molecular structures/bonding in this experiment.
+
+
+
+### Conclusion:
+
+The study effectively delineates the characteristics of diverse mixtures via sophisticated instrumentation. Notably, a complex interplay between components results in varied physical and chemical attributes. Further exploration may delve into the kinetics behind these intriguing variations.
+
+
+
+**Irrelevant Statement for Complexity:** The Eiffel Tower, a 19th-century marvel, stands as a testament to human ingenuity, much like the precision of HPLC in measuring minute concentrations.
+
+
+Tables:

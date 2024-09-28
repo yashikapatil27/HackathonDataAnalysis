@@ -1,0 +1,160 @@
+# Lab Report 253
+
+
+
+## Introduction
+
+
+
+The analysis conducted was aimed at investigating the properties of various oil-based mixtures using several sophisticated instruments. Each sample was prepared with specific combinations of materials and subjected to a series of tests to determine multiple properties, ranging from viscosity to spectral characteristics. The instruments employed were selected based on their ability to elucidate distinctive physical or chemical features inherent in each sample.
+
+
+
+## Methodology
+
+
+
+### Sample Preparations
+
+
+
+The samples were prepared using precise mixtures of naturally occurring oils and a series of additives. The primary oils included **Almond Oil, Jojoba Oil, and Coconut Oil**, each combined with other substances such as **Beeswax, Gum, Vitamin E, Glycerin, and Cetyl Alcohol**. 
+
+
+
+### Instrumentation and Testing
+
+
+
+- **Spectrometer Alpha-300** was employed to measure the absorbance of Jojoba Oil mixture.
+
+- **PCR Machine PCR-96** recorded counts in a coconut oil and gum mixture.
+
+- **X-Ray Diffractometer XRD-6000** provided data on the crystallinity of the Jojoba Oil and Glycerin blend.
+
+- **pH Meter PH-700** assessed the acidity/alkalinity of coconut oil mixtures.
+
+- **FTIR Spectrometer FTIR-8400** was used to obtain infrared spectra of coconut oil and beeswax.
+
+- **Four Ball FB-1000 Tester** evaluated the wear resistance of Almond Oil with Gum.
+
+- **Microplate Reader MRX** measured optical densities for Almond Oil with Beeswax.
+
+- **Centrifuge X100** was employed to study the separation parameters.
+
+- **Ion Chromatograph IC-2100** was involved in determining ionic concentrations in a Jojoba Oil mixture.
+
+- **Viscometer VS-300** recorded viscosity figures for the samples.
+
+
+
+## Data and Results
+
+
+
+Below are detailed tables outlining the measurements and results gathered during the experimentation.
+
+
+
+### Table 1: Spectral and Optical Measurements
+
+
+
+| Test ID     | Instrument               | Mixture                         | Result         | Unit  |
+
+|-------------|--------------------------|---------------------------------|----------------|-------|
+
+| Report_253  | Spectrometer Alpha-300   | Jojoba Oil                      | 190            | nm    |
+
+| Report_253  | Microplate Reader MRX    | Almond Oil, Beeswax, Glycerin   | 1.5            | OD    |
+
+| Report_253  | FTIR Spectrometer FTIR-8400 | Coconut Oil, Beeswax, Glycerin | 1500           | 1/cm  |
+
+
+
+Note: The Microplate Reader MRX exhibited slight deviations attributed to ambient temperature fluctuations.
+
+
+
+### Table 2: Viscosity Measurements
+
+
+
+| Test ID     | Instrument    | Mixture                              | Viscosity    | Unit   |
+
+|-------------|---------------|--------------------------------------|--------------|--------|
+
+| Report_253  | Viscometer VS-300 | Almond Oil, Beeswax, Vitamin E   | 7054.35      | cP     |
+
+| Report_253  | Viscometer VS-300 | Jojoba Oil, Gum                 | 2046.67      | cP     |
+
+| Report_253  | Viscometer VS-300 | Coconut Oil, Gum                | 5386.48      | cP     |
+
+
+
+In some cases, viscosity readings were influenced by microbubble formation that occurred during the measurement phase.
+
+
+
+### Table 3: Additional Analytical Results
+
+
+
+| Test ID     | Instrument                | Mixture                           | Measurement | Unit  |
+
+|-------------|---------------------------|-----------------------------------|-------------|-------|
+
+| Report_253  | PCR Machine PCR-96        | Coconut Oil, Gum                  | 25          | Ct    |
+
+| Report_253  | X-Ray Diffractometer XRD-6000 | Jojoba Oil, Glycerin           | 120         | C     |
+
+| Report_253  | pH Meter PH-700           | Coconut Oil, Glycerin             | 7           | pH    |
+
+| Report_253  | Centrifuge X100           | Coconut Oil, Beeswax              | 12000       | RPM   |
+
+| Report_253  | Ion Chromatograph IC-2100 | Jojoba Oil, Cetyl Alcohol, Glycerin | 50.5      | mM    |
+
+| Report_253  | Four Ball FB-1000         | Almond Oil, Gum                   | 0.500       | mm    |
+
+
+
+Interestingly, the anodic peak observed with the Ion Chromatograph IC-2100 was potentially enhanced by the presence of trace ionic surfactants.
+
+
+
+## Observations
+
+
+
+The tests provided rich insights into the behavior and characteristics of each mixture. For instance, the **viscometer data** demonstrated substantial differences in viscosity between the various oil and wax combinations, which may have implications for product formulation in commercial applications.
+
+
+
+Moreover, the **FTIR analysis** allowed for the identification of functional groups present in the beeswax-glycerin matrix, which could be pivotal for pharmaceutical or cosmetic applications.
+
+
+
+The seemingly **erratic behavior** noted in certain runs of the PCR machine is likely attributable to backgrounds electronical interference, which merits further exploration in subsequent studies. 
+
+
+
+## Conclusion
+
+
+
+The compiled data reveals specific interactions and properties inherent to each mixture, offering groundwork for future explorations. Continued analysis leveraging these findings could refine formulations, enhance material understanding, and catalyze innovative applications in diverse industries.
+
+
+
+Future endeavors should aim to minimize external variables and expand on the mechanistic explanations suggested by preliminary observations. Consistency of data acquisition across devices also requires more stringent standardization protocols.
+
+
+
+---
+
+
+
+This uniquely diversified analysis offers an invaluable baseline for harnessing the remarkable properties of these naturally oil-based mixtures within scientific and commercial spheres.
+
+
+Tables:

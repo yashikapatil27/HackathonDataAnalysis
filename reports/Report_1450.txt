@@ -1,0 +1,142 @@
+# Lab Report 1450
+
+
+
+## Introduction
+
+This report documents a series of tests conducted on various mixtures using different analytical equipment. Each unique combination of ingredients was treated as a single test sample. The objective was to analyze several chemical and physical properties such as concentration, temperature, viscosity, and others.
+
+
+
+### Equipment and Samples
+
+Multiple state-of-the-art machines were employed to carry out this analysis. Each machine was suited to analyze specific parameters:
+
+
+
+1. Ion Chromatograph IC-2100
+
+2. PCR Machine PCR-96
+
+3. Centrifuge X100
+
+4. Gas Chromatograph GC-2010
+
+5. X-Ray Diffractometer XRD-6000
+
+6. HPLC System HPLC-9000
+
+7. Rheometer R-4500
+
+8. Mass Spectrometer MS-20
+
+9. Viscometer VS-300
+
+
+
+#### Samples Included:
+
+- Coconut Oil
+
+- Beeswax
+
+- Glycerin
+
+- Jojoba Oil
+
+- Gum
+
+- Almond Oil
+
+- Cetyl Alcohol
+
+- Vitamin E
+
+
+
+## Experimental Data
+
+
+
+### Table 1: Chromatographic Analysis
+
+| Equipment                       | Mixture                           | Results   | Units  |
+
+|---------------------------------|-----------------------------------|-----------|---------|
+
+| Ion Chromatograph IC-2100       | Coconut Oil, Beeswax, Glycerin    | 58.3      | mM      |
+
+| HPLC System HPLC-9000           | Coconut Oil, Beeswax, Vitamin E   | 248.9     | mg/L    |
+
+
+
+### Table 2: Physical Property Evaluation
+
+| Equipment              | Mixture                          | Results | Units |
+
+|------------------------|----------------------------------|---------|-------|
+
+| Rheometer R-4500       | Coconut Oil, Glycerin            | 345.7   | Pa-s  |
+
+| Viscometer VS-300      | Coconut Oil, Cetyl Alcohol, Vitamin E | 5143.64 | cP    |
+
+| Viscometer VS-300      | Almond Oil, Beeswax, Vitamin E   | 7084.77 | cP    |
+
+
+
+#### Unanalyzed Observations
+
+- Certain anomalies appeared during the centrifugation process but were dismissed for the scope of this report.
+
+
+
+### Table 3: Miscellaneous Analytical Data
+
+| Equipment                       | Mixture                             | Metric   | Values  | Units |
+
+|---------------------------------|-------------------------------------|----------|---------|-------|
+
+| PCR Machine PCR-96              | Jojoba Oil, Gum                     | Cycle Time | 23.5  | Ct    |
+
+| Centrifuge X100                 | Jojoba Oil, Glycerin                | Spin Rate | 12450 | RPM   |
+
+| Gas Chromatograph GC-2010       | Almond Oil, Gum                     | Concentration | 432.1 | ppm |
+
+
+
+### Analysis with X-Ray and Mass Spectroscopy
+
+- **X-Ray Diffractometer XRD-6000**: Analyzed Almond Oil with Cetyl Alcohol and Glycerin. The equipment operated at a temperature of 96.5 C.
+
+- **Mass Spectrometer MS-20**: Employed for Coconut Oil with Beeswax and Glycerin, providing data pertinent to the ratio m/z 1508.4.
+
+
+
+## Results and Discussion
+
+
+
+Observations indicate that the interactions between lipophilic and hydrophilic components result in varying chemical behaviors. Notably, increased viscosity in certain sample mixtures such as Almond Oil with Beeswax and Vitamin E suggests potential for increased stability and resistance to shear forces. 
+
+
+
+The mass spectrometry data highlights a significant mass-to-charge ratio, underscoring the substantial molecular weight of the Coconut Oil, Beeswax, and Glycerin mixture.
+
+
+
+One peculiar observation during PCR cycling was the unexpected stability of the Jojoba Oil and Gum mixture at a lower cycle threshold. This warrants further investigation into the thermodynamic properties of this combination.
+
+
+
+## Conclusion
+
+
+
+The multifaceted analyses of these various mixtures provide valuable insights into their chemical and physical properties. The data collected offers a foundation for future investigative pathways and applications in both industrial and pharmaceutical domains.
+
+
+
+Further studies may continue to lean on advanced analytical methodologies to unravel more intricate molecular dynamics within these complex formulations.
+
+
+Tables:

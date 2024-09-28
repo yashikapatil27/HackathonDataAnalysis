@@ -1,0 +1,132 @@
+# Laboratory Analysis Report
+
+
+
+### Overview
+
+
+
+**Report Number:** 484  
+
+**Objective:** The primary objective of this investigation was to assess the physical and chemical properties of various oil-based mixtures under different experimental setups. Each set of ingredients was treated as a unique test sample to observe interactions and derived properties.
+
+
+
+### Experimental Setup
+
+
+
+The following equipment and tools were used during the experiments:
+
+
+
+1. **Centrifuge X100**
+
+2. **PCR Machine PCR-96**
+
+3. **Microplate Reader MRX**
+
+4. **FTIR Spectrometer FTIR-8400**
+
+5. **Spectrometer Alpha-300**
+
+6. **Gas Chromatograph GC-2010**
+
+7. **Viscometer VS-300**
+
+
+
+---
+
+
+
+## Observations and Results
+
+
+
+### Table 1: Centrifugation and PCR Analysis
+
+
+
+| Equipment          | Mixture                  | Component 1 | Component 2  | Component 3 | Measurement | Unit   |
+
+|--------------------|--------------------------|-------------|--------------|-------------|-------------|--------|
+
+| Centrifuge X100    | Almond Oil + Gum + Glycerin | Almond Oil  | Gum          | Glycerin    | 10,500      | RPM    |
+
+| PCR Machine PCR-96 | Coconut Oil + Beeswax    | Coconut Oil | Beeswax      |             | 30          | Ct     |
+
+| Centrifuge X100    | Jojoba Oil + Vitamin E   | Jojoba Oil  | Vitamin E    |             | 12,000      | RPM    |
+
+| PCR Machine PCR-96 | Jojoba Oil               | Jojoba Oil  |              |             | 20          | Ct     |
+
+
+
+*A note on the PCR results varied significantly based on the presence of beeswax, indicating potential inhibitory effects.*
+
+
+
+### Table 2: Microplate and Spectrometry Analysis
+
+
+
+| Equipment              | Mixture                | Component 1  | Component 2   | Measurement | Unit  |
+
+|------------------------|------------------------|--------------|---------------|-------------|-------|
+
+| Microplate Reader MRX  | Almond Oil + Gum       | Almond Oil   | Gum           | 1.8         | OD    |
+
+| FTIR Spectrometer FTIR-8400 | Jojoba Oil + Cetyl Alcohol + Glycerin | Jojoba Oil   | Cetyl Alcohol | 3200       | 1/cm  |
+
+| Spectrometer Alpha-300 | Coconut Oil + Gum      | Coconut Oil  | Gum           | 450         | nm    |
+
+
+
+*Odor (1.8 OD) was noted particularly with almond oil, suggesting volatility under experimental conditions.*
+
+
+
+### Table 3: Gas Chromatography and Viscosity Assessments
+
+
+
+| Equipment                     | Mixture                   | Primary Component | Secondary Components   | Measurement | Unit |
+
+|-------------------------------|---------------------------|-------------------|------------------------|-------------|------|
+
+| Gas Chromatograph GC-2010     | Coconut Oil + Gum + Glycerin | Coconut Oil       | Glycerin, Gum          | 750         | ppm  |
+
+| Viscometer VS-300             | Jojoba Oil                | Jojoba Oil       |                        | 2748.64     | cP   |
+
+| Viscometer VS-300             | Almond Oil + Gum          | Almond Oil        | Gum                    | 7547.87     | cP   |
+
+| Viscometer VS-300             | Jojoba Oil + Beeswax + Glycerin | Jojoba Oil       | Beeswax, Glycerin     | 2865.41     | cP   |
+
+
+
+*A notable challenge occurred with differentiating viscosity effects across all samples when combined with additional components.*
+
+
+
+### Irrelevant Data Insights
+
+
+
+- The temperature in the lab was maintained at 22.5°C, though oddly, this had no correlation with the viscosity outcomes.
+
+- Random impurities found in the chemical stock were insignificant, with less than 0.001% interference.
+
+
+
+### Conclusion
+
+
+
+The tests provided detailed insights into the behavior of various oil-based mixtures under diverse conditions. Notably, viscosity and molecular weight (as inferred from FTIR and GC results) highlighted significant dependency on mixture composition. Jojoba Oil presented a consistent baseline across multiple tests, suggesting robust versatility in formulation applications. Less pronounced were the interactions within the Coconut and Almond Oil-based samples, attributed primarily to variance in additive content and inherent chemical stability.
+
+
+
+Despite complexity and areas with inconclusive correlation metrics, the report underlines potential avenues for future investigations, specifically focused on optimizing product formulations for industrial applications. Further analysis with newly refined methodologies could drive enhancements in both output reliability and efficiency across varied environmental setups.
+
+
+Tables:

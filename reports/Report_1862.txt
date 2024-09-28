@@ -1,0 +1,192 @@
+# Laboratory Report: Analysis of Oils and Associated Components
+
+**Report ID:** Report_1862  
+
+**Date Conducted:** Various Dates  
+
+**Objective:** To analyze various oil samples and their associated components through multiple analytical techniques, including mass spectrometry, high-performance liquid chromatography (HPLC), ion chromatography, spectrometry, Fourier-transform infrared spectroscopy (FTIR), pH measurement, and viscometry. Each test assesses specific properties or components within the prepared oil mixtures.
+
+
+
+---
+
+
+
+## Introduction
+
+
+
+The purpose of this laboratory analysis is to evaluate the chemical composition and physical properties of diverse oil samples when combined with specific additives or components. By examining these mixtures, insights into their molecular structure and characteristics can be obtained, contributing to their potential applications in various industries such as cosmetics, nutrition, and pharmacology.
+
+
+
+---
+
+
+
+## Methods and Materials
+
+
+
+### Instruments & Techniques
+
+
+
+1. **Mass Spectrometer (MS-20)**: Used to identify the presence and concentration of specific ions within Coconut Oil samples.
+
+2. **HPLC System (HPLC-9000)**: Analyzed mixtures to determine the concentration of glycerin and other components in Coconut and Almond oils.
+
+3. **Ion Chromatograph (IC-2100)**: Evaluated Vitamin E levels in Almond and Jojoba oil mixtures.
+
+4. **pH Meter (PH-700)**: Measured the acidity/alkalinity of oil samples treated with glycerin, gum, and cetyl alcohol.
+
+5. **Spectrometer (Alpha-300)**: Assessed the wavelength absorption of Almond Oil mixtures containing Beeswax.
+
+6. **FTIR Spectrometer (FTIR-8400)**: Conducted infrared spectroscopy on Jojoba Oil to identify the functional groups present in the Glycerin mixture.
+
+7. **Viscometer (VS-300)**: Measured the viscosity of oils mixed with beeswax and vitamin E.
+
+
+
+### Samples Preparation
+
+
+
+The mixtures were prepared by combining the specified oils (Coconut, Almond, Jojoba) with additives such as Glycerin, Gum, Cetyl Alcohol, Vitamin E, and Beeswax. Each component was quantified and homogenized to ensure consistency across tests.
+
+
+
+---
+
+
+
+## Observations and Results
+
+
+
+### Table 1: Mass Spectrometry Results
+
+
+
+| **Sample** | **Components**         | **Measure (m/z)** |
+
+|------------|------------------------|-------------------|
+
+| Coconut Oil | -                      | 202.5             |
+
+| Coconut Oil | Gum                    | 1250              |
+
+
+
+### Table 2: HPLC Analysis
+
+
+
+| **Sample**   | **Components**                | **Glycerin Concentration (mg/L)** |
+
+|--------------|-------------------------------|----------------------------------|
+
+| Coconut Oil  | Glycerin                      | 450.2                            |
+
+| Almond Oil   | Cetyl Alcohol, Glycerin       | 90.7                             |
+
+
+
+### Table 3: Ion Chromatography
+
+
+
+| **Sample**    | **Components**            | **Vitamin E (mM)** |
+
+|---------------|---------------------------|-------------------|
+
+| Almond Oil    | Gum, Vitamin E            | 15.6              |
+
+| Jojoba Oil    | Vitamin E                 | 45.3              |
+
+
+
+### Table 4: pH Measurements
+
+
+
+| **Sample**    | **Components**                | **pH** |
+
+|---------------|-------------------------------|--------|
+
+| Coconut Oil   | Cetyl Alcohol                 | 7.8    |
+
+| Jojoba Oil    | Gum, Glycerin                 | 6.5    |
+
+
+
+### Table 5: Spectrometric Analysis
+
+
+
+| **Sample** | **Components**    | **Wavelength (nm)** |
+
+|------------|-------------------|---------------------|
+
+| Almond Oil | Beeswax           | 550                 |
+
+
+
+### Table 6: FTIR Spectroscopy
+
+
+
+| **Sample** | **Components** | **Frequency (1/cm)** |
+
+|------------|----------------|---------------------|
+
+| Jojoba Oil | Glycerin       | 3000                |
+
+
+
+### Table 7: Viscosity Measurements
+
+
+
+| **Sample**   | **Components**    | **Viscosity (cP)** |
+
+|--------------|-------------------|-------------------|
+
+| Almond Oil   | Beeswax, Glycerin | 7295.35           |
+
+| Coconut Oil  | Vitamin E         | 5130.48           |
+
+
+
+---
+
+
+
+## Discussion
+
+
+
+The varied analytical techniques employed provide a comprehensive understanding of the mixtures’ properties. The mass spectrometry data reveal significant differences in the ionic composition of Coconut Oil, notably when combined with Gum. The HPLC results show a marked presence of glycerin within the Coconut Oil, while the addition of Cetyl Alcohol affects its concentration in Almond Oil.
+
+
+
+Ion chromatography has successfully identified Vitamin E concentrations in different oil samples, demonstrating its effectiveness in detecting solubilized vitamins. pH measurements indicate the basicity or acidity of the mixtures, which is critical for stability and usability in cosmetic formulations.
+
+
+
+Furthermore, spectrometry and FTIR spectroscopy elucidated information on the optical and molecular characteristics of the samples. Specifically, the wavelength absorption and frequency bands gave insights into potential chemical interactions within the mixtures. Finally, viscosity assessments highlight how additives influence the thickness and flow properties of oil samples.
+
+
+
+---
+
+
+
+## Conclusion
+
+
+
+This multi-faceted analysis has characterized the physicochemical properties of various oil mixtures using advanced instrumentation. Such detailed investigations are vital for enhancing the applications and efficacy of these mixtures in commercial products. Future studies should consider exploring long-term stability and interactions at different environmental conditions.
+
+
+Tables:

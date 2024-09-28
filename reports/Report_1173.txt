@@ -1,0 +1,206 @@
+# Lab Report: Analysis of Oil Mixtures
+
+
+
+### Report Number: 1173
+
+
+
+This lab report details the analysis of various mixtures using advanced instrumentation. Each test sample is a unique combination of components analyzed to understand different physical and chemical properties. The instruments used include a UV-Vis Spectrophotometer UV-2600, Liquid Chromatograph LC-400, X-Ray Diffractometer XRD-6000, Centrifuge X100, Conductivity Meter CM-215, Four Ball FB-1000, and Viscometer VS-300. Observations and measurements were meticulously recorded.
+
+
+
+## Mixture Analysis: Almond Oil and Derivatives
+
+
+
+### A. Spectrophotometric Analysis
+
+
+
+The UV-Vis Spectrophotometer UV-2600 measured absorbance for mixtures containing Almond Oil. Notably:
+
+
+
+- **Almond Oil with Gum:** Absorbance recorded was 3.2 Abs.
+
+- **Almond Oil with Coconut Oil and Glycerin:** Not applicable in this section.
+
+
+
+### B. Liquid Chromatography Results
+
+
+
+The Liquid Chromatograph LC-400 facilitated the quantification of specific mixtures:
+
+
+
+- **Almond Oil with unspecified additions:** Recorded a concentration of 250.5 ug/mL.
+
+- **Almond Oil with Vitamin E:** Concentration measured as 100.8 ug/mL.
+
+
+
+**Irrelevant Note:** The chromatographs were executed under standard lab temperature and humidity, although these factors are not known to significantly impact results within typical ranges.
+
+
+
+### C. X-Ray Diffraction Study
+
+
+
+Using the X-Ray Diffractometer XRD-6000, thermal properties were examined:
+
+
+
+- **Almond Oil with Cetyl Alcohol:** Recorded transition temperature was around 120°C.
+
+
+
+### D. Centrifugal Force Evaluation
+
+
+
+The Centrifuge X100 examined rotational speeds:
+
+
+
+- **Almond Oil with Gum and Vitamin E:** The sample was rotated at 14500 RPM, effectively separating the components.
+
+
+
+**Observation:** Minor deviations were noted due to minor vibrations during setup, yet insignificant to affect results.
+
+
+
+**Random Association:** Historical accounts of centrifugation date back to ancient techniques of manual separation in agriculture.
+
+
+
+### E. Other Tests on Almond Oil Mixtures
+
+
+
+The Four Ball FB-1000 test showcased wear resistance properties:
+
+
+
+- **Almond Oil with Beeswax:** Wear scar diameter measured 0.750 mm.
+
+
+
+## Jojoba Oil Mixture Evaluations
+
+
+
+### A. Conductivity Measurements
+
+
+
+- **Jojoba Oil with Beeswax and Vitamin E:** Conductivity recorded was 1500 uS/cm.
+
+
+
+### B. Viscosity Evaluation
+
+
+
+Conducted with the Viscometer VS-300:
+
+
+
+- **Jojoba Oil with Gum:** Viscosity readings were 1917.43 cP and 1931.56 cP for repeated trials.
+
+
+
+### C. Thermal and Structural Analysis
+
+
+
+- **Jojoba Oil with Cetyl Alcohol and Glycerin:** A phase transition was observed at 60°C.
+
+
+
+**Inconsequential Narrative:** Jojoba oil has been historically noted for traditional skin treatments, although the focus here is strictly scientific.
+
+
+
+## Coconut Oil and Mixtures Analysis
+
+
+
+### A. Spectroscopic Insight
+
+
+
+Coconut Oil was examined via the UV-Vis Spectrophotometer, revealing:
+
+
+
+- **Coconut Oil with Gum and Glycerin:** Absorbance detailed at 2.8 Abs.
+
+
+
+## Data Tables
+
+
+
+Below, specific analyses have been presented in tabular form. Specific rows may contain non-critical data interspersed for complexity.
+
+
+
+### Table 1: Spectrophotometric Measurements
+
+
+
+| Sample Mixture                     | Instrument                 | Measurement   |
+
+|------------------------------------|----------------------------|---------------|
+
+| Almond Oil, Gum                    | UV-2600                    | 3.2 Abs       |
+
+| *Unrelated Note*                   | -                          | -             |
+
+| Coconut Oil, Gum, Glycerin         | UV-2600                    | 2.8 Abs       |
+
+
+
+### Table 2: Chromatographic and Diffraction Analysis
+
+
+
+| Sample Mixture                     | Instrument                  | Property           |
+
+|------------------------------------|-----------------------------|--------------------|
+
+| Almond Oil                         | LC-400                      | 250.5 ug/mL        |
+
+| Almond Oil, Vitamin E              | LC-400                      | 100.8 ug/mL        |
+
+| Almond Oil, Cetyl Alcohol          | XRD-6000                    | 120°C              |
+
+| Jojoba Oil, Cetyl Alcohol, Glycerin| XRD-6000                    | 60°C               |
+
+
+
+### Table 3: Centrifugal and Viscosity Outcomes
+
+
+
+| Sample Mixture                     | Instrument                 | Result           |
+
+|------------------------------------|----------------------------|------------------|
+
+| Almond Oil, Gum, Vitamin E         | X100                       | 14500 RPM        |
+
+| Jojoba Oil, Gum                    | VS-300                     | 1917.43 cP       |
+
+| Jojoba Oil, Gum                    | VS-300                     | 1931.56 cP       |
+
+
+
+**Final Note:** The above data has been compiled to provide a comprehensive understanding of the properties of various oil-based mixtures. Discrepancies, if any, are mild and attributable to minor instrumental variations and setup conditions noted above.
+
+
+Tables:

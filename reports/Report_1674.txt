@@ -1,0 +1,180 @@
+# Lab Report 1674
+
+
+
+**Objective:**  
+
+To analyze various mixtures containing different oils, waxes, and other compounds using multiple laboratory instruments to determine physical and chemical properties under specified conditions.
+
+
+
+## Introduction
+
+
+
+In this study, multiple mixtures were tested using advanced laboratory techniques to assess their behavior and characteristics. The substrates involved include oils like Almond Oil, Jojoba Oil, and Coconut Oil, combined with materials such as Beeswax, Cetyl Alcohol, Vitamin E, Glycerin, and Gum. 
+
+
+
+Experiments were conducted using various devices, including centrifuges, spectrometers, thermocyclers, and chromatographs. Each test was performed under unique conditions dictated by the tool utilized.
+
+
+
+## Methods
+
+
+
+1. **Centrifuge X100:** 
+
+   - **Purpose:** To determine separation efficiency.
+
+   - **Method:** Spun at varying RPMs.
+
+   - **Samples:** Almond Oil with Cetyl Alcohol and Glycerin; Almond Oil with Beeswax and Glycerin.
+
+
+
+2. **Spectrometer Alpha-300:** 
+
+   - **Purpose:** To analyze absorption characteristics.
+
+   - **Method:** Wavelengths targeted at 350 nm and 450 nm.
+
+   - **Samples:** Almond Oil, Beeswax, Vitamin E; Jojoba Oil, Cetyl Alcohol.
+
+
+
+3. **Four Ball FB-1000:** 
+
+   - **Purpose:** To measure anti-wear properties.
+
+   - **Method:** Wear scar diameter measurement in millimeters.
+
+   - **Samples:** Coconut Oil and Beeswax.
+
+
+
+4. **Thermocycler TC-5000:** 
+
+   - **Purpose:** To study thermal behavior.
+
+   - **Method:** Constant temperature exposure.
+
+   - **Samples:** Almond Oil and Beeswax.
+
+
+
+5. **FTIR Spectrometer FTIR-8400:** 
+
+   - **Purpose:** To identify functional groups.
+
+   - **Method:** Infrared spectroscopy at 600 1/cm.
+
+   - **Samples:** Jojoba Oil, Beeswax, Glycerin.
+
+
+
+6. **Liquid Chromatograph LC-400:** 
+
+   - **Purpose:** To analyze compound presence and concentration.
+
+   - **Method:** Quantification in micrograms per milliliter.
+
+   - **Samples:** Almond Oil and Gum.
+
+
+
+7. **Microplate Reader MRX:** 
+
+   - **Purpose:** To determine optical properties.
+
+   - **Method:** Optical density measurement.
+
+   - **Samples:** Almond Oil, Vitamin E.
+
+
+
+## Results
+
+
+
+### Table 1: Centrifugation Results
+
+
+
+| Sample # | Mixture                            | RPM   | Observations                       |
+
+|----------|------------------------------------|-------|------------------------------------|
+
+| 1        | Almond Oil, Cetyl Alcohol, Glycerin| 8000  | Partial separation observed.       |
+
+| 2        | Almond Oil, Beeswax, Glycerin      | 12000 | Complete separation achieved.      |
+
+
+
+### Table 2: Spectrometric Analysis
+
+
+
+| Sample # | Mixture                    | Wavelength (nm) | Absorption Characteristics          |
+
+|----------|----------------------------|-----------------|-------------------------------------|
+
+| 1        | Almond Oil, Beeswax, Vitamin E | 350             | Increased absorption observed.      |
+
+| 2        | Jojoba Oil, Cetyl Alcohol     | 450             | Moderate absorption seen.           |
+
+
+
+### Table 3: Miscellaneous Results
+
+
+
+| Instrument          | Relevant Info              | Data                                |
+
+|---------------------|----------------------------|-------------------------------------|
+
+| Four Ball FB-1000   | Sample: Coconut Oil, Beeswax | Wear Scar Diameter: 0.500 mm        |
+
+| Thermocycler TC-5000| Sample: Almond Oil, Beeswax | Temperature: 37°C                    |
+
+| FTIR Spectrometer   | Sample: Jojoba Oil, Beeswax, Glycerin | Peak at 600 1/cm                     |
+
+| Liquid Chromatograph| Sample: Almond Oil, Gum    | Concentration: 250 µg/mL            |
+
+| Microplate Reader   | Sample: Almond Oil, Vitamin E | Optical Density: 1.2 OD              |
+
+
+
+## Discussion
+
+
+
+The centrifuge tests revealed significant differences in separation efficiency, highlighting the importance of RPM in processing mixtures. In particular, the mixture containing Almond Oil, Beeswax, and Glycerin displayed improved separation at higher speeds. This was consistent with expectations based on viscosity differences.
+
+
+
+Spectrometric analysis determined that mixtures containing Vitamin E exhibited higher absorption at shorter wavelengths, which could indicate a complex interaction between Vitamin E and other compounds in the mixture.
+
+
+
+Unexpectedly, the thermocycler test at a constant temperature of 37°C showed minimal thermal reaction, suggesting the stability of the Almond Oil and Beeswax mixture under these conditions. The FTIR Spectrometer identified key functional groups within the mixture, providing insight into chemical composition and potential reactivity.
+
+
+
+Furthermore, results from the Liquid Chromatograph indicated the presence of significant levels of dissolved compounds, particularly in mixtures involving Gum.
+
+
+
+## Conclusion
+
+
+
+Overall, this comprehensive analysis highlights the varied physical and chemical behaviors of mixed substances when subjected to different experimental conditions. The results have practical implications in the formulation and stability testing of cosmetic and food products.
+
+
+
+Understanding these characteristics is vital for the development of products tailored to specific applications and ensuring quality control. Further research is needed to explore how these mixtures behave under extended thermal cycling and different solvent environments.
+
+
+Tables:

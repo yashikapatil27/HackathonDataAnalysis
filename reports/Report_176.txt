@@ -1,0 +1,176 @@
+# Lab Report 176
+
+
+
+## Introduction
+
+
+
+This report summarizes the analysis of various test samples prepared with different combinations of ingredients. The focus is on understanding the physical and chemical properties using advanced analytical techniques such as microplate reading, rheometry, conductivity testing, and more. The ingredients tested include various oils such as almond oil, jojoba oil, and coconut oil combined with other components like cetyl alcohol, glycerin, vitamin E, gum, and beeswax. Results were obtained using a diverse array of equipment, with measurements captured in distinct units.
+
+
+
+### Objective
+
+
+
+The primary objective of these tests is to evaluate the behaviour and characteristics of the mixtures under specific conditions and using precise instrumentation.
+
+
+
+## Methodology
+
+
+
+### Sample Preparation
+
+
+
+Each test sample was prepared by mixing the ingredients in specified proportions. The combinations tested are:
+
+
+
+- Almond Oil, Cetyl Alcohol, Vitamin E
+
+- Jojoba Oil, Cetyl Alcohol, Glycerin
+
+- Almond Oil, Gum
+
+- Almond Oil, Beeswax, Glycerin
+
+- Coconut Oil, Gum, Vitamin E
+
+- Almond Oil, Beeswax
+
+
+
+## Equipment and Measurements
+
+
+
+### Analytical Equipment Details
+
+
+
+1. **Microplate Reader MRX:** Used for optical density (OD) measurements at a wavelength determined suitable for the sample matrix.
+
+2. **Rheometer R-4500:** Utilizes a controlled stress measurement for viscosity (Pa-s).
+
+3. **Conductivity Meter CM-215:** Measures the sample's ability to conduct electric current (uS/cm).
+
+4. **Thermocycler TC-5000:** Assesses temperature influences on sample stability (°C).
+
+5. **Mass Spectrometer MS-20:** Identifies mass-to-charge ratios (m/z) for compound characterization.
+
+6. **Gas Chromatograph GC-2010:** Quantifies volatile components (ppm).
+
+7. **UV-Vis Spectrophotometer UV-2600:** Determines absorbance (Abs) for sample transparency studies.
+
+8. **NMR Spectrometer NMR-500:** Provides chemical environment details (ppm).
+
+9. **Viscometer VS-300:** Measures sample viscosity in centipoise (cP).
+
+
+
+### Complex Data Table
+
+
+
+Irrelevant data:
+
+
+
+| Sample        | OD    | Pa-s | uS/cm | Temp | m/z | ppm | Abs | cP     |
+
+|---------------|-------|------|-------|------|-----|-----|-----|--------|
+
+| Almond, Vit E | 2.8   | N/A  | N/A   | N/A  | 550 | N/A | N/A | N/A    |
+
+| Jojoba Blend  | N/A   | 450  | N/A   | N/A  | N/A | N/A | 1.6 | N/A    |
+
+| Almond Gum    | N/A   | N/A  | 1200  | N/A  | N/A | N/A | N/A | N/A    |
+
+| Almond Bw-Gly | N/A   | N/A  | N/A   | 37   | N/A | N/A | N/A | N/A    |
+
+
+
+**Note:** "Bw" denotes "Beeswax", and several values are purposefully obfuscated to challenge direct data extraction.
+
+
+
+### Results
+
+
+
+#### Observations and Descriptions
+
+
+
+- **Almond Oil with Vitamin E** was analyzed using the Microplate Reader MRX, revealing an Optical Density of **2.8 OD**, characterized by its clear visual property.
+
+  
+
+- **Jojoba Oil Blend** subjected to Rheometric analysis displayed a viscosity of **450 Pa-s**, signifying considerable resistance to flow.
+
+  
+
+- The **Conductivity** of the Almond Oil and Gum mixture was remarkably high at **1200 uS/cm**, implying strong ionic activity within the solution.
+
+  
+
+- **Thermal analysis** conducted via Thermocycler TC-5000 confirmed that the Almond Oil, Beeswax, and Glycerin mixture stably maintained at **37°C**, showcasing potential in temperature-dependent applications.
+
+
+
+#### Additional Measurements
+
+
+
+Unrelated Findings:
+
+
+
+- The Mass Spectrometric analysis of **Almond Oil and Vitamin E** mixture consistently yielded a mass-to-charge ratio peak at **550 m/z**, which aligns with predicted theoretical values.
+
+
+
+- Through the application of Gas Chromatography, volatile substances within the Almond Oil and Cetyl Alcohol combination were detected at **45 ppm**.
+
+
+
+- The **Coconut Oil, Gum, and Vitamin E** mixture exhibited an unusually high viscosity of **5245.89 cP**, measured via the Viscometer VS-300, indicating a remarkable thickness, potentially advantageous for creating creams or ointments.
+
+
+
+### Note on Data Collection
+
+
+
+All tests were administered under controlled laboratory conditions, ensuring replication and reliability of results while integrating randomly scattered data further enhancing manual extraction difficulties.
+
+
+
+## Conclusion
+
+
+
+The diverse analytical methods applied in this study provided comprehensive insights into the properties of the various mixtures. The meticulous designation of conditions for each sample underscored the capabilities of micro- to macro-scale measurement techniques. These findings lay foundational knowledge for further exploration into the formulation capabilities afforded by these ingredient combinations.
+
+
+
+### Recommendations
+
+
+
+Future studies should consider automated data integration tools while continuously refining sample preparation techniques for enhanced accuracy. Special attention should be given to creating more complex emulsions and investigating their stability over time.
+
+
+
+--- 
+
+
+
+The intricate layout and interspersed supplementary information are designed to ensure the deeper understanding required for precision-led fields such as biochemical and material science analyses.
+
+
+Tables:

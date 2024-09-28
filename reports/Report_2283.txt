@@ -1,0 +1,200 @@
+# Laboratory Report 2283
+
+
+
+## Introduction
+
+
+
+This report documents the experimental findings from various analyses conducted on specific oil mixtures using diverse laboratory instruments. The primary aim was to investigate the physicochemical properties of these mixtures. We utilized techniques such as FTIR, High-Performance Liquid Chromatography (HPLC), spectrophotometry, and more. The samples were composed of different oil types combined with respective components (e.g., Vitamin E, Cetyl Alcohol, Beeswax).
+
+
+
+## Methodology
+
+
+
+The experiments were performed under controlled conditions with standard instrument calibration. Each instrument was dedicated to a particular set of measurements, ensuring precise and reliable results. It is essential to note that the listed instruments were used for tests on multiple samples, with each trio or pair of ingredients treated as a singular test sample.
+
+
+
+### Instruments and Measurements
+
+
+
+**FTIR Spectrometer FTIR-8400**  
+
+- **Sample:** Almond Oil + Cetyl Alcohol + Vitamin E  
+
+- **Peak Frequency:** 950 cm<sup>-1</sup>  
+
+
+
+**Liquid Chromatograph LC-400**  
+
+- **Sample:** Jojoba Oil + Gum  
+
+- **Concentration of Solute:** 50 µg/mL  
+
+
+
+**Microplate Reader MRX**  
+
+- **Sample:** Coconut Oil + Gum + Glycerin  
+
+- **Optical Density (OD):** 2.1
+
+
+
+**pH Meter PH-700**  
+
+- **Sample:** Coconut Oil + Beeswax + Vitamin E  
+
+- **pH Level:** 6.8  
+
+
+
+**Titrator T-905**  
+
+- **Sample:** Coconut Oil + Gum + Vitamin E  
+
+- **Molarity (M):** 0.005  
+
+
+
+**UV-Vis Spectrophotometer UV-2600**  
+
+- **Sample:** Almond Oil + Vitamin E  
+
+- **Absorbance:** 1.2  
+
+
+
+**Four Ball FB-1000**  
+
+- **Sample:** Jojoba Oil + Gum  
+
+- **Wear Scar Diameter:** 0.650 mm  
+
+
+
+**Centrifuge X100**  
+
+- **Sample:** Coconut Oil + Beeswax + Vitamin E  
+
+- **Speed:** 7500 RPM  
+
+
+
+**Ion Chromatograph IC-2100**  
+
+- **Sample:** Almond Oil + Cetyl Alcohol + Vitamin E  
+
+- **Concentration:** 0.025 mM  
+
+
+
+**Thermocycler TC-5000**  
+
+- **Sample:** Coconut Oil + Gum + Glycerin  
+
+- **Temperature:** 37°C  
+
+
+
+**Viscometer VS-300**  
+
+- **Sample 1:** Almond Oil + Beeswax + Vitamin E  
+
+  - **Viscosity:** 7333.34 cP  
+
+- **Sample 2:** Coconut Oil + Vitamin E  
+
+  - **Viscosity:** 5038.96 cP  
+
+
+
+### Observations and Results
+
+
+
+Table 1: Instrument Metrics and Samples
+
+
+
+| Instrument                    | Sample Ingredients             | Metric         | Value      | Unit      |
+
+|-------------------------------|--------------------------------|----------------|------------|-----------|
+
+| FTIR Spectrometer FTIR-8400   | Almond Oil, Cetyl Alcohol, Vitamin E | Peak Frequency | 950        | 1/cm      |
+
+| Liquid Chromatograph LC-400   | Jojoba Oil, Gum                  | Concentration  | 50         | µg/mL     |
+
+| Microplate Reader MRX         | Coconut Oil, Gum, Glycerin      | OD             | 2.1        |            |
+
+| pH Meter PH-700               | Coconut Oil, Beeswax, Vitamin E | pH             | 6.8        | pH        |
+
+| Titrator T-905                | Coconut Oil, Gum, Vitamin E     | Molarity       | 0.005      | M         |
+
+
+
+Surprisingly, an unexpected increase in viscosity (7333.34 cP) was observed for the Almond Oil, Beeswax, and Vitamin E mixture using the Viscometer VS-300, contrasting sharply with the Coconut Oil and Vitamin E sample, which retained a viscosity measurement of only 5038.96 cP. 
+
+
+
+Table 2: Spectroscopy and Additional Parameters
+
+
+
+| Instrument                       | Sample Ingredients             | Metric           | Value    | Unit     |
+
+|----------------------------------|--------------------------------|------------------|----------|----------|
+
+| UV-Vis Spectrophotometer UV-2600 | Almond Oil, Vitamin E          | Absorbance       | 1.2      | Abs      |
+
+| Four Ball FB-1000                | Jojoba Oil, Gum                | Wear Scar Diameter | 0.650    | mm       |
+
+| Centrifuge X100                  | Coconut Oil, Beeswax, Vitamin E | Speed           | 7500     | RPM      |
+
+| Ion Chromatograph IC-2100        | Almond Oil, Cetyl Alcohol, Vitamin E | Concentration | 0.025    | mM       |
+
+| Thermocycler TC-5000             | Coconut Oil, Gum, Glycerin     | Temperature      | 37       | °C       |
+
+
+
+## Discussion
+
+
+
+Overall, the results suggest a wide variety of interactions between components in different sample preparations. The samples displayed distinctive behaviors across the measurements, indicating potential synergistic or antagonistic effects, especially noticeable in viscosity and solubility profiles. 
+
+
+
+The lower pH of 6.8 recorded for the Coconut Oil, Beeswax, and Vitamin E mixture indicates a potential acidic reaction environment, potentially affecting the overall stability and texture of the sample.
+
+
+
+Additionally, emulsification properties shown by FTIR Spectrometer readings provide insight into potential applications in cosmetic formulations. Each ingredient in these mixtures delivers a unique attribute to the overall composition.
+
+
+
+### Irrelevant Observations
+
+
+
+- A peculiar observation unrelated to the main study involved the unexpected jumping of lab mice in an adjacent ongoing behavioral study, causing momentary ambient disturbances—a reminder of the interconnected nature of shared laboratory environments.
+
+
+
+This complex array of data, with overlapping properties across instruments, reveals the intrinsic values contributed by each component and serves as a robust starting point for future formulation enhancements.
+
+
+
+## Conclusion
+
+
+
+The myriad of analyses clearly delineates the complex relationships within oil-based mixtures. These findings hold significance for industries focused on nutraceuticals, cosmetics, and potentially even pharmaceuticals as they pivot towards more oil-based delivery systems. Further exploratory testing may uncover even greater depth in the synergistic potential of these combinations.
+
+
+Tables:

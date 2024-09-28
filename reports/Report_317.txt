@@ -1,0 +1,110 @@
+# Detailed Lab Report: Report_317
+
+
+
+## Introduction
+
+The purpose of this report is to analyze various cosmetic formulations using multiple analytical techniques, generating data essential for assessing the compatibility and performance of oil-based mixtures with different additives. This study focuses on mixtures containing Jojoba, Almond, and Coconut oils combined with various substances such as beeswax, gum, glycerin, cetyl alcohol, and vitamin E.
+
+
+
+## Experimental Methodology
+
+
+
+### Test Samples
+
+The test samples comprised various combinations of base oils and additives. Each set of ingredients treated as a single test sample includes Jojoba Oil with Vitamin E and Cetyl Alcohol, Almond Oil with Beeswax and Vitamin E, and Coconut Oil with combinations of Gum, Glycerin, Beeswax, and Vitamin E.
+
+
+
+### Instrumentation
+
+Analytical instrumentation used in the study includes a Microplate Reader, Gas Chromatograph, Liquid Chromatograph, Spectrometer, FTIR Spectrometer, HPLC System, and Viscometer. These instruments were employed to measure various physical and chemical properties such as optical density (OD), parts per million (ppm), micrograms per milliliter (ug/mL), nanometers (nm), inverse centimeters (1/cm), milligrams per liter (mg/L), and centipoise (cP).
+
+
+
+## Measurements and Observations
+
+
+
+### Table 1: Optical Density and Wavelength Measurements
+
+
+
+| Instrument                | Base Oil    | Additives                   | Measurement Type | Value  |
+
+|---------------------------|-------------|-----------------------------|------------------|--------|
+
+| Microplate Reader MRX     | Jojoba Oil  | Gum, Glycerin               | OD               | 2.3    |
+
+| Spectrometer Alpha-300    | Almond Oil  | Beeswax, Vitamin E          | nm               | 650    |
+
+
+
+#### Observations
+
+The optical density for the mixture including Jojoba Oil was relatively low, suggesting moderate absorption characteristics in the visible spectrum. The Almond Oil and Beeswax mixture peaked at 650 nm, indicating strong absorbance in the red wavelength, which may affect coloration.
+
+
+
+### Table 2: Concentration Measurements
+
+
+
+| Instrument                | Base Oil    | Additives                   | Measurement Type | Value   |
+
+|---------------------------|-------------|-----------------------------|------------------|---------|
+
+| Gas Chromatograph GC-2010 | Jojoba Oil  | Cetyl Alcohol               | ppm              | 200.5   |
+
+| Liquid Chromatograph LC-400| Jojoba Oil  | Vitamin E                   | ug/mL            | 150.75  |
+
+| HPLC System HPLC-9000     | Coconut Oil | Gum, Glycerin               | mg/L             | 650     |
+
+
+
+#### Observations
+
+The presence of Jojoba Oil with Cetyl Alcohol resulted in a significant concentration of 200.5 ppm, implying a high presence of the alcohol component, potentially enhancing the texture. Vitamin E concentration in Jojoba Oil was recorded at 150.75 ug/mL, which reflects its typical content as an antioxidant.
+
+
+
+### Table 3: Physical Properties - Viscosity
+
+
+
+| Instrument             | Base Oil    | Additives                   | Measurement Type | Value    |
+
+|------------------------|-------------|-----------------------------|------------------|----------|
+
+| Viscometer VS-300      | Coconut Oil | Beeswax, Vitamin E          | cP               | 4860.96  |
+
+| Viscometer VS-300      | Coconut Oil | Gum, Vitamin E              | cP               | 5168.6   |
+
+| Viscometer VS-300      | Almond Oil  | Beeswax, Vitamin E          | cP               | 7115.64  |
+
+
+
+#### Observations
+
+Coconut Oil mixtures displayed varied viscosities based on additive selection, with the Beeswax combination slightly denser than the gum mixture. Notably, Almond Oil with Beeswax exhibited the highest viscosity, indicative of a thickening effect possibly due to crystallinity induced by beeswax.
+
+
+
+### Irrelevant Observations
+
+During testing, an unusual increase in ambient temperature was observed, a factor which seemed unrelated to the instrumentation itself. Additionally, a minor software glitch in the spectrometer caused a temporary data delay, which was resolved without affecting the integrity of results.
+
+
+
+## Conclusion
+
+This study provides comprehensive insights into the effects of various additives on oil-based mixtures as reflected in their optical, chemical, and physical properties. The use of advanced analytical equipment enabled accurate measurements that guide future formulation developments. Despite certain anomalies, the gathered data remains robust.
+
+
+
+Further analysis and more controlled experiments are recommended to explore the synergistic effects of these compositions on end-user applications.
+
+
+Tables:

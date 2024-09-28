@@ -1,0 +1,178 @@
+# Laboratory Report: Analysis of Oil Samples with Various Additives
+
+
+
+## Report ID: 1755
+
+
+
+### Introduction
+
+
+
+In this experiment, we performed a comprehensive analysis on several oil samples combined with different additives using multiple analytical techniques. The objective was to measure the chemical and physical properties of these complex mixtures. Each mixture was analyzed using the following instruments: Gas Chromatograph GC-2010, Four Ball FB-1000, NMR Spectrometer NMR-500, Liquid Chromatograph LC-400, Titrator T-905, and Viscometer VS-300.
+
+
+
+### Methodology
+
+
+
+A detailed procedure involved preparing each test sample by mixing base oils (Coconut Oil, Jojoba Oil, Almond Oil) with varying additives (Vitamin E, Beeswax, Gum, Glycerin, Cetyl Alcohol). Each sample underwent a series of tests designed to evaluate its purity, viscosity, reactivity, and wear resistance.
+
+
+
+### Observations and Results
+
+
+
+#### Table 1: Gas Chromatograph Analysis
+
+
+
+| Sample Mixture                          | Component | Concentration (ppm) |
+
+|:----------------------------------------|:---------|----------------------:|
+
+| Coconut Oil with Vitamin E              | –        |                   450 |
+
+| Coconut Oil with Beeswax                | –        |                   780 |
+
+| Coconut Oil                             | –        |                   900 |
+
+| Jojoba Oil with Cetyl Alcohol, Glycerin | –        |                   650 |
+
+| Almond Oil with Gum                     | –        |                   300 |
+
+| Almond Oil                              | –        |                   400 |
+
+
+
+The GC analysis underlined the presence and concentration of different chemical compounds within each mixture. Interestingly, the sample containing Coconut Oil and Beeswax showed a relatively high concentration of volatile components compared to others.
+
+
+
+#### Table 2: Four Ball Wear Test
+
+
+
+| Sample Mixture                           | Wear Scar Diameter (mm) |
+
+|:-----------------------------------------|--------------------------:|
+
+| Coconut Oil with Vitamin E               |                      0.725 |
+
+| Coconut Oil with Beeswax                 |                      0.460 |
+
+| Coconut Oil                              |                      0.350 |
+
+| Jojoba Oil with Cetyl Alcohol, Glycerin  |                      0.820 |
+
+| Almond Oil with Gum                      |                      0.560 |
+
+| Coconut Oil with Glycerin                |                      0.480 |
+
+
+
+The Four Ball Wear Tester revealed different wear properties across samples. Particularly, Coconut Oil combined with Vitamin E exhibited a larger wear scar, signaling potential decrease in wear resistance.
+
+
+
+#### Table 3: NMR Spectroscopy Data
+
+
+
+| Sample Mixture                           | Chemical Shift (ppm) |
+
+|:-----------------------------------------|----------------------:|
+
+| Coconut Oil with Vitamin E               |                    18 |
+
+| Coconut Oil with Beeswax                 |                    12 |
+
+| Coconut Oil                              |                     6 |
+
+| Jojoba Oil with Cetyl Alcohol, Glycerin  |                    14 |
+
+| Almond Oil with Gum                      |                     7 |
+
+| Coconut Oil with Glycerin                |                     9 |
+
+
+
+NMR spectroscopy results indicated varying chemical environments among the hydrogen atoms in the samples. The shift for Coconut Oil with Vitamin E was notably pronounced, hinting at significant molecular interactions.
+
+
+
+#### Table 4: Liquid Chromatograph Results
+
+
+
+| Sample Mixture                            | Concentration (ug/mL) |
+
+|:------------------------------------------|-----------------------:|
+
+| Coconut Oil with Vitamin E                |                   150 |
+
+| Coconut Oil with Beeswax                  |                   200 |
+
+| Coconut Oil                               |                    50 |
+
+| Jojoba Oil with Cetyl Alcohol, Glycerin   |                   450 |
+
+| Almond Oil with Gum                       |                   220 |
+
+| Coconut Oil with Glycerin                 |                   350 |
+
+
+
+Liquid Chromatography analysis showed variations in the concentration of solubilized components, emphasizing a much higher content of dissolved substances in the Jojoba Oil and Cetyl Alcohol mixture.
+
+
+
+#### Table 5: Titration Analysis
+
+
+
+| Sample Mixture                            | Molarity (M)  |
+
+|:------------------------------------------|--------------:|
+
+| Coconut Oil with Vitamin E                |          0.005 |
+
+| Coconut Oil with Beeswax                  |          0.008 |
+
+| Coconut Oil                               |          0.010 |
+
+| Jojoba Oil with Cetyl Alcohol, Glycerin   |          0.003 |
+
+| Almond Oil with Gum                       |          0.006 |
+
+| Coconut Oil with Glycerin                 |          0.004 |
+
+
+
+Titration revealed the reactive component presence across the mixtures, with the highest concentration seen in Coconut Oil alone, indicative of significant reactive groups.
+
+
+
+#### Additional Observations
+
+
+
+- When measuring viscosities, we recorded the following values: 
+
+  - Jojoba Oil with Vitamin E had a viscosity of 2593.57 cP.
+
+  - Coconut Oil with Gum recorded a viscosity of 5312.46 cP, illustrating its thick, syrupy nature.
+
+
+
+### Conclusion
+
+
+
+Each sample exhibited distinct physical and chemical properties based on its composition. The analytical data provided critical insights, such as reactivity, viscosity, and wear resistance, essential for industrial and commercial applications. The complexity of the mixtures presented a challenging but rewarding analysis, highlighting the unique characteristics inherent to the individual compositions. Further studies could explore long-term stability and reactivity under different environmental conditions.
+
+
+Tables:

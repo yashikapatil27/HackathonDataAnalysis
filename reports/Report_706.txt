@@ -1,0 +1,248 @@
+# Lab Report 706: Analysis of Personal Care Product Ingredients
+
+
+
+## Introduction
+
+
+
+This report summarizes the findings of various analyses conducted on proprietary mixtures of personal care ingredients. The tests involved the application of diverse instrumentation techniques to assess chemical and physical properties. Each mixture includes specific ingredient combinations, and the report details observations, measurements, and results for these mixtures. The analysis was performed using HPLC, Ion Chromatography, PCR, Mass Spectrometry, Rheometry, and Viscosity Measurement.
+
+
+
+## Test Procedures and Observations
+
+
+
+### **1. High-Performance Liquid Chromatography (HPLC)**
+
+
+
+#### Equipment: HPLC-9000
+
+##### Observations:
+
+The chromatographic run at the HPLC-9000 was performed efficiently with minimal baseline noise, indicating stable separation conditions for analytical evaluation.
+
+
+
+1. **Sample: Almond Oil, Beeswax, Vitamin E**
+
+   - Result: 450.32 mg/L
+
+   - Observations: Distinct peaks at retention times corresponding to each component with an integration error below 1%.
+
+
+
+2. **Sample: Coconut Oil, Glycerin**
+
+   - Result: 250.11 mg/L
+
+   - Observations: The absence of Vitamin E in this sample was confirmed through lack of corresponding peak.
+
+
+
+### **2. Ion Chromatography**
+
+
+
+#### Equipment: IC-2100
+
+##### Observations:
+
+The ion chromatographic analysis focused on determining the ionic content with sensitivity to trace levels.
+
+
+
+**Samples Tested:**
+
+
+
+- **Jojoba Oil, Beeswax, Glycerin**
+
+  - Concentration: 10.45 mM
+
+  - Observations: Electroconductivity was consistent with expected theoretical values, confirming sample purity.
+
+
+
+- **Coconut Oil, Cetyl Alcohol, Vitamin E**
+
+  - Concentration: 5.49 mM
+
+  - Observations: Satisfactory chromatogram after optimization of mobile phase pH.
+
+
+
+### **3. Polymerase Chain Reaction (PCR)**
+
+
+
+#### Equipment: PCR-96
+
+##### Observations:
+
+Amplification cycles were carefully monitored to avoid unspecific binding, and results showed clear differentiation between the tested samples.
+
+
+
+- **Sample: Almond Oil, Cetyl Alcohol, Glycerin**
+
+  - Cycle Threshold (Ct): 23.7
+
+  - Observations: Sharp amplification, indicative of the presence of glycerol genes.
+
+
+
+- **Sample: Jojoba Oil**
+
+  - Cycle Threshold (Ct): 32.5
+
+  - Observations: Late amplification cycle suggests less abundant target genes.
+
+
+
+### **4. Mass Spectrometry**
+
+
+
+#### Equipment: MS-20
+
+##### Observations:
+
+Multiple charged ion peaks in the mass spectra required extensive deconvolution for accurate mass determination.
+
+
+
+- **Sample: Coconut Oil, Gum, Vitamin E**
+
+  - m/z: 1500.55
+
+  - Observations: Peak fragmentation patterns confirmed emulsion stability.
+
+
+
+- **Sample: Jojoba Oil, Gum**
+
+  - m/z: 1200.85
+
+  - Observations: The absence of Vitamin E confirmed through specific ion missing.
+
+
+
+### **5. Rheometry**
+
+
+
+#### Equipment: R-4500
+
+##### Observations:
+
+The shear-dependent viscosity ranged consistently across the test samples, allowing for viscosity moduli characterization.
+
+
+
+- **Sample: Almond Oil, Beeswax, Glycerin**
+
+  - Viscosity: 75.2 Pa-s
+
+  - Observations: Uniform shear thinning behavior across temperature variations.
+
+
+
+- **Sample: Jojoba Oil, Beeswax**
+
+  - Viscosity: 250.7 Pa-s
+
+  - Observations: Elevated viscosity suggests potential crosslinking in constituents.
+
+
+
+### **6. Viscosity Measurement**
+
+
+
+#### Equipment: Viscometer VS-300
+
+##### Observations:
+
+Viscosity readings were influenced by shear rate, further validated by calibrating rotational speeds.
+
+
+
+- **Sample: Coconut Oil, Cetyl Alcohol, Glycerin**
+
+  - Viscosity: 5245.46 cP
+
+  - Observations: Indicates addition of thickening agents.
+
+
+
+- **Sample: Jojoba Oil, Vitamin E**
+
+  - Viscosity: 2597.18 cP
+
+  - Observations: Smooth flow curve with minimal fluctuation.
+
+
+
+## Tables of Results
+
+
+
+### Table 1: HPLC and Ion Chromatography Results
+
+
+
+| Mixture                         | Instrument        | Result   | Unit  |
+
+|---------------------------------|-------------------|----------|-------|
+
+| Almond Oil, Beeswax, Vitamin E  | HPLC-9000         | 450.32   | mg/L  |
+
+| Coconut Oil, Glycerin           | HPLC-9000         | 250.11   | mg/L  |
+
+| Jojoba Oil, Beeswax, Glycerin   | IC-2100           | 10.45    | mM    |
+
+| Coconut Oil, Cetyl Alcohol, Vit E | IC-2100         | 5.49     | mM    |
+
+
+
+### Table 2: Other Instrumental Measurements
+
+
+
+| Mixture                         | Instrument    | Result   | Unit   |
+
+|---------------------------------|---------------|----------|--------|
+
+| Almond Oil, Cetyl Alcohol, Glyc | PCR-96        | 23.7     | Ct     |
+
+| Jojoba Oil                      | PCR-96        | 32.5     | Ct     |
+
+| Coconut Oil, Gum, Vitamin E     | MS-20         | 1500.55  | m/z    |
+
+| Jojoba Oil, Gum                 | MS-20         | 1200.85  | m/z    |
+
+| Almond Oil, Beeswax, Glycerin   | R-4500        | 75.2     | Pa-s   |
+
+| Jojoba Oil, Beeswax             | R-4500        | 250.7    | Pa-s   |
+
+| Coconut Oil, Cetyl Alcohol, Glyc | VS-300       | 5245.46  | cP     |
+
+| Jojoba Oil, Vitamin E           | VS-300        | 2597.18  | cP     |
+
+
+
+## Conclusions
+
+
+
+Each mixture displayed unique characteristics across different analytical platforms, revealing how ingredient interactions affect both chemical and physical properties. This report underscores the necessity of multi-instrumental approaches in comprehending complex formulations. Further research should investigate the stability and performance of such mixtures in real-world applications.
+
+
+
+*Note: Some data may not correspond directly to physical standards but was retained for comprehensive assessment. Some results should be interpreted with caution due to potential method deviations.*
+
+
+Tables:

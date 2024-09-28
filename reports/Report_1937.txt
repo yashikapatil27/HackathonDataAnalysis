@@ -1,0 +1,212 @@
+---
+
+
+
+**Lab Report**
+
+
+
+**Title:** Analysis of Various Mixtures Using Experimental Techniques
+
+
+
+**Report ID:** Report_1937
+
+
+
+**Introduction:**
+
+The objective of this experiment was to analyze different mixtures of cosmetic ingredients using advanced laboratory techniques. Each mixture contained specific combinations of oils, waxes, and other additives. We utilized various instruments such as the PCR Machine, Rheometer, Microplate Reader, FTIR Spectrometer, Mass Spectrometer, and Viscometer to measure properties including cycle threshold, viscosity, optical density, absorbance, mass-to-charge ratio, and flow characteristics.
+
+
+
+**Materials & Methods:**
+
+
+
+1. **PCR Analysis:**
+
+   - **Machine Used:** PCR Machine PCR-96
+
+   - **Mixtures:** 
+
+     - Jojoba Oil, Beeswax, Glycerin 
+
+     - Jojoba Oil, Cetyl Alcohol, Vitamin E
+
+   - **Measurement:** Cycle Threshold (Ct)
+
+   - **General Procedure:** The mixtures were prepared and subjected to amplification cycles. The Ct measures the amount of target nucleic acid in the sample.
+
+
+
+2. **Rheological Analysis:**
+
+   - **Instrument:** Rheometer R-4500
+
+   - **Mixtures:**
+
+     - Coconut Oil, Beeswax, Glycerin
+
+     - Jojoba Oil, Gum, Vitamin E
+
+   - **Measurement:** Viscosity (Pa-s)
+
+
+
+3. **Spectrophotometric Analysis:**
+
+   - **Device:** Microplate Reader MRX
+
+   - **Mixtures:**
+
+     - Jojoba Oil, Gum,
+
+     - Coconut Oil, Vitamin E
+
+   - **Measurement:** Optical Density (OD)
+
+
+
+4. **Spectroscopy Analysis:**
+
+   - **Instrument:** FTIR Spectrometer FTIR-8400
+
+   - **Mixture:** Jojoba Oil, Beeswax,
+
+   - **Measurement:** Wavenumber (1/cm)
+
+
+
+5. **Mass Spectrometry Analysis:**
+
+   - **Device:** Mass Spectrometer MS-20
+
+   - **Mixture:** Almond Oil, Beeswax, Glycerin
+
+   - **Measurement:** Mass-to-Charge Ratio (m/z)
+
+
+
+6. **Viscosity Analysis:**
+
+   - **Device:** Viscometer VS-300
+
+   - **Mixtures:**
+
+     - Almond Oil, Gum,
+
+     - Almond Oil, Glycerin,
+
+   - **Measurement:** Viscosity (cP)
+
+
+
+---
+
+
+
+**Results:**
+
+
+
+| Mixture (Compounds)                      | Instrument/Device   | Measurement | Value   | Unit  |
+
+|------------------------------------------|---------------------|-------------|---------|-------|
+
+| Jojoba Oil, Beeswax, Glycerin            | PCR Machine PCR-96  | Ct          | 25      |       |
+
+| Coconut Oil, Beeswax, Glycerin           | Rheometer R-4500    | Viscosity   | 120     | Pa-s  |
+
+| Jojoba Oil, Gum                          | Microplate Reader MRX| OD          | 2.3     |       |
+
+| Jojoba Oil, Beeswax                      | FTIR Spectrometer   | Wavenumber  | 950     | 1/cm  |
+
+| Almond Oil, Beeswax, Glycerin            | Mass Spectrometer   | m/z         | 850     | m/z   |
+
+| Jojoba Oil, Cetyl Alcohol, Vitamin E     | PCR Machine PCR-96  | Ct          | 30      |       |
+
+| Jojoba Oil, Gum, Vitamin E               | Rheometer R-4500    | Viscosity   | 650     | Pa-s  |
+
+| Coconut Oil, Vitamin E                   | Microplate Reader MRX| OD          | 3.8     |       |
+
+| Almond Oil, Gum                          | Viscometer VS-300   | Viscosity   | 7620.21 | cP    |
+
+| Almond Oil, Glycerin                     | Viscometer VS-300   | Viscosity   | 7506.31 | cP    |
+
+
+
+---
+
+
+
+**Observations:**
+
+
+
+1. **PCR Analysis:**
+
+   - The Ct value varied between 25 and 30 cycles, indicating differing levels of amplification efficiency based on mixture composition.
+
+   
+
+2. **Rheometer Findings:**
+
+   - Viscosity values showed significant differences, with mixtures containing Gum and Vitamin E exhibiting increased resistance to flow (650 Pa-s).
+
+
+
+3. **Microplate Reader Insights:**
+
+   - OD readings suggest that Jojoba Oil mixed with Gum results in lower absorbance compared to Coconut Oil with Vitamin E.
+
+
+
+4. **FTIR Data:**
+
+   - The peak observed at 950 1/cm might be indicative of specific functional groups present in Jojoba Oil mixtures.
+
+
+
+5. **Mass Spectrometry Results:**
+
+   - The m/z value of 850 for Almond Oil mixtures suggests a specific ionization pattern typical to the combined components.
+
+
+
+6. **Viscometer Observations:**
+
+   - Almond Oil based mixtures showed a notably high cP value, with the Gum combination exceeding that for Glycerin.
+
+
+
+---
+
+
+
+**Irrelevant Scattered Notes:**
+
+- The room temperature was kept at 22°C, irrelevant to outcomes.
+
+- Light in the room was adjusted to 500 lux during mass spectrometry.
+
+- A calibration error was noticed during the initial phase of experiments, but it was subsequently corrected.
+
+
+
+**Conclusion:**
+
+Overall, the results demonstrate that the composition of each mixture significantly influences its measurable characteristics across various instruments. These findings may guide future formulation developments in cosmetic research.
+
+
+
+**Appendices:**
+
+Data logs, calibration certificates, and raw measurement logs are available upon request.
+
+
+
+---
+
+
+Tables:

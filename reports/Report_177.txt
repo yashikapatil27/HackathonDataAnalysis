@@ -1,0 +1,166 @@
+# Laboratory Report 177
+
+
+
+## Introduction
+
+
+
+This report presents the results and detailed analysis of multiple experiments conducted on various oil mixtures utilizing advanced chromatographic and analytical techniques. The objective of the study was to assess the chemical compositions, interactions, and properties of different oil mixtures and additives.
+
+
+
+### Overview of Samples
+
+
+
+The mixtures tested include:
+
+
+
+1. **Coconut Oil, Gum, Vitamin E**
+
+2. **Coconut Oil, Cetyl Alcohol, Glycerin**
+
+3. **Jojoba Oil, Gum, Glycerin**
+
+4. **Almond Oil, Beeswax, Vitamin E**
+
+
+
+## Methods and Instruments
+
+
+
+The experiments involved a variety of sophisticated instruments:
+
+
+
+- **Gas Chromatograph GC-2010**
+
+- **Spectrometer Alpha-300**
+
+- **Liquid Chromatograph LC-400**
+
+- **Conductivity Meter CM-215**
+
+- **Rheometer R-4500**
+
+- **pH Meter PH-700**
+
+- **HPLC System HPLC-9000**
+
+
+
+### Observations
+
+
+
+The chromatographic profiles, especially those detected by the **HPLC System** and **Gas Chromatograph**, were distinct for each mixture, revealing differential retention times and peak areas.
+
+
+
+Random observation: The lab temperature was a consistent 21°C.
+
+
+
+## Tables of Collected Data
+
+
+
+### Table 1: Chromatographic Analysis
+
+
+
+| Instrument                  | Mixture                           | Measurement | Unit   |
+
+|-----------------------------|-----------------------------------|-------------|--------|
+
+| Gas Chromatograph GC-2010   | Coconut Oil, Gum, Vitamin E       | 550          | ppm    |
+
+| Liquid Chromatograph LC-400 | Almond Oil, Beeswax, Vitamin E    | 330          | ug/mL  |
+
+| Gas Chromatograph GC-2010   | Coconut Oil, Gum, Glycerin        | 600          | ppm    |
+
+
+
+### Note: Some unrelated figures were scattered around, but are not included in this table.
+
+
+
+### Table 2: Spectrometric and Conductivity Analysis
+
+
+
+| Instrument                  | Mixture                           | Wavelength/Conductivity | Unit   |
+
+|-----------------------------|-----------------------------------|-------------------------|--------|
+
+| Spectrometer Alpha-300      | Jojoba Oil, Cetyl Alcohol, Vitamin E  | 980                     | nm     |
+
+| Conductivity Meter CM-215   | Coconut Oil, Cetyl Alcohol, Glycerin  | 1750                    | uS/cm  |
+
+| Conductivity Meter CM-215   | Jojoba Oil, Gum, Glycerin         | 1500                    | uS/cm  |
+
+
+
+### Complex Data Set:
+
+
+
+- The **Conductivity Meter** data for mixtures containing glycerin showed increased conductivity across all measurements.
+
+
+
+## Complex Descriptions and Detailed Results
+
+
+
+### Rheological Properties
+
+
+
+The rheological behavior was examined using the **Rheometer R-4500**. The viscosity of **Almond Oil, Beeswax, Vitamin E** was found to be 300 Pa-s, indicating a semi-solid consistency, ideal for cosmetic formulations. Conversely, when **Jojoba Oil, Gum, Glycerin** was tested, the measurement showed a higher viscosity of 450 Pa-s, suggesting a more gel-like structure.
+
+
+
+### pH Value Analysis
+
+
+
+In experiments with the **pH Meter PH-700**, variances in acidity and alkalinity were observed. The **Jojoba Oil, Cetyl Alcohol, Vitamin E** mixture exhibited a relatively neutral pH of 5, which is optimal for skin applications. Conversely, the **Coconut Oil, Gum, Vitamin E** mixture was slightly more alkaline with a pH of 6.5.
+
+
+
+### High-Performance Liquid Chromatography (HPLC)
+
+
+
+The **HPLC System HPLC-9000** provided a quantitative analysis of the **Coconut Oil, Gum, Vitamin E** mixture, showing a concentration of 40 mg/L. For the **Jojoba Oil, Cetyl Alcohol, Vitamin E** mixture, the concentration was markedly lower at 22 mg/L.
+
+
+
+## Irrelevant Information
+
+
+
+In a separate, unrelated analysis involving different equipment, a concentration of 5000 mg/L was observed, although this data does not pertain to the current set of test samples.
+
+
+
+## Conclusion
+
+
+
+Each mixture demonstrated unique chemical properties that are highly significant for theoretical research and practical applications. The comprehensive use of diverse analytical techniques allows us to encapsulate a broad spectrum of information regarding the formulations' characteristics.
+
+
+
+Further studies are recommended to explore the impact of environmental conditions on these measurements. This report has consolidated the intricate results into clear, tangible insights, advancing our understanding of oil mixture behavior.
+
+
+
+Remember: All data depicted aligns with the inherent variability typical of compound testing procedures.
+
+
+Tables:

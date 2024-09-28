@@ -1,0 +1,176 @@
+# Lab Report: Analysis of Various Oils and Additives
+
+
+
+## Introduction
+
+The primary objective of this lab report is to analyze different mixtures composed of oils and additives using a variety of advanced instrumental techniques. The instruments employed in this study include a mass spectrometer, high-performance liquid chromatograph, and more. The mixtures tested consist of ingredients such as almond oil, jojoba oil, beeswax, and glycerin. This report outlines the observations, measurements, and results of the tests conducted on these mixtures.
+
+
+
+### Summary of Test Samples
+
+- **Almond Oil Mixture**: Composed of almond oil with additives like cetyl alcohol and glycerin.
+
+- **Jojoba Oil Mixture**: Includes jojoba oil, beeswax, and glycerin.
+
+- **Coconut Oil Mixture**: Comprised of coconut oil with gum and glycerin.
+
+
+
+## Methods and Instrumentation
+
+
+
+1. **Mass Spectrometer MS-20**: 
+
+   - Used for detecting the molecular weight distribution of the almond oil mixture.
+
+   - Measurement: Observed a main peak at 75 m/z, indicative of a key component in the almond oil.
+
+
+
+2. **Microplate Reader MRX**:
+
+   - Utilized to assess the optical density of the almond oil and glycerin blend.
+
+   - Result: An optical density (OD) of 2.4, suggesting a moderate concentration of light-absorbing components.
+
+
+
+3. **Centrifuge X100**:
+
+   - Applied to separate phases in the almond oil and cetyl alcohol mixture.
+
+   - Operating speed: 5000 RPM, effectively segregated components based on density differences.
+
+
+
+4. **Ion Chromatograph IC-2100**:
+
+   - Employed to analyze ion concentration in the almond oil mixture.
+
+   - Outcome: Detected a concentration of 5.6 mM for glycerin.
+
+
+
+5. **PCR Machine PCR-96**:
+
+   - Conducted amplification cycles on the jojoba oil, beeswax, and glycerin mixture.
+
+   - Observations: Produced a cycle threshold (Ct) value of 32, hinting at the presence of target sequences in significant quantity.
+
+
+
+6. **Titrator T-905**:
+
+   - Used to determine the molarity of acids in coconut oil with gum mixture.
+
+   - Result: A low concentration measured at 0.008 M.
+
+
+
+7. **X-Ray Diffractometer XRD-6000**:
+
+   - Deployed for structural analysis of the almond oil complex.
+
+   - Measurement: Recorded a diffraction pattern at 140°C, indicating crystalline formations in the presence of additives.
+
+
+
+8. **HPLC System HPLC-9000**:
+
+   - Utilized for quantifying components in the jojoba oil mixture.
+
+   - Reading: Detected glycerin at 75 mg/L, showing substantial solubility in the mix.
+
+
+
+9. **NMR Spectrometer NMR-500**:
+
+   - Employed to analyze chemical shifts in the coconut oil with gum.
+
+   - Result: Highlighted peaks at 12 ppm, consistent with expected molecular interactions.
+
+
+
+10. **Viscometer VS-300**:
+
+    - Used to ascertain viscosity in both jojoba and coconut oil mixtures.
+
+    - Observation: Jojoba Oil with Gum presented a viscosity of 1923.75 cP, whereas Coconut Oil with Glycerin was more viscous at 5150.79 cP.
+
+
+
+## Detailed Observations and Results
+
+
+
+### Almond Oil Mixture
+
+
+
+| Instrument                  | Measurement  | Unit  |
+
+|-----------------------------|--------------|-------|
+
+| Mass Spectrometer MS-20     | 75           | m/z   |
+
+| Microplate Reader MRX       | 2.4          | OD    |
+
+| Centrifuge X100             | 5000         | RPM   |
+
+| Ion Chromatograph IC-2100   | 5.6          | mM    |
+
+| X-Ray Diffractometer XRD-6000| 140         | °C    |
+
+
+
+### Jojoba Oil Mixture
+
+
+
+| Instrument                | Measurement  | Unit  |
+
+|---------------------------|--------------|-------|
+
+| PCR Machine PCR-96        | 32           | Ct    |
+
+| HPLC System HPLC-9000     | 75           | mg/L  |
+
+| Viscometer VS-300         | 1923.75      | cP    |
+
+
+
+### Coconut Oil Mixture
+
+
+
+| Instrument                | Measurement  | Unit  |
+
+|---------------------------|--------------|-------|
+
+| Titrator T-905            | 0.008        | M     |
+
+| NMR Spectrometer NMR-500  | 12           | ppm   |
+
+| Viscometer VS-300         | 5150.79      | cP    |
+
+
+
+## Discussion
+
+The analysis of various mixtures revealed several key findings. The almond oil mixture, subjected to different techniques, displayed intermediate levels of molecular weight components and moderate viscosity. The jojoba oil blend, rich with beeswax, showed typical properties supporting its role in formulations requiring moderate viscosity and robust chemical stability as observed in PCR analysis.
+
+
+
+In contrast, the coconut oil mixtures showcased lower molarity of acids yet retained high viscosity, which can be attributed to the interaction between oil components and glycerin or gum. Such properties render it suitable for applications necessitating long-lasting film formation.
+
+
+
+## Conclusion
+
+Through a combination of sophisticated analytical techniques, this study thoroughly characterizes intricate properties of the tested oil blends. These results provide valuable insights for future formulation development in industries ranging from cosmetics to nutritional sectors.
+
+
+Tables:
