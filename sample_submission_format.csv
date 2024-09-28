@@ -1,0 +1,5 @@
+report_id, machine_id, product1_id, product2_id, product3_id, result, unit
+1, 0, 0,,,10, 0
+1, 4, 2,1,,30, 6
+2, 0, 3,4,7,50, 0
+2, 8, 1,"",9,10, 19

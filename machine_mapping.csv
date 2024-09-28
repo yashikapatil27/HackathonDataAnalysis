@@ -1,0 +1,21 @@
+machine_id,machine_name
+0,Centrifuge X100
+1,Spectrometer Alpha-300
+2,Thermocycler TC-5000
+3,Microplate Reader MRX
+4,Gas Chromatograph GC-2010
+5,Liquid Chromatograph LC-400
+6,Mass Spectrometer MS-20
+7,pH Meter PH-700
+8,Conductivity Meter CM-215
+9,UV-Vis Spectrophotometer UV-2600
+10,HPLC System HPLC-9000
+11,FTIR Spectrometer FTIR-8400
+12,NMR Spectrometer NMR-500
+13,X-Ray Diffractometer XRD-6000
+14,Rheometer R-4500
+15,Titrator T-905
+16,PCR Machine PCR-96
+17,Ion Chromatograph IC-2100
+18,Four Ball FB-1000
+19,Viscometer VS-300
