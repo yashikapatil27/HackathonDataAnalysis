@@ -1,0 +1,23 @@
+Here are the tables extracted from the text in CSV format:
+
+### Table 1: Summary of Instrumentation and Sample Composition
+
+```csv
+Instrument,Ingredient Mixture,Measurement,Value,Unit
+Titrator T-905,"Coconut Oil, Beeswax, Vitamin E",Concentration,3.452,M
+Liquid Chromatograph LC-400,"Almond Oil, Beeswax, Glycerin",Concentration,200.5,µg/mL
+PCR Machine PCR-96,"Coconut Oil, Cetyl Alcohol, Vitamin E",Cycle Threshold,25,Ct
+Microplate Reader MRX,"Almond Oil, Vitamin E",Optical Density,1.8,OD
+Ion Chromatograph IC-2100,"Jojoba Oil, Cetyl Alcohol",Concentration,0.045,mM
+```
+
+### Table 2: Miscellaneous Exploratory Data
+
+```csv
+Instrument,Mixture Components,Measurement,Value,Metric
+pH Meter PH-700,"Coconut Oil, Vitamin E",pH Level,5.6,pH
+Mass Spectrometer MS-20,"Almond Oil, Beeswax, Glycerin",Mass/Charge,700,m/z
+Four Ball FB-1000,"Jojoba Oil, Cetyl Alcohol",Wear Scar,0.550,mm
+Viscometer VS-300,"Almond Oil, Cetyl Alcohol",Viscosity,7436.4,cP
+Viscometer VS-300,"Almond Oil, Glycerin",Viscosity,7407.5,cP
+```

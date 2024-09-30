@@ -1,0 +1,23 @@
+Certainly! Here are the extracted tables in CSV format.
+
+**Table 1: Instrumental Analysis Data**
+
+```csv
+Instrument,Sample,Measured Property,Value,Unit
+Titrator T-905,"Jojoba Oil, Cetyl Alcohol",Molarity,5.216,M
+X-Ray Diffractometer XRD-6000,"Coconut Oil, Gum, Vitamin E",Peak Intensity,112,Counts
+NMR Spectrometer NMR-500,"Coconut Oil, Cetyl Alcohol, Vitamin E",Chemical Shift,15.3,ppm
+Microplate Reader MRX,"Almond Oil, Beeswax",Optical Density,2.8,OD
+Mass Spectrometer MS-20,"Coconut Oil, Cetyl Alcohol, Glycerin",Mass-to-Charge Ratio,1350,m/z
+Liquid Chromatograph LC-400,"Jojoba Oil, Cetyl Alcohol",Concentration,200.5,µg/mL
+Gas Chromatograph GC-2010,"Coconut Oil, Gum, Vitamin E",Concentration,750,ppm
+```
+
+**Table 2: Viscosity Measurements**
+
+```csv
+Sample,Viscosity,Unit
+"Almond Oil, Cetyl Alcohol, Vitamin E",7231.37,cP
+"Jojoba Oil, Gum, Vitamin E",2043.37,cP
+"Coconut Oil, Cetyl Alcohol",5071.03,cP
+```

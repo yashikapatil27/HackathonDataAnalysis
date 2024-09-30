@@ -1,0 +1,23 @@
+Certainly! Here are the extracted tables in CSV format:
+
+### Table 1: Rheological and Spectroscopic Measurements
+```csv
+Sample ID,Instrument,Composition,Value,Unit
+Report_77_1,Rheometer R-4500,Jojoba Oil, Beeswax, Vitamin E,450,Pa-s
+Report_77_2,Viscometer VS-300,Coconut Oil, Beeswax, Vitamin E,4888.54,cP
+Report_77_3,UV-Vis Spectrophotometer UV-2600,Jojoba Oil,2.3,Abs
+```
+
+### Table 2: Thermal and Ionic Measurements
+```csv
+Sample ID,Instrument,Composition,Value,Unit
+Report_77_4,Thermocycler TC-5000,Almond Oil, Gum, Vitamin E,85,°C
+Report_77_5,Conductivity Meter CM-215,Jojoba Oil, Gum, Vitamin E,1800,uS/cm
+```
+
+### Table 3: Structural and Miscellaneous Measurements
+```csv
+Sample ID,Instrument,Composition,Value,Unit
+Report_77_6,NMR Spectrometer NMR-500,Jojoba Oil, Beeswax, Glycerin,10,ppm
+Report_77_7,pH Meter PH-700,Coconut Oil, Gum, Vitamin E,6.5,pH
+```

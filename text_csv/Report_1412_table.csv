@@ -1,0 +1,32 @@
+Here are the tables from the text in CSV format:
+
+### Table 1: Measurements for Coconut Oil Mixture
+```csv
+Instrument,Measurement,Unit
+Liquid Chromatograph,150.23,ug/mL
+Microplate Reader,2.5,OD
+Titrator,0.005,M
+```
+
+### Table 2: Measurements for Jojoba Oil Mixture
+```csv
+Instrument,Measurement,Unit
+PCR Machine,25,Ct
+Mass Spectrometer,1200,m/z
+Viscometer,2083.5,cP
+```
+
+### Table 3: Measurements for Almond Oil Mixture
+```csv
+Instrument,Measurement,Unit
+X-Ray Diffractometer,75.5,°C
+Conductivity Meter,550,uS/cm
+Viscometer,7158.08,cP
+```
+
+### Table 4: Mixed Data
+```csv
+Instrument,Measurement,Unit
+HPLC System,100.75,mg/L
+Rheometer,350.5,Pa-s
+```

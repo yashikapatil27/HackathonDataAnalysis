@@ -1,0 +1,19 @@
+```csv
+Table 1: Spectrophotometric Measurements
+Sample Mixture,Instrument,Measurement
+"Almond Oil, Gum",UV-2600,3.2 Abs
+"Coconut Oil, Gum, Glycerin",UV-2600,2.8 Abs
+
+Table 2: Chromatographic and Diffraction Analysis
+Sample Mixture,Instrument,Property
+"Almond Oil",LC-400,"250.5 ug/mL"
+"Almond Oil, Vitamin E",LC-400,"100.8 ug/mL"
+"Almond Oil, Cetyl Alcohol",XRD-6000,"120°C"
+"Jojoba Oil, Cetyl Alcohol, Glycerin",XRD-6000,"60°C"
+
+Table 3: Centrifugal and Viscosity Outcomes
+Sample Mixture,Instrument,Result
+"Almond Oil, Gum, Vitamin E",X100,"14500 RPM"
+"Jojoba Oil, Gum",VS-300,"1917.43 cP"
+"Jojoba Oil, Gum",VS-300,"1931.56 cP"
+```

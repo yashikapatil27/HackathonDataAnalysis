@@ -1,0 +1,39 @@
+Below are the tables extracted from the text in CSV format:
+
+**Table 1: Mass Spectrometry Analysis**
+
+```plaintext
+Sample Components,Instrument,Key Measurement,Unit
+"Jojoba Oil, Cetyl Alcohol, Glycerin",Mass Spectrometer MS-20,658.7,m/z
+```
+
+**Table 2: Liquid Chromatography Results**
+
+```plaintext
+Sample Components,Device,Measurement,Unit
+"Almond Oil, Beeswax, Vitamin E",Liquid Chromatograph LC-400,125.3,ug/mL
+```
+
+**Table 3: Spectroscopy and UV-Vis Readings**
+
+```plaintext
+Sample Components,Spectroscopy Device,Measurement,Wavelength/Absorbance
+"Almond Oil, Cetyl Alcohol",Spectrometer Alpha-300,365.0,nm
+"Almond Oil, Cetyl Alcohol",UV-Vis Spectrophotometer UV-2600,1.7,Abs
+```
+
+**Table 4: PCR and Thermocycling Data**
+
+```plaintext
+Sample Components,Machine,Measurement,Unit
+"Jojoba Oil, Glycerin",PCR Machine PCR-96,25.8,Ct
+"Jojoba Oil, Cetyl Alcohol, Glycerin",Thermocycler TC-5000,45.3,°C
+```
+
+**Viscosity Measurements**
+
+```plaintext
+Sample Components,Instrument,Viscosity,Unit
+"Jojoba Oil, Beeswax, Glycerin",Viscometer VS-300,2947.0,cP
+"Jojoba Oil, Cetyl Alcohol, Glycerin",Viscometer VS-300,2791.94,cP
+```

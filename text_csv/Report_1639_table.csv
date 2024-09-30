@@ -1,0 +1,10 @@
+```csv
+"Sample","Compound","Equipment","Measurement","Observations"
+"Almond Oil","Cetyl Alcohol","Spectrometer (Alpha-300)","650 nm","Peak absorption indicating the presence of cetyl alcohol."
+"Almond Oil","Gum and Glycerin","Rheometer (R-4500)","82.5 Pa-s","Unique viscosity profile suitable for emulsification."
+"Almond Oil","Unknown Factors","Centrifuge (X100)","12000 RPM","Rotational force highlighted suspension stability."
+"Coconut Oil","Vitamin E","Viscometer (VS-300)","4785.3 cP","High viscosity suitable for skin application."
+"Coconut Oil","Gum","UV-Vis Spectrophotometer (UV-2600)","1.2 Abs","Absorbance suggests non-uniform light distribution."
+"Jojoba Oil","Vitamin E","Ion Chromatograph (IC-2100)","23.4 mM","Consistency maintained across trials despite hyperpolarization."
+"Jojoba Oil","Heating Dynamics","Thermocycler (TC-5000)","37°C","Stable reaction environment consistent with previous tests."
+```

@@ -1,0 +1,33 @@
+Here's the extracted information from the tables in CSV format:
+
+**Table 1: UV-Vis Spectrophotometer Data**
+
+```plaintext
+Sample ID,Instrument,Ingredients,Measurement,Unit
+UV-1,UV-Vis Spectrophotometer UV-2600,"Jojoba Oil, Cetyl Alcohol",1.8,Abs
+UV-2,UV-Vis Spectrophotometer UV-2600,"Coconut Oil, Vitamin E",1.2,Abs
+```
+
+**Table 2: Microplate Reader Data**
+
+```plaintext
+Sample ID,Instrument,Ingredients,Measurement,Unit
+MRX-1,Microplate Reader MRX,"Jojoba Oil, Beeswax, Glycerin",3.2,OD
+MRX-2,Microplate Reader MRX,"Almond Oil",2.8,OD
+```
+
+**Table 3: Ion Chromatograph Data**
+
+```plaintext
+Sample ID,Instrument,Ingredients,Measurement,Unit
+IC-1,Ion Chromatograph IC-2100,"Jojoba Oil, Vitamin E",0.025,mM
+```
+
+**Table 4: X-Ray Diffractometer and Additional Measurements**
+
+```plaintext
+Sample ID,Instrument,Ingredients,Measurement,Unit
+XRD-1,X-Ray Diffractometer XRD-6000,"Coconut Oil, Glycerin",90,C
+NMR-1,NMR Spectrometer NMR-500,"Jojoba Oil, Cetyl Alcohol",10,ppm
+FTIR-1,FTIR Spectrometer FTIR-8400,"Coconut Oil, Cetyl Alcohol, Vitamin E",1500,1/cm
+```

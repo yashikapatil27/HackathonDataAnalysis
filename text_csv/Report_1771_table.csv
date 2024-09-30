@@ -1,0 +1,24 @@
+```csv
+Table 1: pH and FTIR Results
+Sample Mixture,pH,Peak Wavenumber (1/cm),Comments
+Almond Oil, Gum, Glycerin,5.6,,Smooth emulsification
+Almond Oil, Cetyl Alcohol,6.4,,Stable formulation
+Jojoba Oil, Gum,,2850,Consistent dispersion
+Lime Juice, Chalk,Unknown,Irrelevant Data,Unstable Mousse Formation
+```
+
+```csv
+Table 2: Ionic Concentration and Rheological Measurements
+Sample Mixture,Ionic Concentration (mM),Rheological Property (Pa-s),Observation
+Almond Oil, Beeswax,0.025,,Slight phase separation
+Jojoba Oil, Beeswax, Glycerin,,450,Viscous elastic behavior
+Peppermint Extract, Clay,Random Data,Unresponsive Measures,Consistence Altered
+```
+
+```csv
+Table 3: Viscosity Measurements
+Sample Mixture,Viscosity (cP),Additional Notes
+Jojoba Oil, Vitamin E,2661.93,Stable under different temperatures
+Almond Oil, Beeswax, Glycerin,7106.48,High-thickening effect observed
+Rosewater, Honey,Mismatched Data,Aromatically Influencing
+```

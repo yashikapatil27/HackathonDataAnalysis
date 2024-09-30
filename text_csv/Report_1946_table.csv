@@ -1,0 +1,17 @@
+```csv
+# Table 1: X-Ray Diffraction Analysis
+Sample,Temperature (°C)
+"Almond Oil, Beeswax, Glycerin",75
+"Coconut Oil, Glycerin",160
+
+# Table 2: Titration Results
+Sample,Molarity (M)
+"Coconut Oil, Gum, Vitamin E",5.4
+"Almond Oil, Beeswax, Glycerin",0.6
+
+# Table 3: Chromatographic Analysis
+Sample,Concentration (ug/mL or mg/L)
+"Coconut Oil, Glycerin",300.5 ug/mL
+"Almond Oil, Gum, Vitamin E",420.3 ug/mL
+"Coconut Oil, Vitamin E",450 mg/L
+```

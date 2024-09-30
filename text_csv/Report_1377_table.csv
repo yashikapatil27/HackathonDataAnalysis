@@ -1,0 +1,36 @@
+Certainly! Here's the extracted table data in CSV format:
+
+### Table 1: Composition and Titration Results
+
+```csv
+Report ID,Equipment,Oil Base,Additives,Titration Result (M)
+Report_1377,Titrator T-905,Almond Oil,"Beeswax, Vitamin E",5.234
+Report_1377,Titrator T-905,Coconut Oil,"Beeswax, Glycerin",3.587
+```
+
+### Table 2: Tribology and Conductivity Measurements
+
+```csv
+Equipment,Oil Base,Additives,Wear Scar Diameter (mm),Conductivity (uS/cm)
+Four Ball FB-1000,Coconut Oil,"Cetyl Alcohol, Glycerin",0.750,850
+Four Ball FB-1000,Jojoba Oil,Beeswax,0.950,
+Conductivity Meter CM-215,Jojoba Oil,"Gum, Glycerin",,1450
+```
+
+### Table 3: Spectroscopy and Optical Density Analysis
+
+```csv
+Instrument,Oil Base,Additives,Peak (1/cm),Optical Density (OD)
+FTIR Spectrometer FTIR-8400,Almond Oil,"Gum, Glycerin",1750,
+FTIR Spectrometer FTIR-8400,Almond Oil,"Cetyl Alcohol, Vitamin E",2050,
+Microplate Reader MRX,Almond Oil,Beeswax,,2.6
+Microplate Reader MRX,Coconut Oil,Gum,,3.1
+```
+
+### Table 4: Viscosity Measurements
+
+```csv
+Equipment,Oil Base,Additives,Viscosity (cP)
+Viscometer VS-300,Almond Oil,,7487.37
+Viscometer VS-300,Almond Oil,Vitamin E,7609.35
+```

@@ -1,0 +1,20 @@
+Here are the extracted tables in CSV format:
+
+### Table 1: Structural and Textural Analysis
+
+```plaintext
+Equipment,Spectrum/Measurement,Observations
+PCR Machine PCR-96,Cyclic Temperature (Ct),"Consistent thermal behavior noted with Almond Oil, showcasing stable complex formation at a controlled 37 °C."
+XRD-6000,Crystallinity Analysis,"Jojoba Oil composition crystal lattice stability observed under a full 92 °C testing cycle."
+Rheometer R-4500,Viscosity (Pa-s),"Significant exertion observed in Almond Oil-Beeswax mixture, recording a viscosity value at 350.3 Pa-s."
+FTIR Spectrometer,Absorbance frequency (1/cm),"Coconut Oil showed primary absorption band at 2850 1/cm, indicating aliphatic stretch."
+```
+
+### Table 2: Chemical Composition Insights
+
+```plaintext
+Equipment,Measurement,Result,Units
+pH Meter PH-700,pH Value,6.8,pH
+Ion Chromatograph IC-2100,Ion Conc.,45.6,mM
+Conductivity CM-215,Conductivity,1600,uS/cm
+```

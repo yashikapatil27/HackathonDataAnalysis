@@ -1,0 +1,17 @@
+```csv
+Table 1: Optical and Physical Measurements
+Equipment,Sample Ingredients,Measurement,Unit
+PCR Machine PCR-96,"Jojoba Oil, Cetyl Alcohol, Vitamin E",25,Ct
+FTIR Spectrometer FTIR-84,"Coconut Oil, Cetyl Alcohol, Glycerin",3500,1/cm
+Microplate Reader MRX,"Jojoba Oil",2.1,OD
+Conductivity Meter CM-215,"Coconut Oil, Gum",1500,uS/cm
+Four Ball Tester FB-1000,"Jojoba Oil, Beeswax",0.500,mm
+X-Ray Diffractometer XRD-6000,"Jojoba Oil, Cetyl Alcohol, Vitamin E",45,C
+```
+
+```csv
+Table 2: Viscosity Analysis
+Equipment,Sample Ingredients,Measurement,Unit
+Viscometer VS-300,"Coconut Oil, Beeswax",4774.68,cP
+Viscometer VS-300,"Almond Oil, Gum, Glycerin",7752.04,cP
+```

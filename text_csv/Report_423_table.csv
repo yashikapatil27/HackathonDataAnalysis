@@ -1,0 +1,22 @@
+Certainly! Here are the extracted tables in CSV format:
+
+### Table 1: Spectroscopic and Chromatographic Analysis
+```csv
+Equipment,Mixture,Measurement Value,Unit
+FTIR Spectrometer FTIR-8400,"Almond Oil, Beeswax, Glycerin",2400,1/cm
+Microplate Reader MRX,"Jojoba Oil, Cetyl Alcohol",2.8,OD
+Liquid Chromatograph LC-400,"Coconut Oil, Beeswax",300,ug/mL
+HPLC System HPLC-9000,"Jojoba Oil, Glycerin",450,mg/L
+X-Ray Diffractometer XRD-6000,"Coconut Oil, Beeswax, Vitamin E",90,C
+Ion Chromatograph IC-2100,"Coconut Oil, Cetyl Alcohol, Vitamin E",75,mM
+```
+
+### Table 2: Further Spectroscopic Evaluation
+```csv
+Equipment,Mixture,Measurement Value,Unit
+FTIR Spectrometer FTIR-8400,"Almond Oil, Gum, Vitamin E",3500,1/cm
+Microplate Reader MRX,"Almond Oil, Vitamin E",1.5,OD
+Liquid Chromatograph LC-400,"Coconut Oil, Gum, Vitamin E",450,ug/mL
+HPLC System HPLC-9000,"Almond Oil, Gum, Glycerin",600,mg/L
+Viscometer VS-300,"Almond Oil, Gum, Vitamin E",7725.06,cP
+```

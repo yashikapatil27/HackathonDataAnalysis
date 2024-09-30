@@ -1,0 +1,12 @@
+```csv
+Instrument,Mixture,Measurement Type,Value
+MS-20,"Almond Oil, Cetyl Alcohol, Vitamin E",m/z,1500
+NMR-500,"Almond Oil, Vitamin E",ppm,15
+UV-2600,"Almond Oil, Cetyl Alcohol",Abs,2.7
+```
+
+```csv
+Instrument,Mixture,Measurement,Type,Value
+HPLC-9000,"Coconut Oil, Beeswax, Vitamin E",Concentration,mg/L,450
+VS-300,"Coconut Oil, Gum, Vitamin E",Viscosity,cP,5153.96
+```

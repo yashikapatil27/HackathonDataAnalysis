@@ -1,0 +1,23 @@
+Table 1: Ion Concentration
+```
+Sample Mixture,Measured Concentration,Unit
+Almond Oil + Gum,75.42,mM
+Jojoba Oil,65.32,mM
+```
+
+Table 2: NMR Chemical Shifts and UV Spectroscopy
+```
+Sample Mixture,Chemical Shift,Unit,Wavelength,Unit
+Jojoba Oil + Vitamin E,15.87,ppm,Not Available,N/A
+Jojoba Oil + Cetyl Alcohol,18.65,ppm,Not Available,N/A
+Coconut Oil + Glycerin,Not Available,N/A,350.12,nm
+```
+
+Table 3: Viscosity and Rheometric Data
+```
+Sample Mixture,Viscosity/Value,Unit
+Almond Oil + Beeswax + Glycerin,28.14,Ct
+Coconut Oil + Beeswax + Vitamin E,450.3,Pa-s
+Coconut Oil + Gum + Vitamin E,5248.06,cP
+Jojoba Oil + Cetyl Alcohol + Glycerin,2583.18,cP
+```

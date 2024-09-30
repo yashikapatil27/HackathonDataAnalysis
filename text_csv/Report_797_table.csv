@@ -1,0 +1,14 @@
+```plaintext
+Instrument,Ingredients,Measurement,Unit
+PCR Machine,"Almond Oil, Cetyl Alcohol, Glycerin",35,Ct
+X-Ray Diffractometer,"Jojoba Oil, Beeswax, Glycerin",120,C
+Ion Chromatograph,Almond Oil,15.5,mM
+Rheometer,"Jojoba Oil, Cetyl Alcohol, Glycerin",550,Pa-s
+Centrifuge,"Coconut Oil, Cetyl Alcohol, Vitamin E",13500,RPM
+FTIR Spectrometer,"Almond Oil, Beeswax",3000,1/cm
+NMR Spectrometer,"Almond Oil, Cetyl Alcohol, Glycerin",7.5,ppm
+HPLC System,"Jojoba Oil, Beeswax, Glycerin",500,mg/L
+UV-Vis Spectrophotometer,Almond Oil,2.8,Abs
+Viscometer,"Coconut Oil, Cetyl Alcohol, Glycerin",4866.9,cP
+Viscometer,Jojoba Oil,2387.13,cP
+```

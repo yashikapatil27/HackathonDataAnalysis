@@ -1,0 +1,14 @@
+```csv
+Table 1: Experimental Setup and Analytes
+Sample ID,Instrument,Ingredients,Measurement Value,Unit
+A,Spectrometer Alpha-300,Jojoba Oil, Almond Oil, Gum,250,nm
+B,X-Ray Diffractometer XRD-6000,Almond Oil, Gum, Vitamin E,90,C
+C,Four Ball FB-1000,Jojoba Oil, Beeswax,0.500,mm
+D,Gas Chromatograph GC-2010,Almond Oil, Beeswax, Glycerin,600,ppm
+E,Mass Spectrometer MS-20,Jojoba Oil, Gum, Vitamin E,1200,m/z
+F,Titrator T-905,Jojoba Oil, Glycerin,0.500,M
+G,pH Meter PH-700,Jojoba Oil,7.0,pH
+H,Ion Chromatograph IC-2100,Almond Oil, Gum,50,mM
+I,FTIR Spectrometer FTIR-8400,Jojoba Oil, Beeswax,1500,1/cm
+J,Viscometer VS-300,Almond Oil, Gum,7476.32,cP
+```

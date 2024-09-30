@@ -1,0 +1,50 @@
+Here's the extracted table data in CSV format:
+
+### Table 1 - NMR Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample A,NMR-500,Jojoba Oil; Beeswax,15,ppm
+```
+
+### Table 2 - Titration Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample B,T-905,Coconut Oil; Cetyl Alcohol; Glycerin,4.5,M
+```
+
+### Table 3 - Mass Spectrometry Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample C,MS-20,Coconut Oil; Gum; Glycerin,950,m/z
+```
+
+### Table 4 - Conductivity Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample D,CM-215,Jojoba Oil; Gum; Vitamin E,1200,uS/cm
+```
+
+### Table 5 - X-Ray Diffraction Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample E,XRD-6000,Almond Oil; Beeswax,90,°C
+```
+
+### Table 6 - Microplate Reading Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample F,MRX,Jojoba Oil; Cetyl Alcohol; Vitamin E,2.1,OD
+```
+
+### Table 7 - Ion Chromatography Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample G,IC-2100,Coconut Oil; Gum,50,mM
+```
+
+### Table 8 - Viscosity Data
+```plaintext
+Sample,Instrument,Components,Measurement,Unit
+Sample H,VS-300,Jojoba Oil; Gum,2040.67,cP
+Sample I,VS-300,Almond Oil; Gum; Vitamin E,7608.06,cP
+```

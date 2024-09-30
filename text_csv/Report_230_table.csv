@@ -1,0 +1,28 @@
+**Table 1: Chromatography and Spectrometry Analysis**
+
+```plaintext
+Test ID,Instrument,Mixture,Measurement,Unit
+1,LC-400,Almond Oil, Cetyl Alcohol, Glycerin,150.25,µg/mL
+2,Mass Spectrometer MS-20,Almond Oil,1450,m/z
+3,HPLC-9000,Almond Oil, Cetyl Alcohol, Vitamin E,500.75,mg/L
+4,IC-2100,Almond Oil,10.5,mM
+```
+
+**Table 2: Physical Properties and Miscellaneous Data**
+
+```plaintext
+Test ID,Instrument,Mixture,Measurement,Unit
+5,Centrifuge X100,Coconut Oil, Beeswax, Vitamin E,12000,RPM
+6,CM-215,Jojoba Oil, Glycerin,800,µS/cm
+7,MRX,Coconut Oil, Beeswax, Glycerin,2.5,OD
+8,UV-2600,Almond Oil, Gum,1.8,Abs
+```
+
+**Table 3: Viscosity Measurements**
+
+```plaintext
+Test ID,Instrument,Mixture,Viscosity,Unit
+9,VS-300,Coconut Oil, Gum, Vitamin E,5126.41,cP
+10,VS-300,Jojoba Oil, Beeswax, Vitamin E,3046.93,cP
+11,VS-300,Jojoba Oil, Beeswax, Glycerin,2822.44,cP
+```

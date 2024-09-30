@@ -1,0 +1,49 @@
+Certainly! Here are the tables extracted from the text in CSV format:
+
+### Table 1: Centrifuge Analysis
+
+```csv
+Report ID,Equipment,Mixture,RPM
+Report_2251,Centrifuge X100,Almond Oil, Beeswax, Vitamin E,8000
+Report_2251,Centrifuge X100,Coconut Oil, Cetyl Alcohol, Vitamin E,12000
+Report_2251,Centrifuge X100,Coconut Oil, Gum, Glycerin,9500
+Report_2251,Centrifuge X100,Jojoba Oil, Beeswax,11000
+```
+
+### Table 2: Titration Results
+
+```csv
+Report ID,Equipment,Mixture,Molarity (M)
+Report_2251,Titrator T-905,Jojoba Oil, Vitamin E,0.005
+Report_2251,Titrator T-905,Jojoba Oil, Beeswax, Glycerin,0.003
+Report_2251,Titrator T-905,Coconut Oil, Gum,0.008
+```
+
+### Table 3: Rheological Measurements
+
+```csv
+Report ID,Equipment,Mixture,Viscosity (Pa-s)
+Report_2251,Rheometer R-4500,Coconut Oil, Cetyl Alcohol,250
+Report_2251,Rheometer R-4500,Almond Oil, Beeswax, Vitamin E,150
+Report_2251,Rheometer R-4500,Coconut Oil, Gum, Glycerin,350
+```
+
+### Spectrometric Analysis
+
+```csv
+Report ID,Equipment,Mixture,Wavelength (nm)
+Report_2251,Spectrometer Alpha-300,Jojoba Oil, Beeswax,450
+Report_2251,Spectrometer Alpha-300,Jojoba Oil, Vitamin E,510
+Report_2251,Spectrometer Alpha-300,Coconut Oil, Gum,700
+```
+
+### Table 4: pH and Viscosity Data
+
+```csv
+Report ID,Equipment,Mixture,pH,Viscosity (cP)
+Report_2251,PH Meter PH-700,Coconut Oil, Cetyl Alcohol, Vitamin E,6.5,N/A
+Report_2251,PH Meter PH-700,Jojoba Oil, Beeswax, Glycerin,7.4,N/A
+Report_2251,Viscometer VS-300,Coconut Oil, Glycerin,N/A,5104.41
+Report_2251,Viscometer VS-300,Jojoba Oil, Gum, Vitamin E,N/A,2033.3
+Report_2251,Viscometer VS-300,Almond Oil, Cetyl Alcohol,N/A,7355.88
+```

@@ -1,0 +1,13 @@
+```
+"Instrument","Mixture","Measurement Value","Unit"
+"Microplate Reader MRX","A & J","3.2 & 3.9","OD"
+"Thermocycler TC-5000","B","78.5","°C"
+"X-Ray Diffractometer XRD-6000","C","120.5","°C"
+"Centrifuge X100","D","8500","RPM"
+"NMR Spectrometer NMR-500","E","14.7","ppm"
+"Ion Chromatograph IC-2100","F","55.3","mM"
+"Liquid Chromatograph LC-400","G","320.7","µg/mL"
+"FTIR Spectrometer FTIR-8400","H","1500","1/cm"
+"Gas Chromatograph GC-2010","I","450.2","ppm"
+"Viscometer VS-300","E & C","2596.03 & 5166.67","cP"
+```

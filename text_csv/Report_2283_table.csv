@@ -1,0 +1,23 @@
+Here are the tables extracted from the text in CSV format:
+
+**Table 1: Instrument Metrics and Samples**
+
+```plaintext
+Instrument,Sample Ingredients,Metric,Value,Unit
+FTIR Spectrometer FTIR-8400,"Almond Oil, Cetyl Alcohol, Vitamin E",Peak Frequency,950,1/cm
+Liquid Chromatograph LC-400,"Jojoba Oil, Gum",Concentration,50,µg/mL
+Microplate Reader MRX,"Coconut Oil, Gum, Glycerin",OD,2.1,
+pH Meter PH-700,"Coconut Oil, Beeswax, Vitamin E",pH,6.8,pH
+Titrator T-905,"Coconut Oil, Gum, Vitamin E",Molarity,0.005,M
+```
+
+**Table 2: Spectroscopy and Additional Parameters**
+
+```plaintext
+Instrument,Sample Ingredients,Metric,Value,Unit
+UV-Vis Spectrophotometer UV-2600,"Almond Oil, Vitamin E",Absorbance,1.2,Abs
+Four Ball FB-1000,"Jojoba Oil, Gum",Wear Scar Diameter,0.650,mm
+Centrifuge X100,"Coconut Oil, Beeswax, Vitamin E",Speed,7500,RPM
+Ion Chromatograph IC-2100,"Almond Oil, Cetyl Alcohol, Vitamin E",Concentration,0.025,mM
+Thermocycler TC-5000,"Coconut Oil, Gum, Glycerin",Temperature,37,°C
+```

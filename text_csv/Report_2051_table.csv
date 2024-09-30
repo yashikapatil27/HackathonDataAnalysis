@@ -1,0 +1,29 @@
+Here are the extracted tables in CSV format:
+
+**Table 1: Titration and Spectral Analysis**
+
+```csv
+Sample ID,Instrument,Ingredients,Measurement Type,Result,Unit
+Sample 1,Titrator T-905,Coconut Oil, Gum, Vitamin E,Molarity,9.532,M
+Sample 3,UV-Vis Spectrophotometer UV-2600,Almond Oil, Beeswax, Vitamin E,Absorbance,1.875,Abs
+Sample 4,X-Ray Diffractometer XRD-6000,Coconut Oil, Vitamin E,Crystallinity,57.4,C
+Sample 5,Spectrometer Alpha-300,Coconut Oil, Glycerin,Wavelength,320,nm
+Sample 6,Titrator T-905,Almond Oil, Cetyl Alcohol, Glycerin,Molarity,4.214,M
+Sample 8,UV-Vis Spectrophotometer UV-2600,Almond Oil, Vitamin E,Absorbance,2.563,Abs
+```
+
+**Table 2: Rheological Measurements**
+
+```csv
+Sample ID,Instrument,Ingredients,Viscosity (Pa-s)
+Sample 2,Rheometer R-4500,Jojoba Oil, Gum, Glycerin,345.2
+Sample 7,Rheometer R-4500,Jojoba Oil, Gum, Vitamin E,612.7
+```
+
+**Table 3: Viscosity Analysis**
+
+```csv
+Sample ID,Instrument,Ingredients,Viscosity (cP)
+Sample 9,Viscometer VS-300,Almond Oil, Glycerin,7526.29
+Sample 10,Viscometer VS-300,Coconut Oil, Cetyl Alcohol, Glycerin,5035.15
+```

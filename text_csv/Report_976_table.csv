@@ -1,0 +1,28 @@
+Certainly! Here are the extracted tables in CSV format:
+
+### Table 1: Gas Chromatography and Mass Spectrometry Data
+
+```csv
+Test ID,Instrument,Ingredients,Measurement,Unit
+976-a,GC-2010,"Jojoba Oil, Beeswax, Glycerin",235,ppm
+976-b,MS-20,"Jojoba Oil, Cetyl Alcohol, Vitamin E",855,m/z
+```
+
+### Table 2: Titration, FTIR, and Conductivity
+
+```csv
+Test ID,Instrument,Ingredients,Measurement,Unit
+976-c,T-905,"Jojoba Oil, Glycerin",0.003,M
+976-d,FTIR-8400,"Coconut Oil, Vitamin E",1500,1/cm
+976-e,CM-215,"Coconut Oil, Gum, Glycerin",1200,uS/cm
+```
+
+### Table 3: Mechanical and Rheological Properties
+
+```csv
+Test ID,Instrument,Ingredients,Measurement,Unit
+976-f,FB-1000,"Jojoba Oil, Gum",0.500,mm
+976-g,VS-300,"Almond Oil",7573.42,cP
+976-h,VS-300,"Jojoba Oil, Gum",1827.43,cP
+976-i,VS-300,"Almond Oil, Cetyl Alcohol, Vitamin E",7366.15,cP
+```
